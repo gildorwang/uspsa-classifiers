@@ -1,0 +1,3912 @@
+{
+ "generated_at": "2026-10-22T06:30:20+00:00",
+ "clubs": [
+  {
+   "code": "NW01",
+   "name": "Paul Bunyan Rifle & Sportsmen's Club (NW01)",
+   "url": "https://uspsa.org/classifiers-by-club?action=show&club=NW01",
+   "shots": [
+    {
+     "id": "24-01",
+     "date": "2026-09-16",
+     "match_url": "https://uspsa.org/match-results-details?index=72136"
+    },
+    {
+     "id": "25-05",
+     "date": "2026-09-13",
+     "match_url": "https://uspsa.org/match-results-details?index=72083"
+    },
+    {
+     "id": "03-08",
+     "date": "2026-09-02",
+     "match_url": "https://uspsa.org/match-results-details?index=71897"
+    },
+    {
+     "id": "99-08",
+     "date": "2026-08-19",
+     "match_url": "https://uspsa.org/match-results-details?index=71674"
+    },
+    {
+     "id": "22-01",
+     "date": "2026-08-16",
+     "match_url": "https://uspsa.org/match-results-details?index=71606"
+    },
+    {
+     "id": "25-08",
+     "date": "2026-08-16",
+     "match_url": "https://uspsa.org/match-results-details?index=71606"
+    },
+    {
+     "id": "22-04",
+     "date": "2026-08-16",
+     "match_url": "https://uspsa.org/match-results-details?index=71606"
+    },
+    {
+     "id": "25-07",
+     "date": "2026-08-16",
+     "match_url": "https://uspsa.org/match-results-details?index=71606"
+    },
+    {
+     "id": "20-02",
+     "date": "2026-08-16",
+     "match_url": "https://uspsa.org/match-results-details?index=71606"
+    },
+    {
+     "id": "24-06",
+     "date": "2026-08-16",
+     "match_url": "https://uspsa.org/match-results-details?index=71606"
+    },
+    {
+     "id": "25-04",
+     "date": "2026-07-20",
+     "match_url": "https://uspsa.org/match-results-details?index=71092"
+    },
+    {
+     "id": "99-62",
+     "date": "2026-07-12",
+     "match_url": "https://uspsa.org/match-results-details?index=70860"
+    },
+    {
+     "id": "25-09",
+     "date": "2026-07-08",
+     "match_url": "https://uspsa.org/match-results-details?index=70786"
+    },
+    {
+     "id": "25-09",
+     "date": "2026-06-14",
+     "match_url": "https://uspsa.org/match-results-details?index=70320"
+    },
+    {
+     "id": "99-46",
+     "date": "2026-06-03",
+     "match_url": "https://uspsa.org/match-results-details?index=70141"
+    },
+    {
+     "id": "25-05",
+     "date": "2026-05-20",
+     "match_url": "https://uspsa.org/match-results-details?index=69913"
+    },
+    {
+     "id": "25-02",
+     "date": "2026-05-10",
+     "match_url": "https://uspsa.org/match-results-details?index=69700"
+    },
+    {
+     "id": "25-07",
+     "date": "2026-05-06",
+     "match_url": "https://uspsa.org/match-results-details?index=69630"
+    },
+    {
+     "id": "20-01",
+     "date": "2026-04-22",
+     "match_url": "https://uspsa.org/match-results-details?index=69345"
+    },
+    {
+     "id": "18-09",
+     "date": "2026-04-12",
+     "match_url": "https://uspsa.org/match-results-details?index=69187"
+    },
+    {
+     "id": "13-02",
+     "date": "2026-04-08",
+     "match_url": "https://uspsa.org/match-results-details?index=69084"
+    },
+    {
+     "id": "99-08",
+     "date": "2026-03-17",
+     "match_url": "https://uspsa.org/match-results-details?index=68750"
+    },
+    {
+     "id": "03-18",
+     "date": "2026-03-08",
+     "match_url": "https://uspsa.org/match-results-details?index=68585"
+    },
+    {
+     "id": "25-08",
+     "date": "2026-02-08",
+     "match_url": "https://uspsa.org/match-results-details?index=68184"
+    },
+    {
+     "id": "25-09",
+     "date": "2026-01-11",
+     "match_url": "https://uspsa.org/match-results-details?index=67872"
+    },
+    {
+     "id": "22-04",
+     "date": "2025-11-09",
+     "match_url": "https://uspsa.org/match-results-details?index=67211"
+    },
+    {
+     "id": "99-08",
+     "date": "2025-09-16",
+     "match_url": "https://uspsa.org/match-results-details?index=66188"
+    },
+    {
+     "id": "03-08",
+     "date": "2025-09-14",
+     "match_url": "https://uspsa.org/match-results-details?index=66123"
+    },
+    {
+     "id": "99-46",
+     "date": "2025-09-02",
+     "match_url": "https://uspsa.org/match-results-details?index=65971"
+    },
+    {
+     "id": "25-08",
+     "date": "2025-08-20",
+     "match_url": "https://uspsa.org/match-results-details?index=65777"
+    },
+    {
+     "id": "99-08",
+     "date": "2025-08-20",
+     "match_url": "https://uspsa.org/match-results-details?index=65777"
+    },
+    {
+     "id": "13-04",
+     "date": "2025-08-06",
+     "match_url": "https://uspsa.org/match-results-details?index=65518"
+    },
+    {
+     "id": "22-06",
+     "date": "2025-07-16",
+     "match_url": "https://uspsa.org/match-results-details?index=65146"
+    },
+    {
+     "id": "13-06",
+     "date": "2025-07-13",
+     "match_url": "https://uspsa.org/match-results-details?index=65094"
+    },
+    {
+     "id": "20-03",
+     "date": "2025-07-02",
+     "match_url": "https://uspsa.org/match-results-details?index=64911"
+    },
+    {
+     "id": "22-04",
+     "date": "2025-06-08",
+     "match_url": "https://uspsa.org/match-results-details?index=64510"
+    },
+    {
+     "id": "24-04",
+     "date": "2025-06-01",
+     "match_url": "https://uspsa.org/match-results-details?index=64439"
+    },
+    {
+     "id": "24-01",
+     "date": "2025-05-20",
+     "match_url": "https://uspsa.org/match-results-details?index=64237"
+    },
+    {
+     "id": "08-02",
+     "date": "2025-05-11",
+     "match_url": "https://uspsa.org/match-results-details?index=64063"
+    },
+    {
+     "id": "13-04",
+     "date": "2025-05-07",
+     "match_url": "https://uspsa.org/match-results-details?index=63980"
+    },
+    {
+     "id": "23-02",
+     "date": "2025-04-16",
+     "match_url": "https://uspsa.org/match-results-details?index=63737"
+    },
+    {
+     "id": "19-01",
+     "date": "2025-04-13",
+     "match_url": "https://uspsa.org/match-results-details?index=63577"
+    },
+    {
+     "id": "09-01",
+     "date": "2025-04-02",
+     "match_url": "https://uspsa.org/match-results-details?index=63445"
+    },
+    {
+     "id": "09-01",
+     "date": "2025-02-09",
+     "match_url": "https://uspsa.org/match-results-details?index=62765"
+    },
+    {
+     "id": "18-06",
+     "date": "2025-01-12",
+     "match_url": "https://uspsa.org/match-results-details?index=62357"
+    },
+    {
+     "id": "03-18",
+     "date": "2024-11-10",
+     "match_url": "https://uspsa.org/match-results-details?index=61537"
+    },
+    {
+     "id": "09-09",
+     "date": "2024-09-30",
+     "match_url": "https://uspsa.org/match-results-details?index=60860"
+    },
+    {
+     "id": "99-02",
+     "date": "2024-09-17",
+     "match_url": "https://uspsa.org/match-results-details?index=60666"
+    },
+    {
+     "id": "18-03",
+     "date": "2024-09-08",
+     "match_url": "https://uspsa.org/match-results-details?index=60508"
+    },
+    {
+     "id": "99-40",
+     "date": "2024-08-30",
+     "match_url": "https://uspsa.org/match-results-details?index=60444"
+    },
+    {
+     "id": "24-04",
+     "date": "2024-08-19",
+     "match_url": "https://uspsa.org/match-results-details?index=60187"
+    },
+    {
+     "id": "24-09",
+     "date": "2024-08-06",
+     "match_url": "https://uspsa.org/match-results-details?index=59860"
+    },
+    {
+     "id": "99-57",
+     "date": "2024-07-16",
+     "match_url": "https://uspsa.org/match-results-details?index=59484"
+    },
+    {
+     "id": "24-05",
+     "date": "2024-07-14",
+     "match_url": "https://uspsa.org/match-results-details?index=59520"
+    },
+    {
+     "id": "99-14",
+     "date": "2024-07-02",
+     "match_url": "https://uspsa.org/match-results-details?index=59367"
+    },
+    {
+     "id": "22-06",
+     "date": "2024-06-09",
+     "match_url": "https://uspsa.org/match-results-details?index=58891"
+    },
+    {
+     "id": "23-02",
+     "date": "2024-06-03",
+     "match_url": "https://uspsa.org/match-results-details?index=58805"
+    },
+    {
+     "id": "18-01",
+     "date": "2024-05-21",
+     "match_url": "https://uspsa.org/match-results-details?index=58597"
+    },
+    {
+     "id": "03-05",
+     "date": "2024-05-12",
+     "match_url": "https://uspsa.org/match-results-details?index=58588"
+    },
+    {
+     "id": "18-05",
+     "date": "2024-05-06",
+     "match_url": "https://uspsa.org/match-results-details?index=58318"
+    },
+    {
+     "id": "24-01",
+     "date": "2024-04-14",
+     "match_url": "https://uspsa.org/match-results-details?index=58008"
+    },
+    {
+     "id": "22-06",
+     "date": "2024-04-01",
+     "match_url": "https://uspsa.org/match-results-details?index=57878"
+    },
+    {
+     "id": "23-01",
+     "date": "2024-03-10",
+     "match_url": "https://uspsa.org/match-results-details?index=57603"
+    },
+    {
+     "id": "22-04",
+     "date": "2024-02-11",
+     "match_url": "https://uspsa.org/match-results-details?index=57270"
+    },
+    {
+     "id": "99-08",
+     "date": "2024-01-14",
+     "match_url": "https://uspsa.org/match-results-details?index=56998"
+    },
+    {
+     "id": "18-06",
+     "date": "2023-11-12",
+     "match_url": "https://uspsa.org/match-results-details?index=56224"
+    },
+    {
+     "id": "99-12",
+     "date": "2023-10-03",
+     "match_url": "https://uspsa.org/match-results-details?index=55557"
+    },
+    {
+     "id": "06-04",
+     "date": "2023-09-19",
+     "match_url": "https://uspsa.org/match-results-details?index=55343"
+    },
+    {
+     "id": "22-06",
+     "date": "2023-09-10",
+     "match_url": "https://uspsa.org/match-results-details?index=55166"
+    },
+    {
+     "id": "08-03",
+     "date": "2023-09-05",
+     "match_url": "https://uspsa.org/match-results-details?index=55109"
+    },
+    {
+     "id": "13-01",
+     "date": "2023-08-15",
+     "match_url": "https://uspsa.org/match-results-details?index=54709"
+    },
+    {
+     "id": "03-09",
+     "date": "2023-07-31",
+     "match_url": "https://uspsa.org/match-results-details?index=54457"
+    },
+    {
+     "id": "03-05",
+     "date": "2023-07-25",
+     "match_url": "https://uspsa.org/match-results-details?index=54372"
+    },
+    {
+     "id": "99-48",
+     "date": "2023-07-11",
+     "match_url": "https://uspsa.org/match-results-details?index=54107"
+    },
+    {
+     "id": "03-04",
+     "date": "2023-07-09",
+     "match_url": "https://uspsa.org/match-results-details?index=54028"
+    },
+    {
+     "id": "09-02",
+     "date": "2023-06-11",
+     "match_url": "https://uspsa.org/match-results-details?index=53508"
+    },
+    {
+     "id": "99-19",
+     "date": "2023-06-06",
+     "match_url": "https://uspsa.org/match-results-details?index=53437"
+    },
+    {
+     "id": "22-01",
+     "date": "2023-05-16",
+     "match_url": "https://uspsa.org/match-results-details?index=53022"
+    },
+    {
+     "id": "22-05",
+     "date": "2023-05-14",
+     "match_url": "https://uspsa.org/match-results-details?index=52999"
+    },
+    {
+     "id": "22-04",
+     "date": "2023-05-02",
+     "match_url": "https://uspsa.org/match-results-details?index=52744"
+    },
+    {
+     "id": "22-06",
+     "date": "2023-04-04",
+     "match_url": "https://uspsa.org/match-results-details?index=52286"
+    },
+    {
+     "id": "19-04",
+     "date": "2023-03-21",
+     "match_url": "https://uspsa.org/match-results-details?index=52045"
+    },
+    {
+     "id": "18-02",
+     "date": "2023-03-12",
+     "match_url": "https://uspsa.org/match-results-details?index=51955"
+    },
+    {
+     "id": "22-05",
+     "date": "2023-02-12",
+     "match_url": "https://uspsa.org/match-results-details?index=51485"
+    },
+    {
+     "id": "22-06",
+     "date": "2023-01-08",
+     "match_url": "https://uspsa.org/match-results-details?index=51072"
+    },
+    {
+     "id": "09-09",
+     "date": "2022-11-13",
+     "match_url": "https://uspsa.org/match-results-details?index=50493"
+    },
+    {
+     "id": "19-01",
+     "date": "2022-10-09",
+     "match_url": "https://uspsa.org/match-results-details?index=49840"
+    },
+    {
+     "id": "19-02",
+     "date": "2022-10-09",
+     "match_url": "https://uspsa.org/match-results-details?index=49840"
+    },
+    {
+     "id": "22-04",
+     "date": "2022-10-09",
+     "match_url": "https://uspsa.org/match-results-details?index=49840"
+    },
+    {
+     "id": "18-09",
+     "date": "2022-10-09",
+     "match_url": "https://uspsa.org/match-results-details?index=49840"
+    },
+    {
+     "id": "19-03",
+     "date": "2022-10-09",
+     "match_url": "https://uspsa.org/match-results-details?index=49840"
+    },
+    {
+     "id": "03-05",
+     "date": "2022-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=49757"
+    },
+    {
+     "id": "03-03",
+     "date": "2022-09-20",
+     "match_url": "https://uspsa.org/match-results-details?index=49515"
+    },
+    {
+     "id": "03-07",
+     "date": "2022-09-06",
+     "match_url": "https://uspsa.org/match-results-details?index=49265"
+    },
+    {
+     "id": "99-57",
+     "date": "2022-08-16",
+     "match_url": "https://uspsa.org/match-results-details?index=48877"
+    },
+    {
+     "id": "09-04",
+     "date": "2022-08-14",
+     "match_url": "https://uspsa.org/match-results-details?index=48815"
+    },
+    {
+     "id": "22-05",
+     "date": "2022-08-02",
+     "match_url": "https://uspsa.org/match-results-details?index=48651"
+    },
+    {
+     "id": "99-14",
+     "date": "2022-07-19",
+     "match_url": "https://uspsa.org/match-results-details?index=48501"
+    },
+    {
+     "id": "99-13",
+     "date": "2022-07-10",
+     "match_url": "https://uspsa.org/match-results-details?index=48186"
+    },
+    {
+     "id": "08-02",
+     "date": "2022-07-05",
+     "match_url": "https://uspsa.org/match-results-details?index=48105"
+    },
+    {
+     "id": "21-01",
+     "date": "2022-06-22",
+     "match_url": "https://uspsa.org/match-results-details?index=47875"
+    },
+    {
+     "id": "06-05",
+     "date": "2022-06-12",
+     "match_url": "https://uspsa.org/match-results-details?index=47689"
+    },
+    {
+     "id": "19-04",
+     "date": "2022-06-08",
+     "match_url": "https://uspsa.org/match-results-details?index=47621"
+    },
+    {
+     "id": "99-11",
+     "date": "2022-05-17",
+     "match_url": "https://uspsa.org/match-results-details?index=47216"
+    },
+    {
+     "id": "19-03",
+     "date": "2022-05-08",
+     "match_url": "https://uspsa.org/match-results-details?index=47013"
+    },
+    {
+     "id": "13-01",
+     "date": "2022-05-03",
+     "match_url": "https://uspsa.org/match-results-details?index=46948"
+    },
+    {
+     "id": "09-09",
+     "date": "2022-04-18",
+     "match_url": "https://uspsa.org/match-results-details?index=46725"
+    },
+    {
+     "id": "99-63",
+     "date": "2022-04-10",
+     "match_url": "https://uspsa.org/match-results-details?index=46592"
+    },
+    {
+     "id": "18-06",
+     "date": "2022-04-05",
+     "match_url": "https://uspsa.org/match-results-details?index=46495"
+    },
+    {
+     "id": "03-02",
+     "date": "2022-03-29",
+     "match_url": "https://uspsa.org/match-results-details?index=46320"
+    },
+    {
+     "id": "99-62",
+     "date": "2022-03-15",
+     "match_url": "https://uspsa.org/match-results-details?index=46118"
+    },
+    {
+     "id": "18-09",
+     "date": "2022-03-13",
+     "match_url": "https://uspsa.org/match-results-details?index=46063"
+    },
+    {
+     "id": "18-06",
+     "date": "2022-02-13",
+     "match_url": "https://uspsa.org/match-results-details?index=45631"
+    },
+    {
+     "id": "18-06",
+     "date": "2022-02-12",
+     "match_url": "https://uspsa.org/match-results-details?index=45685"
+    },
+    {
+     "id": "99-47",
+     "date": "2022-01-09",
+     "match_url": "https://uspsa.org/match-results-details?index=45197"
+    },
+    {
+     "id": "09-01",
+     "date": "2021-11-14",
+     "match_url": "https://uspsa.org/match-results-details?index=44469"
+    },
+    {
+     "id": "99-48",
+     "date": "2021-10-10",
+     "match_url": "https://uspsa.org/match-results-details?index=43903"
+    },
+    {
+     "id": "99-62",
+     "date": "2021-10-05",
+     "match_url": "https://uspsa.org/match-results-details?index=43848"
+    },
+    {
+     "id": "19-03",
+     "date": "2021-09-12",
+     "match_url": "https://uspsa.org/match-results-details?index=43408"
+    },
+    {
+     "id": "19-01",
+     "date": "2021-08-17",
+     "match_url": "https://uspsa.org/match-results-details?index=42974"
+    },
+    {
+     "id": "18-04",
+     "date": "2021-08-04",
+     "match_url": "https://uspsa.org/match-results-details?index=42939"
+    },
+    {
+     "id": "18-05",
+     "date": "2021-08-04",
+     "match_url": "https://uspsa.org/match-results-details?index=42939"
+    },
+    {
+     "id": "18-06",
+     "date": "2021-07-21",
+     "match_url": "https://uspsa.org/match-results-details?index=42465"
+    },
+    {
+     "id": "19-03",
+     "date": "2021-07-11",
+     "match_url": "https://uspsa.org/match-results-details?index=42247"
+    },
+    {
+     "id": "18-09",
+     "date": "2021-07-06",
+     "match_url": "https://uspsa.org/match-results-details?index=42161"
+    },
+    {
+     "id": "99-46",
+     "date": "2021-06-13",
+     "match_url": "https://uspsa.org/match-results-details?index=41729"
+    },
+    {
+     "id": "03-03",
+     "date": "2021-06-01",
+     "match_url": "https://uspsa.org/match-results-details?index=41496"
+    },
+    {
+     "id": "03-05",
+     "date": "2021-05-18",
+     "match_url": "https://uspsa.org/match-results-details?index=41335"
+    },
+    {
+     "id": "99-11",
+     "date": "2021-05-09",
+     "match_url": "https://uspsa.org/match-results-details?index=41138"
+    },
+    {
+     "id": "13-08",
+     "date": "2021-05-05",
+     "match_url": "https://uspsa.org/match-results-details?index=41067"
+    },
+    {
+     "id": "09-04",
+     "date": "2021-04-20",
+     "match_url": "https://uspsa.org/match-results-details?index=40804"
+    },
+    {
+     "id": "03-18",
+     "date": "2021-04-11",
+     "match_url": "https://uspsa.org/match-results-details?index=40617"
+    },
+    {
+     "id": "13-06",
+     "date": "2021-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=40563"
+    },
+    {
+     "id": "09-01",
+     "date": "2021-03-16",
+     "match_url": "https://uspsa.org/match-results-details?index=40240"
+    },
+    {
+     "id": "18-06",
+     "date": "2021-03-14",
+     "match_url": "https://uspsa.org/match-results-details?index=40188"
+    },
+    {
+     "id": "19-01",
+     "date": "2021-02-14",
+     "match_url": "https://uspsa.org/match-results-details?index=39881"
+    },
+    {
+     "id": "20-02",
+     "date": "2021-01-10",
+     "match_url": "https://uspsa.org/match-results-details?index=39511"
+    },
+    {
+     "id": "20-01",
+     "date": "2020-11-08",
+     "match_url": "https://uspsa.org/match-results-details?index=38729"
+    },
+    {
+     "id": "09-02",
+     "date": "2020-09-15",
+     "match_url": "https://uspsa.org/match-results-details?index=37870"
+    },
+    {
+     "id": "18-07",
+     "date": "2020-09-13",
+     "match_url": "https://uspsa.org/match-results-details?index=37865"
+    },
+    {
+     "id": "18-07",
+     "date": "2020-09-01",
+     "match_url": "https://uspsa.org/match-results-details?index=37657"
+    },
+    {
+     "id": "08-01",
+     "date": "2020-08-18",
+     "match_url": "https://uspsa.org/match-results-details?index=37428"
+    },
+    {
+     "id": "18-06",
+     "date": "2020-08-09",
+     "match_url": "https://uspsa.org/match-results-details?index=37241"
+    },
+    {
+     "id": "13-04",
+     "date": "2020-08-04",
+     "match_url": "https://uspsa.org/match-results-details?index=37167"
+    },
+    {
+     "id": "18-05",
+     "date": "2020-07-21",
+     "match_url": "https://uspsa.org/match-results-details?index=36923"
+    },
+    {
+     "id": "03-14",
+     "date": "2020-07-11",
+     "match_url": "https://uspsa.org/match-results-details?index=36955"
+    },
+    {
+     "id": "19-01",
+     "date": "2020-07-07",
+     "match_url": "https://uspsa.org/match-results-details?index=36632"
+    },
+    {
+     "id": "13-04",
+     "date": "2020-06-23",
+     "match_url": "https://uspsa.org/match-results-details?index=36413"
+    },
+    {
+     "id": "99-62",
+     "date": "2020-03-17",
+     "match_url": "https://uspsa.org/match-results-details?index=35794"
+    },
+    {
+     "id": "19-04",
+     "date": "2020-03-08",
+     "match_url": "https://uspsa.org/match-results-details?index=35652"
+    },
+    {
+     "id": "19-02",
+     "date": "2020-02-09",
+     "match_url": "https://uspsa.org/match-results-details?index=35240"
+    },
+    {
+     "id": "13-01",
+     "date": "2019-11-10",
+     "match_url": "https://uspsa.org/match-results-details?index=34184"
+    },
+    {
+     "id": "18-02",
+     "date": "2019-10-13",
+     "match_url": "https://uspsa.org/match-results-details?index=33713"
+    },
+    {
+     "id": "13-06",
+     "date": "2019-09-17",
+     "match_url": "https://uspsa.org/match-results-details?index=33370"
+    },
+    {
+     "id": "18-01",
+     "date": "2019-09-08",
+     "match_url": "https://uspsa.org/match-results-details?index=33214"
+    },
+    {
+     "id": "99-48",
+     "date": "2019-08-20",
+     "match_url": "https://uspsa.org/match-results-details?index=32988"
+    },
+    {
+     "id": "09-01",
+     "date": "2019-08-06",
+     "match_url": "https://uspsa.org/match-results-details?index=32682"
+    },
+    {
+     "id": "18-06",
+     "date": "2019-07-16",
+     "match_url": "https://uspsa.org/match-results-details?index=32333"
+    },
+    {
+     "id": "06-10",
+     "date": "2019-06-18",
+     "match_url": "https://uspsa.org/match-results-details?index=31908"
+    },
+    {
+     "id": "03-02",
+     "date": "2019-06-09",
+     "match_url": "https://uspsa.org/match-results-details?index=32021"
+    },
+    {
+     "id": "18-08",
+     "date": "2019-06-05",
+     "match_url": "https://uspsa.org/match-results-details?index=31707"
+    },
+    {
+     "id": "99-62",
+     "date": "2019-05-21",
+     "match_url": "https://uspsa.org/match-results-details?index=31450"
+    },
+    {
+     "id": "18-03",
+     "date": "2019-05-12",
+     "match_url": "https://uspsa.org/match-results-details?index=31283"
+    },
+    {
+     "id": "03-11",
+     "date": "2019-05-11",
+     "match_url": "https://uspsa.org/match-results-details?index=31282"
+    },
+    {
+     "id": "18-04",
+     "date": "2019-05-08",
+     "match_url": "https://uspsa.org/match-results-details?index=31449"
+    },
+    {
+     "id": "18-07",
+     "date": "2019-04-16",
+     "match_url": "https://uspsa.org/match-results-details?index=30887"
+    },
+    {
+     "id": "18-06",
+     "date": "2019-04-14",
+     "match_url": "https://uspsa.org/match-results-details?index=30837"
+    },
+    {
+     "id": "18-06",
+     "date": "2019-04-13",
+     "match_url": "https://uspsa.org/match-results-details?index=30836"
+    },
+    {
+     "id": "18-04",
+     "date": "2019-04-02",
+     "match_url": "https://uspsa.org/match-results-details?index=30665"
+    },
+    {
+     "id": "99-11",
+     "date": "2019-03-20",
+     "match_url": "https://uspsa.org/match-results-details?index=30506"
+    },
+    {
+     "id": "03-07",
+     "date": "2019-03-10",
+     "match_url": "https://uspsa.org/match-results-details?index=30373"
+    },
+    {
+     "id": "99-11",
+     "date": "2019-02-16",
+     "match_url": "https://uspsa.org/match-results-details?index=30127"
+    },
+    {
+     "id": "18-09",
+     "date": "2019-01-13",
+     "match_url": "https://uspsa.org/match-results-details?index=29717"
+    },
+    {
+     "id": "08-03",
+     "date": "2018-11-11",
+     "match_url": "https://uspsa.org/match-results-details?index=29059"
+    },
+    {
+     "id": "99-63",
+     "date": "2018-10-14",
+     "match_url": "https://uspsa.org/match-results-details?index=28680"
+    },
+    {
+     "id": "13-03",
+     "date": "2018-09-18",
+     "match_url": "https://uspsa.org/match-results-details?index=28345"
+    },
+    {
+     "id": "99-11",
+     "date": "2018-09-08",
+     "match_url": "https://uspsa.org/match-results-details?index=28202"
+    },
+    {
+     "id": "03-11",
+     "date": "2018-09-04",
+     "match_url": "https://uspsa.org/match-results-details?index=28137"
+    },
+    {
+     "id": "06-05",
+     "date": "2018-08-21",
+     "match_url": "https://uspsa.org/match-results-details?index=27933"
+    },
+    {
+     "id": "06-03",
+     "date": "2018-08-11",
+     "match_url": "https://uspsa.org/match-results-details?index=27741"
+    },
+    {
+     "id": "03-09",
+     "date": "2018-08-07",
+     "match_url": "https://uspsa.org/match-results-details?index=27670"
+    },
+    {
+     "id": "09-14",
+     "date": "2018-07-17",
+     "match_url": "https://uspsa.org/match-results-details?index=27360"
+    },
+    {
+     "id": "99-48",
+     "date": "2018-07-07",
+     "match_url": "https://uspsa.org/match-results-details?index=27207"
+    },
+    {
+     "id": "03-03",
+     "date": "2018-07-03",
+     "match_url": "https://uspsa.org/match-results-details?index=27130"
+    },
+    {
+     "id": "03-08",
+     "date": "2018-06-20",
+     "match_url": "https://uspsa.org/match-results-details?index=26901"
+    },
+    {
+     "id": "09-09",
+     "date": "2018-06-09",
+     "match_url": "https://uspsa.org/match-results-details?index=26734"
+    },
+    {
+     "id": "13-07",
+     "date": "2018-06-06",
+     "match_url": "https://uspsa.org/match-results-details?index=26669"
+    },
+    {
+     "id": "13-08",
+     "date": "2018-05-16",
+     "match_url": "https://uspsa.org/match-results-details?index=26721"
+    },
+    {
+     "id": "99-14",
+     "date": "2018-05-12",
+     "match_url": "https://uspsa.org/match-results-details?index=26285"
+    },
+    {
+     "id": "09-07",
+     "date": "2018-05-02",
+     "match_url": "https://uspsa.org/match-results-details?index=26097"
+    },
+    {
+     "id": "99-21",
+     "date": "2018-04-29",
+     "match_url": "https://uspsa.org/match-results-details?index=26045"
+    },
+    {
+     "id": "99-62",
+     "date": "2018-04-29",
+     "match_url": "https://uspsa.org/match-results-details?index=26045"
+    },
+    {
+     "id": "06-08",
+     "date": "2018-04-17",
+     "match_url": "https://uspsa.org/match-results-details?index=25858"
+    },
+    {
+     "id": "99-12",
+     "date": "2018-04-07",
+     "match_url": "https://uspsa.org/match-results-details?index=25706"
+    },
+    {
+     "id": "06-10",
+     "date": "2018-04-07",
+     "match_url": "https://uspsa.org/match-results-details?index=25706"
+    },
+    {
+     "id": "99-22",
+     "date": "2018-04-07",
+     "match_url": "https://uspsa.org/match-results-details?index=25706"
+    },
+    {
+     "id": "99-62",
+     "date": "2018-04-07",
+     "match_url": "https://uspsa.org/match-results-details?index=25706"
+    },
+    {
+     "id": "99-10",
+     "date": "2018-04-07",
+     "match_url": "https://uspsa.org/match-results-details?index=25706"
+    },
+    {
+     "id": "99-11",
+     "date": "2018-04-04",
+     "match_url": "https://uspsa.org/match-results-details?index=25659"
+    },
+    {
+     "id": "99-56",
+     "date": "2018-03-11",
+     "match_url": "https://uspsa.org/match-results-details?index=25318"
+    },
+    {
+     "id": "99-33",
+     "date": "2018-02-11",
+     "match_url": "https://uspsa.org/match-results-details?index=24915"
+    },
+    {
+     "id": "99-41",
+     "date": "2018-01-14",
+     "match_url": "https://uspsa.org/match-results-details?index=24584"
+    },
+    {
+     "id": "03-05",
+     "date": "2017-11-12",
+     "match_url": "https://uspsa.org/match-results-details?index=23902"
+    },
+    {
+     "id": "99-41",
+     "date": "2017-10-08",
+     "match_url": "https://uspsa.org/match-results-details?index=23422"
+    },
+    {
+     "id": "08-03",
+     "date": "2017-09-19",
+     "match_url": "https://uspsa.org/match-results-details?index=23198"
+    },
+    {
+     "id": "03-18",
+     "date": "2017-09-12",
+     "match_url": "https://uspsa.org/match-results-details?index=23090"
+    },
+    {
+     "id": "99-02",
+     "date": "2017-09-09",
+     "match_url": "https://uspsa.org/match-results-details?index=23042"
+    },
+    {
+     "id": "06-05",
+     "date": "2017-08-15",
+     "match_url": "https://uspsa.org/match-results-details?index=22674"
+    },
+    {
+     "id": "13-05",
+     "date": "2017-08-13",
+     "match_url": "https://uspsa.org/match-results-details?index=22597"
+    },
+    {
+     "id": "06-03",
+     "date": "2017-08-01",
+     "match_url": "https://uspsa.org/match-results-details?index=22445"
+    },
+    {
+     "id": "06-04",
+     "date": "2017-07-18",
+     "match_url": "https://uspsa.org/match-results-details?index=22277"
+    },
+    {
+     "id": "03-09",
+     "date": "2017-07-09",
+     "match_url": "https://uspsa.org/match-results-details?index=22092"
+    },
+    {
+     "id": "06-07",
+     "date": "2017-06-20",
+     "match_url": "https://uspsa.org/match-results-details?index=21791"
+    },
+    {
+     "id": "99-59",
+     "date": "2017-06-11",
+     "match_url": "https://uspsa.org/match-results-details?index=21663"
+    },
+    {
+     "id": "03-03",
+     "date": "2017-06-06",
+     "match_url": "https://uspsa.org/match-results-details?index=21548"
+    },
+    {
+     "id": "03-05",
+     "date": "2017-05-16",
+     "match_url": "https://uspsa.org/match-results-details?index=21231"
+    },
+    {
+     "id": "03-04",
+     "date": "2017-05-14",
+     "match_url": "https://uspsa.org/match-results-details?index=21179"
+    },
+    {
+     "id": "03-18",
+     "date": "2017-05-14",
+     "match_url": "https://uspsa.org/match-results-details?index=21179"
+    },
+    {
+     "id": "99-57",
+     "date": "2017-05-14",
+     "match_url": "https://uspsa.org/match-results-details?index=21179"
+    },
+    {
+     "id": "99-34",
+     "date": "2017-05-14",
+     "match_url": "https://uspsa.org/match-results-details?index=21179"
+    },
+    {
+     "id": "03-10",
+     "date": "2017-05-14",
+     "match_url": "https://uspsa.org/match-results-details?index=21179"
+    },
+    {
+     "id": "03-05",
+     "date": "2017-05-02",
+     "match_url": "https://uspsa.org/match-results-details?index=21034"
+    },
+    {
+     "id": "13-04",
+     "date": "2017-04-18",
+     "match_url": "https://uspsa.org/match-results-details?index=20882"
+    },
+    {
+     "id": "03-14",
+     "date": "2017-04-09",
+     "match_url": "https://uspsa.org/match-results-details?index=20752"
+    },
+    {
+     "id": "06-05",
+     "date": "2017-03-12",
+     "match_url": "https://uspsa.org/match-results-details?index=20398"
+    },
+    {
+     "id": "09-04",
+     "date": "2017-03-12",
+     "match_url": "https://uspsa.org/match-results-details?index=20398"
+    },
+    {
+     "id": "99-48",
+     "date": "2017-02-12",
+     "match_url": "https://uspsa.org/match-results-details?index=20083"
+    },
+    {
+     "id": "09-04",
+     "date": "2017-01-08",
+     "match_url": "https://uspsa.org/match-results-details?index=19764"
+    },
+    {
+     "id": "08-02",
+     "date": "2016-11-13",
+     "match_url": "https://uspsa.org/match-results-details?index=19273"
+    },
+    {
+     "id": "13-02",
+     "date": "2016-10-09",
+     "match_url": "https://uspsa.org/match-results-details?index=18877"
+    },
+    {
+     "id": "13-06",
+     "date": "2016-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=18918"
+    },
+    {
+     "id": "06-10",
+     "date": "2016-09-20",
+     "match_url": "https://uspsa.org/match-results-details?index=18599"
+    },
+    {
+     "id": "09-09",
+     "date": "2016-09-06",
+     "match_url": "https://uspsa.org/match-results-details?index=18396"
+    }
+   ]
+  },
+  {
+   "code": "NW02",
+   "name": "Marysville Rifle Club Practical Shooters (NW02)",
+   "url": "https://uspsa.org/classifiers-by-club?action=show&club=NW02",
+   "shots": [
+    {
+     "id": "03-05",
+     "date": "2026-09-20",
+     "match_url": "https://uspsa.org/match-results-details?index=72252"
+    },
+    {
+     "id": "20-02",
+     "date": "2026-08-16",
+     "match_url": "https://uspsa.org/match-results-details?index=71668"
+    },
+    {
+     "id": "26-03",
+     "date": "2026-06-21",
+     "match_url": "https://uspsa.org/match-results-details?index=70518"
+    },
+    {
+     "id": "06-10",
+     "date": "2026-05-17",
+     "match_url": "https://uspsa.org/match-results-details?index=69900"
+    },
+    {
+     "id": "13-05",
+     "date": "2026-04-19",
+     "match_url": "https://uspsa.org/match-results-details?index=69318"
+    },
+    {
+     "id": "25-09",
+     "date": "2026-03-15",
+     "match_url": "https://uspsa.org/match-results-details?index=68729"
+    },
+    {
+     "id": "99-08",
+     "date": "2026-02-15",
+     "match_url": "https://uspsa.org/match-results-details?index=68460"
+    },
+    {
+     "id": "99-13",
+     "date": "2025-11-16",
+     "match_url": "https://uspsa.org/match-results-details?index=67242"
+    },
+    {
+     "id": "24-04",
+     "date": "2025-10-19",
+     "match_url": "https://uspsa.org/match-results-details?index=66803"
+    },
+    {
+     "id": "25-04",
+     "date": "2025-09-21",
+     "match_url": "https://uspsa.org/match-results-details?index=66349"
+    },
+    {
+     "id": "25-03",
+     "date": "2025-08-17",
+     "match_url": "https://uspsa.org/match-results-details?index=65793"
+    },
+    {
+     "id": "25-09",
+     "date": "2025-08-17",
+     "match_url": "https://uspsa.org/match-results-details?index=65793"
+    },
+    {
+     "id": "13-04",
+     "date": "2025-06-15",
+     "match_url": "https://uspsa.org/match-results-details?index=64680"
+    },
+    {
+     "id": "18-09",
+     "date": "2025-05-18",
+     "match_url": "https://uspsa.org/match-results-details?index=64232"
+    },
+    {
+     "id": "22-04",
+     "date": "2025-04-20",
+     "match_url": "https://uspsa.org/match-results-details?index=63747"
+    },
+    {
+     "id": "09-01",
+     "date": "2025-03-16",
+     "match_url": "https://uspsa.org/match-results-details?index=63257"
+    },
+    {
+     "id": "18-03",
+     "date": "2024-11-17",
+     "match_url": "https://uspsa.org/match-results-details?index=61773"
+    },
+    {
+     "id": "18-07",
+     "date": "2024-09-15",
+     "match_url": "https://uspsa.org/match-results-details?index=60762"
+    },
+    {
+     "id": "99-51",
+     "date": "2024-07-21",
+     "match_url": "https://uspsa.org/match-results-details?index=59570"
+    },
+    {
+     "id": "03-08",
+     "date": "2024-06-16",
+     "match_url": "https://uspsa.org/match-results-details?index=59045"
+    },
+    {
+     "id": "99-11",
+     "date": "2024-06-16",
+     "match_url": "https://uspsa.org/match-results-details?index=59045"
+    },
+    {
+     "id": "24-09",
+     "date": "2024-05-19",
+     "match_url": "https://uspsa.org/match-results-details?index=58550"
+    },
+    {
+     "id": "18-08",
+     "date": "2024-05-19",
+     "match_url": "https://uspsa.org/match-results-details?index=58550"
+    },
+    {
+     "id": "22-07",
+     "date": "2024-04-21",
+     "match_url": "https://uspsa.org/match-results-details?index=58300"
+    },
+    {
+     "id": "06-03",
+     "date": "2024-03-17",
+     "match_url": "https://uspsa.org/match-results-details?index=57771"
+    },
+    {
+     "id": "23-02",
+     "date": "2024-02-18",
+     "match_url": "https://uspsa.org/match-results-details?index=57284"
+    },
+    {
+     "id": "06-10",
+     "date": "2023-11-19",
+     "match_url": "https://uspsa.org/match-results-details?index=56414"
+    },
+    {
+     "id": "03-05",
+     "date": "2023-11-19",
+     "match_url": "https://uspsa.org/match-results-details?index=56414"
+    },
+    {
+     "id": "13-04",
+     "date": "2023-10-15",
+     "match_url": "https://uspsa.org/match-results-details?index=55965"
+    },
+    {
+     "id": "18-09",
+     "date": "2023-09-17",
+     "match_url": "https://uspsa.org/match-results-details?index=55427"
+    },
+    {
+     "id": "99-24",
+     "date": "2023-07-15",
+     "match_url": "https://uspsa.org/match-results-details?index=54215"
+    },
+    {
+     "id": "99-40",
+     "date": "2023-06-18",
+     "match_url": "https://uspsa.org/match-results-details?index=53667"
+    },
+    {
+     "id": "03-07",
+     "date": "2023-05-21",
+     "match_url": "https://uspsa.org/match-results-details?index=53272"
+    },
+    {
+     "id": "03-12",
+     "date": "2023-04-16",
+     "match_url": "https://uspsa.org/match-results-details?index=52465"
+    },
+    {
+     "id": "03-09",
+     "date": "2023-03-19",
+     "match_url": "https://uspsa.org/match-results-details?index=52000"
+    },
+    {
+     "id": "03-04",
+     "date": "2023-02-19",
+     "match_url": "https://uspsa.org/match-results-details?index=51715"
+    },
+    {
+     "id": "22-05",
+     "date": "2022-09-18",
+     "match_url": "https://uspsa.org/match-results-details?index=49734"
+    },
+    {
+     "id": "22-04",
+     "date": "2022-09-18",
+     "match_url": "https://uspsa.org/match-results-details?index=49734"
+    },
+    {
+     "id": "20-01",
+     "date": "2022-09-18",
+     "match_url": "https://uspsa.org/match-results-details?index=49734"
+    },
+    {
+     "id": "06-06",
+     "date": "2022-08-21",
+     "match_url": "https://uspsa.org/match-results-details?index=48993"
+    },
+    {
+     "id": "13-05",
+     "date": "2022-07-17",
+     "match_url": "https://uspsa.org/match-results-details?index=48364"
+    },
+    {
+     "id": "06-02",
+     "date": "2022-06-19",
+     "match_url": "https://uspsa.org/match-results-details?index=47836"
+    },
+    {
+     "id": "03-12",
+     "date": "2022-04-16",
+     "match_url": "https://uspsa.org/match-results-details?index=46679"
+    },
+    {
+     "id": "99-56",
+     "date": "2022-03-20",
+     "match_url": "https://uspsa.org/match-results-details?index=46302"
+    },
+    {
+     "id": "06-10",
+     "date": "2022-02-19",
+     "match_url": "https://uspsa.org/match-results-details?index=45751"
+    },
+    {
+     "id": "03-05",
+     "date": "2021-11-20",
+     "match_url": "https://uspsa.org/match-results-details?index=44678"
+    },
+    {
+     "id": "03-14",
+     "date": "2021-10-16",
+     "match_url": "https://uspsa.org/match-results-details?index=44254"
+    },
+    {
+     "id": "18-08",
+     "date": "2021-09-19",
+     "match_url": "https://uspsa.org/match-results-details?index=43555"
+    },
+    {
+     "id": "06-03",
+     "date": "2021-08-15",
+     "match_url": "https://uspsa.org/match-results-details?index=42952"
+    },
+    {
+     "id": "19-01",
+     "date": "2021-07-18",
+     "match_url": "https://uspsa.org/match-results-details?index=42413"
+    },
+    {
+     "id": "18-04",
+     "date": "2021-06-20",
+     "match_url": "https://uspsa.org/match-results-details?index=41915"
+    },
+    {
+     "id": "18-03",
+     "date": "2021-04-18",
+     "match_url": "https://uspsa.org/match-results-details?index=40763"
+    },
+    {
+     "id": "13-08",
+     "date": "2021-03-21",
+     "match_url": "https://uspsa.org/match-results-details?index=40418"
+    },
+    {
+     "id": "20-02",
+     "date": "2021-03-21",
+     "match_url": "https://uspsa.org/match-results-details?index=40418"
+    },
+    {
+     "id": "19-01",
+     "date": "2020-09-20",
+     "match_url": "https://uspsa.org/match-results-details?index=37940"
+    },
+    {
+     "id": "19-04",
+     "date": "2020-08-16",
+     "match_url": "https://uspsa.org/match-results-details?index=37400"
+    },
+    {
+     "id": "06-06",
+     "date": "2020-07-19",
+     "match_url": "https://uspsa.org/match-results-details?index=37300"
+    },
+    {
+     "id": "03-18",
+     "date": "2020-03-15",
+     "match_url": "https://uspsa.org/match-results-details?index=35811"
+    },
+    {
+     "id": "19-02",
+     "date": "2020-02-16",
+     "match_url": "https://uspsa.org/match-results-details?index=35357"
+    },
+    {
+     "id": "09-09",
+     "date": "2019-12-15",
+     "match_url": "https://uspsa.org/match-results-details?index=34587"
+    },
+    {
+     "id": "18-06",
+     "date": "2019-11-17",
+     "match_url": "https://uspsa.org/match-results-details?index=34446"
+    },
+    {
+     "id": "03-07",
+     "date": "2019-11-17",
+     "match_url": "https://uspsa.org/match-results-details?index=34446"
+    },
+    {
+     "id": "06-10",
+     "date": "2019-10-20",
+     "match_url": "https://uspsa.org/match-results-details?index=33826"
+    },
+    {
+     "id": "18-05",
+     "date": "2019-09-15",
+     "match_url": "https://uspsa.org/match-results-details?index=33328"
+    },
+    {
+     "id": "06-02",
+     "date": "2019-08-18",
+     "match_url": "https://uspsa.org/match-results-details?index=32910"
+    },
+    {
+     "id": "18-09",
+     "date": "2019-07-19",
+     "match_url": "https://uspsa.org/match-results-details?index=32400"
+    },
+    {
+     "id": "03-05",
+     "date": "2019-06-16",
+     "match_url": "https://uspsa.org/match-results-details?index=32037"
+    },
+    {
+     "id": "03-11",
+     "date": "2019-05-19",
+     "match_url": "https://uspsa.org/match-results-details?index=31401"
+    },
+    {
+     "id": "03-05",
+     "date": "2019-03-16",
+     "match_url": "https://uspsa.org/match-results-details?index=30456"
+    },
+    {
+     "id": "09-07",
+     "date": "2018-11-18",
+     "match_url": "https://uspsa.org/match-results-details?index=29143"
+    },
+    {
+     "id": "09-03",
+     "date": "2018-10-21",
+     "match_url": "https://uspsa.org/match-results-details?index=28912"
+    },
+    {
+     "id": "09-10",
+     "date": "2018-08-18",
+     "match_url": "https://uspsa.org/match-results-details?index=27912"
+    },
+    {
+     "id": "13-02",
+     "date": "2018-07-15",
+     "match_url": "https://uspsa.org/match-results-details?index=27388"
+    },
+    {
+     "id": "03-18",
+     "date": "2018-06-17",
+     "match_url": "https://uspsa.org/match-results-details?index=26849"
+    },
+    {
+     "id": "13-04",
+     "date": "2018-05-20",
+     "match_url": "https://uspsa.org/match-results-details?index=26646"
+    },
+    {
+     "id": "03-09",
+     "date": "2018-04-15",
+     "match_url": "https://uspsa.org/match-results-details?index=25865"
+    },
+    {
+     "id": "13-03",
+     "date": "2018-03-18",
+     "match_url": "https://uspsa.org/match-results-details?index=25455"
+    },
+    {
+     "id": "09-01",
+     "date": "2017-11-19",
+     "match_url": "https://uspsa.org/match-results-details?index=23981"
+    },
+    {
+     "id": "03-11",
+     "date": "2017-10-15",
+     "match_url": "https://uspsa.org/match-results-details?index=23524"
+    },
+    {
+     "id": "09-09",
+     "date": "2017-09-16",
+     "match_url": "https://uspsa.org/match-results-details?index=23177"
+    },
+    {
+     "id": "08-02",
+     "date": "2017-07-16",
+     "match_url": "https://uspsa.org/match-results-details?index=22251"
+    },
+    {
+     "id": "99-13",
+     "date": "2017-06-18",
+     "match_url": "https://uspsa.org/match-results-details?index=21752"
+    },
+    {
+     "id": "99-41",
+     "date": "2017-05-21",
+     "match_url": "https://uspsa.org/match-results-details?index=21295"
+    },
+    {
+     "id": "09-14",
+     "date": "2017-04-16",
+     "match_url": "https://uspsa.org/match-results-details?index=20862"
+    },
+    {
+     "id": "06-03",
+     "date": "2017-03-19",
+     "match_url": "https://uspsa.org/match-results-details?index=20537"
+    },
+    {
+     "id": "09-02",
+     "date": "2017-02-19",
+     "match_url": "https://uspsa.org/match-results-details?index=20214"
+    },
+    {
+     "id": "99-33",
+     "date": "2016-11-20",
+     "match_url": "https://uspsa.org/match-results-details?index=19488"
+    }
+   ]
+  },
+  {
+   "code": "NW05",
+   "name": "Renton Shooting Association (NW05)",
+   "url": "https://uspsa.org/classifiers-by-club?action=show&club=NW05",
+   "shots": [
+    {
+     "id": "18-09",
+     "date": "2026-09-27",
+     "match_url": "https://uspsa.org/match-results-details?index=72343"
+    },
+    {
+     "id": "99-10",
+     "date": "2026-08-30",
+     "match_url": "https://uspsa.org/match-results-details?index=71853"
+    },
+    {
+     "id": "99-46",
+     "date": "2026-08-30",
+     "match_url": "https://uspsa.org/match-results-details?index=71853"
+    },
+    {
+     "id": "24-02",
+     "date": "2026-08-30",
+     "match_url": "https://uspsa.org/match-results-details?index=71853"
+    },
+    {
+     "id": "19-04",
+     "date": "2026-08-30",
+     "match_url": "https://uspsa.org/match-results-details?index=71853"
+    },
+    {
+     "id": "25-08",
+     "date": "2026-08-30",
+     "match_url": "https://uspsa.org/match-results-details?index=71853"
+    },
+    {
+     "id": "08-02",
+     "date": "2026-08-30",
+     "match_url": "https://uspsa.org/match-results-details?index=71853"
+    },
+    {
+     "id": "23-02",
+     "date": "2026-08-30",
+     "match_url": "https://uspsa.org/match-results-details?index=71853"
+    },
+    {
+     "id": "25-06",
+     "date": "2026-06-28",
+     "match_url": "https://uspsa.org/match-results-details?index=70602"
+    },
+    {
+     "id": "06-03",
+     "date": "2026-06-28",
+     "match_url": "https://uspsa.org/match-results-details?index=70602"
+    },
+    {
+     "id": "24-09",
+     "date": "2026-06-28",
+     "match_url": "https://uspsa.org/match-results-details?index=70602"
+    },
+    {
+     "id": "25-03",
+     "date": "2026-06-28",
+     "match_url": "https://uspsa.org/match-results-details?index=70602"
+    },
+    {
+     "id": "25-02",
+     "date": "2026-06-28",
+     "match_url": "https://uspsa.org/match-results-details?index=70602"
+    },
+    {
+     "id": "24-04",
+     "date": "2026-06-28",
+     "match_url": "https://uspsa.org/match-results-details?index=70602"
+    },
+    {
+     "id": "22-04",
+     "date": "2026-05-31",
+     "match_url": "https://uspsa.org/match-results-details?index=70105"
+    },
+    {
+     "id": "13-05",
+     "date": "2026-04-26",
+     "match_url": "https://uspsa.org/match-results-details?index=69429"
+    },
+    {
+     "id": "22-07",
+     "date": "2026-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=68813"
+    },
+    {
+     "id": "24-08",
+     "date": "2026-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=68813"
+    },
+    {
+     "id": "20-03",
+     "date": "2026-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=68813"
+    },
+    {
+     "id": "24-04",
+     "date": "2026-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=68813"
+    },
+    {
+     "id": "06-10",
+     "date": "2026-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=68813"
+    },
+    {
+     "id": "23-02",
+     "date": "2026-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=68813"
+    },
+    {
+     "id": "25-03",
+     "date": "2026-02-22",
+     "match_url": "https://uspsa.org/match-results-details?index=68400"
+    },
+    {
+     "id": "25-09",
+     "date": "2025-10-26",
+     "match_url": "https://uspsa.org/match-results-details?index=66865"
+    },
+    {
+     "id": "99-10",
+     "date": "2025-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=66390"
+    },
+    {
+     "id": "08-03",
+     "date": "2025-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=66390"
+    },
+    {
+     "id": "24-02",
+     "date": "2025-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=66390"
+    },
+    {
+     "id": "20-02",
+     "date": "2025-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=66390"
+    },
+    {
+     "id": "18-09",
+     "date": "2025-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=66390"
+    },
+    {
+     "id": "99-08",
+     "date": "2025-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=66390"
+    },
+    {
+     "id": "03-09",
+     "date": "2025-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=66390"
+    },
+    {
+     "id": "24-02",
+     "date": "2025-07-27",
+     "match_url": "https://uspsa.org/match-results-details?index=65353"
+    },
+    {
+     "id": "03-18",
+     "date": "2025-06-22",
+     "match_url": "https://uspsa.org/match-results-details?index=64758"
+    },
+    {
+     "id": "24-08",
+     "date": "2025-05-25",
+     "match_url": "https://uspsa.org/match-results-details?index=64348"
+    },
+    {
+     "id": "08-02",
+     "date": "2025-03-30",
+     "match_url": "https://uspsa.org/match-results-details?index=64350"
+    },
+    {
+     "id": "19-02",
+     "date": "2025-03-23",
+     "match_url": "https://uspsa.org/match-results-details?index=63717"
+    },
+    {
+     "id": "22-07",
+     "date": "2025-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=63384"
+    },
+    {
+     "id": "18-07",
+     "date": "2025-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=63384"
+    },
+    {
+     "id": "21-01",
+     "date": "2025-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=63384"
+    },
+    {
+     "id": "20-01",
+     "date": "2025-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=63384"
+    },
+    {
+     "id": "18-09",
+     "date": "2025-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=63384"
+    },
+    {
+     "id": "03-18",
+     "date": "2025-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=63384"
+    },
+    {
+     "id": "22-04",
+     "date": "2025-03-22",
+     "match_url": "https://uspsa.org/match-results-details?index=63384"
+    },
+    {
+     "id": "09-04",
+     "date": "2024-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=60816"
+    },
+    {
+     "id": "24-08",
+     "date": "2024-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=60816"
+    },
+    {
+     "id": "99-46",
+     "date": "2024-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=60816"
+    },
+    {
+     "id": "19-04",
+     "date": "2024-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=60816"
+    },
+    {
+     "id": "18-09",
+     "date": "2024-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=60816"
+    },
+    {
+     "id": "13-05",
+     "date": "2024-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=60816"
+    },
+    {
+     "id": "23-02",
+     "date": "2024-09-28",
+     "match_url": "https://uspsa.org/match-results-details?index=60816"
+    },
+    {
+     "id": "24-04",
+     "date": "2024-08-25",
+     "match_url": "https://uspsa.org/match-results-details?index=60342"
+    },
+    {
+     "id": "18-07",
+     "date": "2024-05-25",
+     "match_url": "https://uspsa.org/match-results-details?index=58656"
+    },
+    {
+     "id": "24-09",
+     "date": "2024-04-28",
+     "match_url": "https://uspsa.org/match-results-details?index=58205"
+    },
+    {
+     "id": "06-03",
+     "date": "2024-04-28",
+     "match_url": "https://uspsa.org/match-results-details?index=58205"
+    },
+    {
+     "id": "18-06",
+     "date": "2024-03-24",
+     "match_url": "https://uspsa.org/match-results-details?index=57772"
+    },
+    {
+     "id": "21-01",
+     "date": "2023-11-26",
+     "match_url": "https://uspsa.org/match-results-details?index=56395"
+    },
+    {
+     "id": "18-04",
+     "date": "2023-11-26",
+     "match_url": "https://uspsa.org/match-results-details?index=56395"
+    },
+    {
+     "id": "22-02",
+     "date": "2023-11-26",
+     "match_url": "https://uspsa.org/match-results-details?index=56395"
+    },
+    {
+     "id": "20-02",
+     "date": "2023-11-26",
+     "match_url": "https://uspsa.org/match-results-details?index=56395"
+    },
+    {
+     "id": "99-14",
+     "date": "2023-11-26",
+     "match_url": "https://uspsa.org/match-results-details?index=56395"
+    },
+    {
+     "id": "22-05",
+     "date": "2023-11-26",
+     "match_url": "https://uspsa.org/match-results-details?index=56395"
+    },
+    {
+     "id": "22-07",
+     "date": "2023-03-26",
+     "match_url": "https://uspsa.org/match-results-details?index=52116"
+    },
+    {
+     "id": "03-05",
+     "date": "2022-10-23",
+     "match_url": "https://uspsa.org/match-results-details?index=50091"
+    },
+    {
+     "id": "03-18",
+     "date": "2022-08-28",
+     "match_url": "https://uspsa.org/match-results-details?index=49082"
+    },
+    {
+     "id": "21-01",
+     "date": "2022-05-22",
+     "match_url": "https://uspsa.org/match-results-details?index=47416"
+    },
+    {
+     "id": "03-08",
+     "date": "2022-04-24",
+     "match_url": "https://uspsa.org/match-results-details?index=46787"
+    },
+    {
+     "id": "99-07",
+     "date": "2022-03-27",
+     "match_url": "https://uspsa.org/match-results-details?index=46308"
+    },
+    {
+     "id": "06-06",
+     "date": "2021-10-24",
+     "match_url": "https://uspsa.org/match-results-details?index=44222"
+    },
+    {
+     "id": "08-03",
+     "date": "2021-05-23",
+     "match_url": "https://uspsa.org/match-results-details?index=41481"
+    },
+    {
+     "id": "03-07",
+     "date": "2021-04-25",
+     "match_url": "https://uspsa.org/match-results-details?index=40865"
+    },
+    {
+     "id": "09-08",
+     "date": "2021-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=39999"
+    },
+    {
+     "id": "99-40",
+     "date": "2021-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=39999"
+    },
+    {
+     "id": "18-08",
+     "date": "2021-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=39999"
+    },
+    {
+     "id": "18-09",
+     "date": "2021-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=39999"
+    },
+    {
+     "id": "13-05",
+     "date": "2021-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=39999"
+    },
+    {
+     "id": "20-02",
+     "date": "2020-11-22",
+     "match_url": "https://uspsa.org/match-results-details?index=38954"
+    },
+    {
+     "id": "99-08",
+     "date": "2020-11-22",
+     "match_url": "https://uspsa.org/match-results-details?index=38954"
+    },
+    {
+     "id": "99-53",
+     "date": "2020-11-22",
+     "match_url": "https://uspsa.org/match-results-details?index=38954"
+    },
+    {
+     "id": "20-03",
+     "date": "2020-11-22",
+     "match_url": "https://uspsa.org/match-results-details?index=38954"
+    },
+    {
+     "id": "99-47",
+     "date": "2020-11-22",
+     "match_url": "https://uspsa.org/match-results-details?index=38954"
+    },
+    {
+     "id": "06-03",
+     "date": "2020-11-22",
+     "match_url": "https://uspsa.org/match-results-details?index=38954"
+    },
+    {
+     "id": "19-04",
+     "date": "2020-11-22",
+     "match_url": "https://uspsa.org/match-results-details?index=38954"
+    },
+    {
+     "id": "13-02",
+     "date": "2020-10-25",
+     "match_url": "https://uspsa.org/match-results-details?index=38556"
+    },
+    {
+     "id": "99-16",
+     "date": "2020-08-23",
+     "match_url": "https://uspsa.org/match-results-details?index=37598"
+    },
+    {
+     "id": "09-09",
+     "date": "2019-07-28",
+     "match_url": "https://uspsa.org/match-results-details?index=32512"
+    },
+    {
+     "id": "99-08",
+     "date": "2019-06-23",
+     "match_url": "https://uspsa.org/match-results-details?index=31971"
+    },
+    {
+     "id": "18-05",
+     "date": "2019-05-26",
+     "match_url": "https://uspsa.org/match-results-details?index=31505"
+    },
+    {
+     "id": "03-09",
+     "date": "2019-04-28",
+     "match_url": "https://uspsa.org/match-results-details?index=31128"
+    },
+    {
+     "id": "99-40",
+     "date": "2019-03-24",
+     "match_url": "https://uspsa.org/match-results-details?index=30563"
+    },
+    {
+     "id": "06-06",
+     "date": "2018-10-28",
+     "match_url": "https://uspsa.org/match-results-details?index=28858"
+    },
+    {
+     "id": "09-01",
+     "date": "2018-08-26",
+     "match_url": "https://uspsa.org/match-results-details?index=27999"
+    },
+    {
+     "id": "06-01",
+     "date": "2018-06-24",
+     "match_url": "https://uspsa.org/match-results-details?index=26979"
+    },
+    {
+     "id": "13-01",
+     "date": "2018-05-27",
+     "match_url": "https://uspsa.org/match-results-details?index=26516"
+    },
+    {
+     "id": "03-09",
+     "date": "2018-04-22",
+     "match_url": "https://uspsa.org/match-results-details?index=25940"
+    },
+    {
+     "id": "06-07",
+     "date": "2018-03-25",
+     "match_url": "https://uspsa.org/match-results-details?index=25539"
+    },
+    {
+     "id": "13-02",
+     "date": "2018-03-25",
+     "match_url": "https://uspsa.org/match-results-details?index=25539"
+    },
+    {
+     "id": "03-11",
+     "date": "2017-10-22",
+     "match_url": "https://uspsa.org/match-results-details?index=23637"
+    },
+    {
+     "id": "09-11",
+     "date": "2017-05-28",
+     "match_url": "https://uspsa.org/match-results-details?index=21394"
+    },
+    {
+     "id": "09-04",
+     "date": "2017-04-23",
+     "match_url": "https://uspsa.org/match-results-details?index=20985"
+    },
+    {
+     "id": "99-24",
+     "date": "2016-09-25",
+     "match_url": "https://uspsa.org/match-results-details?index=18673"
+    },
+    {
+     "id": "03-04",
+     "date": "2016-08-28",
+     "match_url": "https://uspsa.org/match-results-details?index=18674"
+    }
+   ]
+  },
+  {
+   "code": "NW07",
+   "name": "Custer Sportsmens Club (NW07)",
+   "url": "https://uspsa.org/classifiers-by-club?action=show&club=NW07",
+   "shots": [
+    {
+     "id": "25-08",
+     "date": "2026-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=72511"
+    },
+    {
+     "id": "03-07",
+     "date": "2026-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=72511"
+    },
+    {
+     "id": "21-01",
+     "date": "2026-09-06",
+     "match_url": "https://uspsa.org/match-results-details?index=71980"
+    },
+    {
+     "id": "26-01",
+     "date": "2026-08-02",
+     "match_url": "https://uspsa.org/match-results-details?index=71381"
+    },
+    {
+     "id": "99-57",
+     "date": "2026-06-07",
+     "match_url": "https://uspsa.org/match-results-details?index=70219"
+    },
+    {
+     "id": "25-07",
+     "date": "2026-05-03",
+     "match_url": "https://uspsa.org/match-results-details?index=69559"
+    },
+    {
+     "id": "03-03",
+     "date": "2026-04-05",
+     "match_url": "https://uspsa.org/match-results-details?index=69098"
+    },
+    {
+     "id": "99-11",
+     "date": "2026-03-01",
+     "match_url": "https://uspsa.org/match-results-details?index=68489"
+    },
+    {
+     "id": "25-02",
+     "date": "2026-03-01",
+     "match_url": "https://uspsa.org/match-results-details?index=68489"
+    },
+    {
+     "id": "24-09",
+     "date": "2026-03-01",
+     "match_url": "https://uspsa.org/match-results-details?index=68489"
+    },
+    {
+     "id": "22-02",
+     "date": "2026-03-01",
+     "match_url": "https://uspsa.org/match-results-details?index=68489"
+    },
+    {
+     "id": "25-05",
+     "date": "2026-03-01",
+     "match_url": "https://uspsa.org/match-results-details?index=68489"
+    },
+    {
+     "id": "25-03",
+     "date": "2026-03-01",
+     "match_url": "https://uspsa.org/match-results-details?index=68489"
+    },
+    {
+     "id": "18-08",
+     "date": "2026-03-01",
+     "match_url": "https://uspsa.org/match-results-details?index=68489"
+    },
+    {
+     "id": "18-03",
+     "date": "2026-03-01",
+     "match_url": "https://uspsa.org/match-results-details?index=68489"
+    },
+    {
+     "id": "06-10",
+     "date": "2026-02-01",
+     "match_url": "https://uspsa.org/match-results-details?index=68114"
+    },
+    {
+     "id": "25-09",
+     "date": "2026-01-04",
+     "match_url": "https://uspsa.org/match-results-details?index=67950"
+    },
+    {
+     "id": "22-04",
+     "date": "2025-12-07",
+     "match_url": "https://uspsa.org/match-results-details?index=67519"
+    },
+    {
+     "id": "24-01",
+     "date": "2025-10-05",
+     "match_url": "https://uspsa.org/match-results-details?index=66495"
+    },
+    {
+     "id": "25-01",
+     "date": "2025-10-05",
+     "match_url": "https://uspsa.org/match-results-details?index=66495"
+    },
+    {
+     "id": "25-06",
+     "date": "2025-09-07",
+     "match_url": "https://uspsa.org/match-results-details?index=66420"
+    },
+    {
+     "id": "03-05",
+     "date": "2025-09-07",
+     "match_url": "https://uspsa.org/match-results-details?index=66420"
+    },
+    {
+     "id": "99-42",
+     "date": "2025-08-03",
+     "match_url": "https://uspsa.org/match-results-details?index=65466"
+    },
+    {
+     "id": "09-10",
+     "date": "2025-06-01",
+     "match_url": "https://uspsa.org/match-results-details?index=64425"
+    },
+    {
+     "id": "03-07",
+     "date": "2025-05-04",
+     "match_url": "https://uspsa.org/match-results-details?index=63958"
+    },
+    {
+     "id": "13-05",
+     "date": "2025-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=63500"
+    },
+    {
+     "id": "22-06",
+     "date": "2025-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=63500"
+    },
+    {
+     "id": "24-06",
+     "date": "2025-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=63500"
+    },
+    {
+     "id": "24-08",
+     "date": "2025-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=63500"
+    },
+    {
+     "id": "99-42",
+     "date": "2025-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=63500"
+    },
+    {
+     "id": "18-05",
+     "date": "2025-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=63500"
+    },
+    {
+     "id": "23-01",
+     "date": "2025-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=63500"
+    },
+    {
+     "id": "99-62",
+     "date": "2025-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=63500"
+    },
+    {
+     "id": "22-01",
+     "date": "2025-03-02",
+     "match_url": "https://uspsa.org/match-results-details?index=63087"
+    },
+    {
+     "id": "03-09",
+     "date": "2025-02-02",
+     "match_url": "https://uspsa.org/match-results-details?index=62672"
+    },
+    {
+     "id": "06-10",
+     "date": "2025-01-05",
+     "match_url": "https://uspsa.org/match-results-details?index=62437"
+    },
+    {
+     "id": "19-02",
+     "date": "2024-11-03",
+     "match_url": "https://uspsa.org/match-results-details?index=61448"
+    },
+    {
+     "id": "99-23",
+     "date": "2024-10-06",
+     "match_url": "https://uspsa.org/match-results-details?index=61254"
+    },
+    {
+     "id": "99-13",
+     "date": "2024-09-01",
+     "match_url": "https://uspsa.org/match-results-details?index=60393"
+    },
+    {
+     "id": "24-04",
+     "date": "2024-08-04",
+     "match_url": "https://uspsa.org/match-results-details?index=59824"
+    },
+    {
+     "id": "20-01",
+     "date": "2024-07-07",
+     "match_url": "https://uspsa.org/match-results-details?index=59320"
+    },
+    {
+     "id": "18-03",
+     "date": "2024-06-02",
+     "match_url": "https://uspsa.org/match-results-details?index=59060"
+    },
+    {
+     "id": "22-05",
+     "date": "2024-05-05",
+     "match_url": "https://uspsa.org/match-results-details?index=58573"
+    },
+    {
+     "id": "24-01",
+     "date": "2024-04-07",
+     "match_url": "https://uspsa.org/match-results-details?index=57913"
+    },
+    {
+     "id": "18-07",
+     "date": "2024-04-07",
+     "match_url": "https://uspsa.org/match-results-details?index=57913"
+    },
+    {
+     "id": "24-08",
+     "date": "2024-04-07",
+     "match_url": "https://uspsa.org/match-results-details?index=57913"
+    },
+    {
+     "id": "09-08",
+     "date": "2024-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=57474"
+    },
+    {
+     "id": "99-28",
+     "date": "2024-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=57474"
+    },
+    {
+     "id": "99-53",
+     "date": "2024-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=57474"
+    },
+    {
+     "id": "99-10",
+     "date": "2024-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=57474"
+    },
+    {
+     "id": "23-02",
+     "date": "2024-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=57474"
+    },
+    {
+     "id": "22-07",
+     "date": "2024-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=57474"
+    },
+    {
+     "id": "23-01",
+     "date": "2024-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=57474"
+    },
+    {
+     "id": "99-14",
+     "date": "2024-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=57474"
+    },
+    {
+     "id": "06-10",
+     "date": "2024-01-07",
+     "match_url": "https://uspsa.org/match-results-details?index=57061"
+    },
+    {
+     "id": "99-42",
+     "date": "2023-12-03",
+     "match_url": "https://uspsa.org/match-results-details?index=56515"
+    },
+    {
+     "id": "18-01",
+     "date": "2023-11-05",
+     "match_url": "https://uspsa.org/match-results-details?index=56216"
+    },
+    {
+     "id": "09-07",
+     "date": "2023-10-01",
+     "match_url": "https://uspsa.org/match-results-details?index=55591"
+    },
+    {
+     "id": "08-01",
+     "date": "2023-08-06",
+     "match_url": "https://uspsa.org/match-results-details?index=54558"
+    },
+    {
+     "id": "18-06",
+     "date": "2023-07-02",
+     "match_url": "https://uspsa.org/match-results-details?index=53920"
+    },
+    {
+     "id": "06-10",
+     "date": "2023-06-04",
+     "match_url": "https://uspsa.org/match-results-details?index=53589"
+    },
+    {
+     "id": "03-08",
+     "date": "2023-05-07",
+     "match_url": "https://uspsa.org/match-results-details?index=52827"
+    },
+    {
+     "id": "03-18",
+     "date": "2023-04-02",
+     "match_url": "https://uspsa.org/match-results-details?index=52234"
+    },
+    {
+     "id": "18-05",
+     "date": "2023-03-05",
+     "match_url": "https://uspsa.org/match-results-details?index=51867"
+    },
+    {
+     "id": "22-02",
+     "date": "2023-03-05",
+     "match_url": "https://uspsa.org/match-results-details?index=51867"
+    },
+    {
+     "id": "03-12",
+     "date": "2023-03-05",
+     "match_url": "https://uspsa.org/match-results-details?index=51867"
+    },
+    {
+     "id": "22-07",
+     "date": "2023-03-05",
+     "match_url": "https://uspsa.org/match-results-details?index=51867"
+    },
+    {
+     "id": "18-08",
+     "date": "2023-03-05",
+     "match_url": "https://uspsa.org/match-results-details?index=51867"
+    },
+    {
+     "id": "21-01",
+     "date": "2023-03-05",
+     "match_url": "https://uspsa.org/match-results-details?index=51867"
+    },
+    {
+     "id": "19-04",
+     "date": "2023-03-05",
+     "match_url": "https://uspsa.org/match-results-details?index=51867"
+    },
+    {
+     "id": "99-11",
+     "date": "2023-03-05",
+     "match_url": "https://uspsa.org/match-results-details?index=51867"
+    },
+    {
+     "id": "06-10",
+     "date": "2023-02-05",
+     "match_url": "https://uspsa.org/match-results-details?index=51491"
+    },
+    {
+     "id": "03-03",
+     "date": "2022-12-04",
+     "match_url": "https://uspsa.org/match-results-details?index=50913"
+    },
+    {
+     "id": "03-07",
+     "date": "2022-11-06",
+     "match_url": "https://uspsa.org/match-results-details?index=50340"
+    },
+    {
+     "id": "06-01",
+     "date": "2022-10-02",
+     "match_url": "https://uspsa.org/match-results-details?index=49790"
+    },
+    {
+     "id": "09-14",
+     "date": "2022-08-07",
+     "match_url": "https://uspsa.org/match-results-details?index=48767"
+    },
+    {
+     "id": "08-03",
+     "date": "2022-07-03",
+     "match_url": "https://uspsa.org/match-results-details?index=48078"
+    },
+    {
+     "id": "99-47",
+     "date": "2022-06-05",
+     "match_url": "https://uspsa.org/match-results-details?index=47619"
+    },
+    {
+     "id": "20-01",
+     "date": "2022-05-01",
+     "match_url": "https://uspsa.org/match-results-details?index=46885"
+    },
+    {
+     "id": "06-10",
+     "date": "2022-04-03",
+     "match_url": "https://uspsa.org/match-results-details?index=46506"
+    },
+    {
+     "id": "99-08",
+     "date": "2022-03-06",
+     "match_url": "https://uspsa.org/match-results-details?index=46009"
+    },
+    {
+     "id": "99-46",
+     "date": "2022-03-06",
+     "match_url": "https://uspsa.org/match-results-details?index=46009"
+    },
+    {
+     "id": "99-61",
+     "date": "2022-03-06",
+     "match_url": "https://uspsa.org/match-results-details?index=46009"
+    },
+    {
+     "id": "19-02",
+     "date": "2022-03-06",
+     "match_url": "https://uspsa.org/match-results-details?index=46009"
+    },
+    {
+     "id": "21-01",
+     "date": "2022-03-06",
+     "match_url": "https://uspsa.org/match-results-details?index=46009"
+    },
+    {
+     "id": "20-02",
+     "date": "2022-03-06",
+     "match_url": "https://uspsa.org/match-results-details?index=46009"
+    },
+    {
+     "id": "20-03",
+     "date": "2022-03-06",
+     "match_url": "https://uspsa.org/match-results-details?index=46009"
+    },
+    {
+     "id": "18-09",
+     "date": "2022-03-06",
+     "match_url": "https://uspsa.org/match-results-details?index=46009"
+    },
+    {
+     "id": "99-41",
+     "date": "2021-12-05",
+     "match_url": "https://uspsa.org/match-results-details?index=44779"
+    },
+    {
+     "id": "09-07",
+     "date": "2021-11-07",
+     "match_url": "https://uspsa.org/match-results-details?index=44348"
+    },
+    {
+     "id": "18-07",
+     "date": "2021-10-03",
+     "match_url": "https://uspsa.org/match-results-details?index=43838"
+    },
+    {
+     "id": "99-62",
+     "date": "2021-09-05",
+     "match_url": "https://uspsa.org/match-results-details?index=43274"
+    },
+    {
+     "id": "08-01",
+     "date": "2021-08-01",
+     "match_url": "https://uspsa.org/match-results-details?index=42661"
+    },
+    {
+     "id": "06-06",
+     "date": "2021-06-06",
+     "match_url": "https://uspsa.org/match-results-details?index=41690"
+    },
+    {
+     "id": "06-04",
+     "date": "2021-05-02",
+     "match_url": "https://uspsa.org/match-results-details?index=41011"
+    },
+    {
+     "id": "20-01",
+     "date": "2021-04-04",
+     "match_url": "https://uspsa.org/match-results-details?index=40524"
+    },
+    {
+     "id": "99-11",
+     "date": "2021-03-07",
+     "match_url": "https://uspsa.org/match-results-details?index=40091"
+    },
+    {
+     "id": "09-09",
+     "date": "2021-03-07",
+     "match_url": "https://uspsa.org/match-results-details?index=40091"
+    },
+    {
+     "id": "03-02",
+     "date": "2021-03-07",
+     "match_url": "https://uspsa.org/match-results-details?index=40091"
+    },
+    {
+     "id": "99-63",
+     "date": "2021-03-07",
+     "match_url": "https://uspsa.org/match-results-details?index=40091"
+    },
+    {
+     "id": "13-01",
+     "date": "2021-03-07",
+     "match_url": "https://uspsa.org/match-results-details?index=40091"
+    },
+    {
+     "id": "99-33",
+     "date": "2021-03-07",
+     "match_url": "https://uspsa.org/match-results-details?index=40091"
+    },
+    {
+     "id": "03-04",
+     "date": "2021-03-07",
+     "match_url": "https://uspsa.org/match-results-details?index=40091"
+    },
+    {
+     "id": "13-06",
+     "date": "2021-03-07",
+     "match_url": "https://uspsa.org/match-results-details?index=40091"
+    },
+    {
+     "id": "18-04",
+     "date": "2021-02-07",
+     "match_url": "https://uspsa.org/match-results-details?index=39815"
+    },
+    {
+     "id": "06-10",
+     "date": "2021-01-03",
+     "match_url": "https://uspsa.org/match-results-details?index=39435"
+    },
+    {
+     "id": "03-09",
+     "date": "2020-12-06",
+     "match_url": "https://uspsa.org/match-results-details?index=39133"
+    },
+    {
+     "id": "03-14",
+     "date": "2020-11-01",
+     "match_url": "https://uspsa.org/match-results-details?index=38641"
+    },
+    {
+     "id": "13-05",
+     "date": "2020-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=38211"
+    },
+    {
+     "id": "08-03",
+     "date": "2020-09-06",
+     "match_url": "https://uspsa.org/match-results-details?index=37706"
+    },
+    {
+     "id": "99-23",
+     "date": "2020-08-02",
+     "match_url": "https://uspsa.org/match-results-details?index=37129"
+    },
+    {
+     "id": "09-13",
+     "date": "2020-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=35545"
+    },
+    {
+     "id": "13-02",
+     "date": "2020-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=35545"
+    },
+    {
+     "id": "09-04",
+     "date": "2020-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=35545"
+    },
+    {
+     "id": "13-07",
+     "date": "2020-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=35545"
+    },
+    {
+     "id": "19-01",
+     "date": "2020-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=35545"
+    },
+    {
+     "id": "19-02",
+     "date": "2020-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=35545"
+    },
+    {
+     "id": "19-03",
+     "date": "2020-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=35545"
+    },
+    {
+     "id": "19-04",
+     "date": "2020-02-28",
+     "match_url": "https://uspsa.org/match-results-details?index=35545"
+    },
+    {
+     "id": "99-62",
+     "date": "2019-12-26",
+     "match_url": "https://uspsa.org/match-results-details?index=34814"
+    },
+    {
+     "id": "06-10",
+     "date": "2019-11-30",
+     "match_url": "https://uspsa.org/match-results-details?index=34381"
+    },
+    {
+     "id": "99-63",
+     "date": "2019-11-02",
+     "match_url": "https://uspsa.org/match-results-details?index=34080"
+    },
+    {
+     "id": "03-02",
+     "date": "2019-10-06",
+     "match_url": "https://uspsa.org/match-results-details?index=33669"
+    },
+    {
+     "id": "18-02",
+     "date": "2019-08-04",
+     "match_url": "https://uspsa.org/match-results-details?index=32629"
+    },
+    {
+     "id": "18-01",
+     "date": "2019-07-06",
+     "match_url": "https://uspsa.org/match-results-details?index=32188"
+    },
+    {
+     "id": "03-11",
+     "date": "2019-06-02",
+     "match_url": "https://uspsa.org/match-results-details?index=31613"
+    },
+    {
+     "id": "18-04",
+     "date": "2019-05-05",
+     "match_url": "https://uspsa.org/match-results-details?index=31185"
+    },
+    {
+     "id": "99-33",
+     "date": "2019-04-07",
+     "match_url": "https://uspsa.org/match-results-details?index=30898"
+    },
+    {
+     "id": "99-47",
+     "date": "2019-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=30301"
+    },
+    {
+     "id": "99-07",
+     "date": "2019-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=30301"
+    },
+    {
+     "id": "18-08",
+     "date": "2019-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=30301"
+    },
+    {
+     "id": "18-03",
+     "date": "2019-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=30301"
+    },
+    {
+     "id": "18-05",
+     "date": "2019-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=30301"
+    },
+    {
+     "id": "99-28",
+     "date": "2019-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=30301"
+    },
+    {
+     "id": "06-10",
+     "date": "2018-12-02",
+     "match_url": "https://uspsa.org/match-results-details?index=29310"
+    },
+    {
+     "id": "13-08",
+     "date": "2018-11-04",
+     "match_url": "https://uspsa.org/match-results-details?index=28976"
+    },
+    {
+     "id": "99-10",
+     "date": "2018-08-05",
+     "match_url": "https://uspsa.org/match-results-details?index=27615"
+    },
+    {
+     "id": "99-16",
+     "date": "2018-07-01",
+     "match_url": "https://uspsa.org/match-results-details?index=27123"
+    },
+    {
+     "id": "99-23",
+     "date": "2018-06-03",
+     "match_url": "https://uspsa.org/match-results-details?index=26616"
+    },
+    {
+     "id": "03-04",
+     "date": "2018-05-06",
+     "match_url": "https://uspsa.org/match-results-details?index=26215"
+    },
+    {
+     "id": "03-12",
+     "date": "2018-04-01",
+     "match_url": "https://uspsa.org/match-results-details?index=25635"
+    },
+    {
+     "id": "13-05",
+     "date": "2018-03-04",
+     "match_url": "https://uspsa.org/match-results-details?index=25210"
+    },
+    {
+     "id": "06-03",
+     "date": "2018-03-04",
+     "match_url": "https://uspsa.org/match-results-details?index=25210"
+    },
+    {
+     "id": "03-05",
+     "date": "2018-03-04",
+     "match_url": "https://uspsa.org/match-results-details?index=25210"
+    },
+    {
+     "id": "03-03",
+     "date": "2018-03-04",
+     "match_url": "https://uspsa.org/match-results-details?index=25210"
+    },
+    {
+     "id": "99-41",
+     "date": "2018-03-04",
+     "match_url": "https://uspsa.org/match-results-details?index=25210"
+    },
+    {
+     "id": "99-57",
+     "date": "2018-03-04",
+     "match_url": "https://uspsa.org/match-results-details?index=25210"
+    },
+    {
+     "id": "99-11",
+     "date": "2018-02-04",
+     "match_url": "https://uspsa.org/match-results-details?index=24845"
+    },
+    {
+     "id": "03-10",
+     "date": "2017-12-03",
+     "match_url": "https://uspsa.org/match-results-details?index=24158"
+    },
+    {
+     "id": "13-06",
+     "date": "2017-10-01",
+     "match_url": "https://uspsa.org/match-results-details?index=23335"
+    },
+    {
+     "id": "06-08",
+     "date": "2017-08-06",
+     "match_url": "https://uspsa.org/match-results-details?index=22499"
+    },
+    {
+     "id": "06-04",
+     "date": "2017-07-02",
+     "match_url": "https://uspsa.org/match-results-details?index=22102"
+    },
+    {
+     "id": "03-09",
+     "date": "2017-06-04",
+     "match_url": "https://uspsa.org/match-results-details?index=21492"
+    },
+    {
+     "id": "99-28",
+     "date": "2017-05-07",
+     "match_url": "https://uspsa.org/match-results-details?index=21076"
+    },
+    {
+     "id": "03-12",
+     "date": "2017-03-05",
+     "match_url": "https://uspsa.org/match-results-details?index=20320"
+    },
+    {
+     "id": "08-03",
+     "date": "2017-01-01",
+     "match_url": "https://uspsa.org/match-results-details?index=19697"
+    },
+    {
+     "id": "13-02",
+     "date": "2016-12-04",
+     "match_url": "https://uspsa.org/match-results-details?index=19514"
+    },
+    {
+     "id": "06-10",
+     "date": "2016-12-04",
+     "match_url": "https://uspsa.org/match-results-details?index=19514"
+    },
+    {
+     "id": "03-05",
+     "date": "2016-12-04",
+     "match_url": "https://uspsa.org/match-results-details?index=19514"
+    },
+    {
+     "id": "03-10",
+     "date": "2016-12-04",
+     "match_url": "https://uspsa.org/match-results-details?index=19514"
+    },
+    {
+     "id": "99-62",
+     "date": "2016-12-04",
+     "match_url": "https://uspsa.org/match-results-details?index=19514"
+    },
+    {
+     "id": "06-09",
+     "date": "2016-12-04",
+     "match_url": "https://uspsa.org/match-results-details?index=19514"
+    },
+    {
+     "id": "06-08",
+     "date": "2016-11-06",
+     "match_url": "https://uspsa.org/match-results-details?index=19386"
+    },
+    {
+     "id": "99-51",
+     "date": "2016-10-02",
+     "match_url": "https://uspsa.org/match-results-details?index=18753"
+    }
+   ]
+  },
+  {
+   "code": "NW15",
+   "name": "Port Townsend Practical Pistol (NW15)",
+   "url": "https://uspsa.org/classifiers-by-club?action=show&club=NW15",
+   "shots": [
+    {
+     "id": "03-09",
+     "date": "2026-10-03",
+     "match_url": "https://uspsa.org/match-results-details?index=72493"
+    },
+    {
+     "id": "25-02",
+     "date": "2026-09-05",
+     "match_url": "https://uspsa.org/match-results-details?index=71936"
+    },
+    {
+     "id": "18-07",
+     "date": "2026-08-01",
+     "match_url": "https://uspsa.org/match-results-details?index=71307"
+    },
+    {
+     "id": "26-05",
+     "date": "2026-08-01",
+     "match_url": "https://uspsa.org/match-results-details?index=71307"
+    },
+    {
+     "id": "06-04",
+     "date": "2026-07-04",
+     "match_url": "https://uspsa.org/match-results-details?index=70713"
+    },
+    {
+     "id": "26-03",
+     "date": "2026-07-04",
+     "match_url": "https://uspsa.org/match-results-details?index=70713"
+    },
+    {
+     "id": "25-02",
+     "date": "2026-06-06",
+     "match_url": "https://uspsa.org/match-results-details?index=70280"
+    },
+    {
+     "id": "25-08",
+     "date": "2026-04-04",
+     "match_url": "https://uspsa.org/match-results-details?index=69017"
+    },
+    {
+     "id": "99-08",
+     "date": "2026-04-04",
+     "match_url": "https://uspsa.org/match-results-details?index=69017"
+    },
+    {
+     "id": "99-62",
+     "date": "2026-04-04",
+     "match_url": "https://uspsa.org/match-results-details?index=69017"
+    },
+    {
+     "id": "25-04",
+     "date": "2026-04-04",
+     "match_url": "https://uspsa.org/match-results-details?index=69017"
+    },
+    {
+     "id": "06-05",
+     "date": "2026-04-04",
+     "match_url": "https://uspsa.org/match-results-details?index=69017"
+    },
+    {
+     "id": "99-11",
+     "date": "2026-04-04",
+     "match_url": "https://uspsa.org/match-results-details?index=69017"
+    },
+    {
+     "id": "03-07",
+     "date": "2026-03-07",
+     "match_url": "https://uspsa.org/match-results-details?index=68565"
+    },
+    {
+     "id": "22-02",
+     "date": "2025-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=66561"
+    },
+    {
+     "id": "24-04",
+     "date": "2025-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=66561"
+    },
+    {
+     "id": "03-08",
+     "date": "2025-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=66561"
+    },
+    {
+     "id": "24-09",
+     "date": "2025-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=66561"
+    },
+    {
+     "id": "99-57",
+     "date": "2025-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=66561"
+    },
+    {
+     "id": "18-08",
+     "date": "2025-10-04",
+     "match_url": "https://uspsa.org/match-results-details?index=66561"
+    },
+    {
+     "id": "03-09",
+     "date": "2025-07-05",
+     "match_url": "https://uspsa.org/match-results-details?index=64938"
+    },
+    {
+     "id": "19-04",
+     "date": "2025-04-05",
+     "match_url": "https://uspsa.org/match-results-details?index=63465"
+    },
+    {
+     "id": "99-46",
+     "date": "2025-04-05",
+     "match_url": "https://uspsa.org/match-results-details?index=63465"
+    },
+    {
+     "id": "06-03",
+     "date": "2025-04-05",
+     "match_url": "https://uspsa.org/match-results-details?index=63465"
+    },
+    {
+     "id": "23-02",
+     "date": "2025-04-05",
+     "match_url": "https://uspsa.org/match-results-details?index=63465"
+    },
+    {
+     "id": "99-10",
+     "date": "2025-04-05",
+     "match_url": "https://uspsa.org/match-results-details?index=63465"
+    },
+    {
+     "id": "22-07",
+     "date": "2025-04-05",
+     "match_url": "https://uspsa.org/match-results-details?index=63465"
+    },
+    {
+     "id": "22-05",
+     "date": "2025-03-01",
+     "match_url": "https://uspsa.org/match-results-details?index=63011"
+    },
+    {
+     "id": "13-08",
+     "date": "2025-02-01",
+     "match_url": "https://uspsa.org/match-results-details?index=62648"
+    },
+    {
+     "id": "99-14",
+     "date": "2025-01-04",
+     "match_url": "https://uspsa.org/match-results-details?index=62249"
+    },
+    {
+     "id": "99-40",
+     "date": "2024-12-07",
+     "match_url": "https://uspsa.org/match-results-details?index=61892"
+    },
+    {
+     "id": "06-05",
+     "date": "2024-11-02",
+     "match_url": "https://uspsa.org/match-results-details?index=61475"
+    },
+    {
+     "id": "24-01",
+     "date": "2024-10-05",
+     "match_url": "https://uspsa.org/match-results-details?index=60922"
+    },
+    {
+     "id": "06-03",
+     "date": "2024-09-07",
+     "match_url": "https://uspsa.org/match-results-details?index=60480"
+    },
+    {
+     "id": "99-62",
+     "date": "2024-08-03",
+     "match_url": "https://uspsa.org/match-results-details?index=59798"
+    },
+    {
+     "id": "99-02",
+     "date": "2024-07-06",
+     "match_url": "https://uspsa.org/match-results-details?index=59291"
+    },
+    {
+     "id": "99-08",
+     "date": "2024-05-04",
+     "match_url": "https://uspsa.org/match-results-details?index=58334"
+    },
+    {
+     "id": "24-04",
+     "date": "2024-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=57871"
+    },
+    {
+     "id": "13-08",
+     "date": "2024-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=57871"
+    },
+    {
+     "id": "23-01",
+     "date": "2024-03-02",
+     "match_url": "https://uspsa.org/match-results-details?index=57426"
+    },
+    {
+     "id": "13-08",
+     "date": "2024-02-03",
+     "match_url": "https://uspsa.org/match-results-details?index=57132"
+    },
+    {
+     "id": "18-04",
+     "date": "2024-01-06",
+     "match_url": "https://uspsa.org/match-results-details?index=56893"
+    },
+    {
+     "id": "13-04",
+     "date": "2023-12-02",
+     "match_url": "https://uspsa.org/match-results-details?index=56470"
+    },
+    {
+     "id": "09-02",
+     "date": "2023-11-04",
+     "match_url": "https://uspsa.org/match-results-details?index=56101"
+    },
+    {
+     "id": "22-07",
+     "date": "2023-10-07",
+     "match_url": "https://uspsa.org/match-results-details?index=55602"
+    },
+    {
+     "id": "22-06",
+     "date": "2023-10-07",
+     "match_url": "https://uspsa.org/match-results-details?index=55602"
+    },
+    {
+     "id": "08-02",
+     "date": "2023-10-07",
+     "match_url": "https://uspsa.org/match-results-details?index=55602"
+    },
+    {
+     "id": "09-09",
+     "date": "2023-10-07",
+     "match_url": "https://uspsa.org/match-results-details?index=55602"
+    },
+    {
+     "id": "20-01",
+     "date": "2023-10-07",
+     "match_url": "https://uspsa.org/match-results-details?index=55602"
+    },
+    {
+     "id": "06-10",
+     "date": "2023-10-07",
+     "match_url": "https://uspsa.org/match-results-details?index=55602"
+    },
+    {
+     "id": "99-47",
+     "date": "2023-08-05",
+     "match_url": "https://uspsa.org/match-results-details?index=54529"
+    },
+    {
+     "id": "09-03",
+     "date": "2023-07-01",
+     "match_url": "https://uspsa.org/match-results-details?index=53881"
+    },
+    {
+     "id": "13-01",
+     "date": "2023-06-02",
+     "match_url": "https://uspsa.org/match-results-details?index=53493"
+    },
+    {
+     "id": "06-03",
+     "date": "2023-05-06",
+     "match_url": "https://uspsa.org/match-results-details?index=52926"
+    },
+    {
+     "id": "22-04",
+     "date": "2023-04-01",
+     "match_url": "https://uspsa.org/match-results-details?index=52283"
+    },
+    {
+     "id": "99-22",
+     "date": "2023-03-04",
+     "match_url": "https://uspsa.org/match-results-details?index=52117"
+    },
+    {
+     "id": "09-02",
+     "date": "2023-02-04",
+     "match_url": "https://uspsa.org/match-results-details?index=51542"
+    },
+    {
+     "id": "99-48",
+     "date": "2022-12-03",
+     "match_url": "https://uspsa.org/match-results-details?index=50610"
+    },
+    {
+     "id": "19-03",
+     "date": "2022-11-05",
+     "match_url": "https://uspsa.org/match-results-details?index=50267"
+    },
+    {
+     "id": "18-07",
+     "date": "2022-11-05",
+     "match_url": "https://uspsa.org/match-results-details?index=50267"
+    },
+    {
+     "id": "99-10",
+     "date": "2022-11-05",
+     "match_url": "https://uspsa.org/match-results-details?index=50267"
+    },
+    {
+     "id": "03-07",
+     "date": "2022-11-05",
+     "match_url": "https://uspsa.org/match-results-details?index=50267"
+    },
+    {
+     "id": "03-09",
+     "date": "2022-11-05",
+     "match_url": "https://uspsa.org/match-results-details?index=50267"
+    },
+    {
+     "id": "20-02",
+     "date": "2022-11-05",
+     "match_url": "https://uspsa.org/match-results-details?index=50267"
+    },
+    {
+     "id": "22-02",
+     "date": "2022-10-01",
+     "match_url": "https://uspsa.org/match-results-details?index=49669"
+    },
+    {
+     "id": "03-18",
+     "date": "2022-10-01",
+     "match_url": "https://uspsa.org/match-results-details?index=49669"
+    },
+    {
+     "id": "22-01",
+     "date": "2022-09-03",
+     "match_url": "https://uspsa.org/match-results-details?index=49195"
+    },
+    {
+     "id": "22-04",
+     "date": "2022-09-03",
+     "match_url": "https://uspsa.org/match-results-details?index=49195"
+    },
+    {
+     "id": "06-05",
+     "date": "2022-09-03",
+     "match_url": "https://uspsa.org/match-results-details?index=49195"
+    },
+    {
+     "id": "09-02",
+     "date": "2022-08-05",
+     "match_url": "https://uspsa.org/match-results-details?index=48688"
+    },
+    {
+     "id": "22-05",
+     "date": "2022-08-05",
+     "match_url": "https://uspsa.org/match-results-details?index=48688"
+    },
+    {
+     "id": "99-40",
+     "date": "2022-07-02",
+     "match_url": "https://uspsa.org/match-results-details?index=48042"
+    },
+    {
+     "id": "99-48",
+     "date": "2022-05-07",
+     "match_url": "https://uspsa.org/match-results-details?index=46997"
+    },
+    {
+     "id": "09-02",
+     "date": "2022-04-02",
+     "match_url": "https://uspsa.org/match-results-details?index=46384"
+    },
+    {
+     "id": "99-08",
+     "date": "2022-03-05",
+     "match_url": "https://uspsa.org/match-results-details?index=45929"
+    },
+    {
+     "id": "99-14",
+     "date": "2022-02-05",
+     "match_url": "https://uspsa.org/match-results-details?index=45548"
+    },
+    {
+     "id": "99-23",
+     "date": "2022-01-01",
+     "match_url": "https://uspsa.org/match-results-details?index=45111"
+    },
+    {
+     "id": "09-04",
+     "date": "2021-12-04",
+     "match_url": "https://uspsa.org/match-results-details?index=44754"
+    },
+    {
+     "id": "99-46",
+     "date": "2021-11-06",
+     "match_url": "https://uspsa.org/match-results-details?index=44529"
+    },
+    {
+     "id": "08-02",
+     "date": "2021-10-02",
+     "match_url": "https://uspsa.org/match-results-details?index=44530"
+    },
+    {
+     "id": "13-01",
+     "date": "2021-09-04",
+     "match_url": "https://uspsa.org/match-results-details?index=43244"
+    },
+    {
+     "id": "99-33",
+     "date": "2021-07-03",
+     "match_url": "https://uspsa.org/match-results-details?index=42100"
+    },
+    {
+     "id": "13-05",
+     "date": "2021-06-04",
+     "match_url": "https://uspsa.org/match-results-details?index=41572"
+    },
+    {
+     "id": "99-28",
+     "date": "2021-05-01",
+     "match_url": "https://uspsa.org/match-results-details?index=41434"
+    },
+    {
+     "id": "99-10",
+     "date": "2021-04-03",
+     "match_url": "https://uspsa.org/match-results-details?index=40502"
+    },
+    {
+     "id": "18-03",
+     "date": "2021-03-06",
+     "match_url": "https://uspsa.org/match-results-details?index=40096"
+    },
+    {
+     "id": "20-01",
+     "date": "2021-02-06",
+     "match_url": "https://uspsa.org/match-results-details?index=39949"
+    },
+    {
+     "id": "20-03",
+     "date": "2021-01-02",
+     "match_url": "https://uspsa.org/match-results-details?index=39455"
+    },
+    {
+     "id": "20-02",
+     "date": "2020-12-05",
+     "match_url": "https://uspsa.org/match-results-details?index=39071"
+    },
+    {
+     "id": "19-01",
+     "date": "2020-11-07",
+     "match_url": "https://uspsa.org/match-results-details?index=38824"
+    },
+    {
+     "id": "99-23",
+     "date": "2020-11-07",
+     "match_url": "https://uspsa.org/match-results-details?index=38824"
+    },
+    {
+     "id": "19-03",
+     "date": "2020-11-07",
+     "match_url": "https://uspsa.org/match-results-details?index=38824"
+    },
+    {
+     "id": "03-18",
+     "date": "2020-11-07",
+     "match_url": "https://uspsa.org/match-results-details?index=38824"
+    },
+    {
+     "id": "03-04",
+     "date": "2020-11-07",
+     "match_url": "https://uspsa.org/match-results-details?index=38824"
+    },
+    {
+     "id": "19-04",
+     "date": "2020-11-07",
+     "match_url": "https://uspsa.org/match-results-details?index=38824"
+    },
+    {
+     "id": "99-11",
+     "date": "2020-10-03",
+     "match_url": "https://uspsa.org/match-results-details?index=38423"
+    },
+    {
+     "id": "08-03",
+     "date": "2020-09-05",
+     "match_url": "https://uspsa.org/match-results-details?index=37688"
+    },
+    {
+     "id": "09-14",
+     "date": "2020-08-01",
+     "match_url": "https://uspsa.org/match-results-details?index=39147"
+    },
+    {
+     "id": "99-10",
+     "date": "2020-02-01",
+     "match_url": "https://uspsa.org/match-results-details?index=35141"
+    },
+    {
+     "id": "18-06",
+     "date": "2020-01-04",
+     "match_url": "https://uspsa.org/match-results-details?index=34800"
+    },
+    {
+     "id": "08-03",
+     "date": "2019-12-07",
+     "match_url": "https://uspsa.org/match-results-details?index=34475"
+    },
+    {
+     "id": "99-12",
+     "date": "2019-11-02",
+     "match_url": "https://uspsa.org/match-results-details?index=34011"
+    },
+    {
+     "id": "03-18",
+     "date": "2019-10-05",
+     "match_url": "https://uspsa.org/match-results-details?index=33582"
+    },
+    {
+     "id": "13-05",
+     "date": "2019-09-07",
+     "match_url": "https://uspsa.org/match-results-details?index=33181"
+    },
+    {
+     "id": "03-07",
+     "date": "2019-07-06",
+     "match_url": "https://uspsa.org/match-results-details?index=32319"
+    },
+    {
+     "id": "09-07",
+     "date": "2019-05-04",
+     "match_url": "https://uspsa.org/match-results-details?index=31157"
+    },
+    {
+     "id": "03-11",
+     "date": "2019-04-06",
+     "match_url": "https://uspsa.org/match-results-details?index=30701"
+    },
+    {
+     "id": "18-08",
+     "date": "2019-03-02",
+     "match_url": "https://uspsa.org/match-results-details?index=30407"
+    },
+    {
+     "id": "18-07",
+     "date": "2019-02-02",
+     "match_url": "https://uspsa.org/match-results-details?index=29936"
+    },
+    {
+     "id": "18-07",
+     "date": "2019-01-05",
+     "match_url": "https://uspsa.org/match-results-details?index=29660"
+    },
+    {
+     "id": "18-04",
+     "date": "2018-12-01",
+     "match_url": "https://uspsa.org/match-results-details?index=29247"
+    },
+    {
+     "id": "03-03",
+     "date": "2018-11-03",
+     "match_url": "https://uspsa.org/match-results-details?index=29049"
+    },
+    {
+     "id": "09-04",
+     "date": "2018-10-06",
+     "match_url": "https://uspsa.org/match-results-details?index=28611"
+    },
+    {
+     "id": "09-14",
+     "date": "2018-07-07",
+     "match_url": "https://uspsa.org/match-results-details?index=27175"
+    },
+    {
+     "id": "99-62",
+     "date": "2018-06-02",
+     "match_url": "https://uspsa.org/match-results-details?index=26590"
+    },
+    {
+     "id": "13-05",
+     "date": "2018-05-05",
+     "match_url": "https://uspsa.org/match-results-details?index=26202"
+    },
+    {
+     "id": "99-34",
+     "date": "2018-03-03",
+     "match_url": "https://uspsa.org/match-results-details?index=25186"
+    },
+    {
+     "id": "06-05",
+     "date": "2018-02-03",
+     "match_url": "https://uspsa.org/match-results-details?index=24787"
+    },
+    {
+     "id": "13-02",
+     "date": "2018-01-06",
+     "match_url": "https://uspsa.org/match-results-details?index=24468"
+    },
+    {
+     "id": "06-09",
+     "date": "2017-12-02",
+     "match_url": "https://uspsa.org/match-results-details?index=24115"
+    },
+    {
+     "id": "99-14",
+     "date": "2017-11-04",
+     "match_url": "https://uspsa.org/match-results-details?index=23838"
+    }
+   ]
+  }
+ ],
+ "classifiers": [
+  {
+   "id": "03-03",
+   "name": "Take em Down",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-03.pdf"
+  },
+  {
+   "id": "03-05",
+   "name": "Paper Poppers",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-05.pdf"
+  },
+  {
+   "id": "03-07",
+   "name": "Riverdale Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-07.pdf"
+  },
+  {
+   "id": "03-08",
+   "name": "Madness",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-08.pdf"
+  },
+  {
+   "id": "03-09",
+   "name": "On the Move",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-09.pdf"
+  },
+  {
+   "id": "03-18",
+   "name": "High Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-18.pdf"
+  },
+  {
+   "id": "06-03",
+   "name": "Can You Count",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-03.pdf"
+  },
+  {
+   "id": "06-04",
+   "name": "Fluffy's Revenge 1",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-04.pdf"
+  },
+  {
+   "id": "06-05",
+   "name": "Fluffy's Revenge 2",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-05.pdf"
+  },
+  {
+   "id": "06-10",
+   "name": "Steely Speed VII",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-10.pdf"
+  },
+  {
+   "id": "08-02",
+   "name": "Steeler Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/08-02.pdf"
+  },
+  {
+   "id": "08-03",
+   "name": "Six",
+   "pdf_url": "https://uspsa.org/viewer/pdf/08-03.pdf"
+  },
+  {
+   "id": "09-10",
+   "name": "Life's Little Problems",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-10.pdf"
+  },
+  {
+   "id": "13-02",
+   "name": "Down The Middle",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-02.pdf"
+  },
+  {
+   "id": "13-04",
+   "name": "The Roscoe Rattle",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-04.pdf"
+  },
+  {
+   "id": "13-05",
+   "name": "Tick Tock",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-05.pdf"
+  },
+  {
+   "id": "13-06",
+   "name": "Too Close For Comfort",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-06.pdf"
+  },
+  {
+   "id": "18-03",
+   "name": "We Play Games",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-03.pdf"
+  },
+  {
+   "id": "18-05",
+   "name": "No Need To Believe In Either Side",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-05.pdf"
+  },
+  {
+   "id": "18-07",
+   "name": "Someone Is Always Willing To Pay",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-07.pdf"
+  },
+  {
+   "id": "18-08",
+   "name": "The Condor",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-08.pdf"
+  },
+  {
+   "id": "18-09",
+   "name": "I Miss That Kind of Clarity",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-09.pdf"
+  },
+  {
+   "id": "19-01",
+   "name": "HI-Jinx",
+   "pdf_url": "https://uspsa.org/viewer/pdf/19-01.pdf"
+  },
+  {
+   "id": "19-02",
+   "name": "HI-Way Robbery",
+   "pdf_url": "https://uspsa.org/viewer/pdf/19-02.pdf"
+  },
+  {
+   "id": "19-04",
+   "name": "HI Cost of Living",
+   "pdf_url": "https://uspsa.org/viewer/pdf/19-04.pdf"
+  },
+  {
+   "id": "20-01",
+   "name": "Wish You Were Here",
+   "pdf_url": "https://uspsa.org/viewer/pdf/20-01.pdf"
+  },
+  {
+   "id": "20-02",
+   "name": "Deja Vu",
+   "pdf_url": "https://uspsa.org/viewer/pdf/20-02.pdf"
+  },
+  {
+   "id": "20-03",
+   "name": "Deja Vu All Over Again",
+   "pdf_url": "https://uspsa.org/viewer/pdf/20-03.pdf"
+  },
+  {
+   "id": "21-01",
+   "name": "8 x 3 Trigger Freeze",
+   "pdf_url": "https://uspsa.org/viewer/pdf/21-01.pdf"
+  },
+  {
+   "id": "22-01",
+   "name": "Righty Tighty",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-01.pdf"
+  },
+  {
+   "id": "22-02",
+   "name": "Lefty Loosey",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-02.pdf"
+  },
+  {
+   "id": "22-04",
+   "name": "Calm Before the Storm",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-04.pdf"
+  },
+  {
+   "id": "22-06",
+   "name": "Blues Don't Care",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-06.pdf"
+  },
+  {
+   "id": "22-07",
+   "name": "Cross Road Blues",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-07.pdf"
+  },
+  {
+   "id": "23-01",
+   "name": "THS Short Course",
+   "pdf_url": "https://uspsa.org/viewer/pdf/23-01.pdf"
+  },
+  {
+   "id": "23-02",
+   "name": "This could be the Greatest Night of Our Lives",
+   "pdf_url": "https://uspsa.org/viewer/pdf/23-02.pdf"
+  },
+  {
+   "id": "24-01",
+   "name": "Can you Strong and Weak Hand?",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-01.pdf"
+  },
+  {
+   "id": "24-02",
+   "name": "This is more better now",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-02.pdf"
+  },
+  {
+   "id": "24-04",
+   "name": "The Thrill of the Bill Drill",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-04.pdf"
+  },
+  {
+   "id": "24-06",
+   "name": "Surely you can\u2019t be serious",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-06.pdf"
+  },
+  {
+   "id": "24-08",
+   "name": "And now for something completely different",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-08.pdf"
+  },
+  {
+   "id": "24-09",
+   "name": "Tres Cajas",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-09.pdf"
+  },
+  {
+   "id": "25-01",
+   "name": "Return to Monke",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-01.pdf"
+  },
+  {
+   "id": "25-02",
+   "name": "Look at Me I Am the Captain Now",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-02.pdf"
+  },
+  {
+   "id": "25-03",
+   "name": "Let Him Cook",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-03.pdf"
+  },
+  {
+   "id": "25-04",
+   "name": "We Did Our Homework",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-04.pdf"
+  },
+  {
+   "id": "25-05",
+   "name": "Its All Porta the Plan",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-05.pdf"
+  },
+  {
+   "id": "25-06",
+   "name": "They All Count",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-06.pdf"
+  },
+  {
+   "id": "25-07",
+   "name": "Absolute Cinema",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-07.pdf"
+  },
+  {
+   "id": "25-08",
+   "name": "We Lost Hero or Zero",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-08.pdf"
+  },
+  {
+   "id": "25-09",
+   "name": "Descent Into Madness",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-09.pdf"
+  },
+  {
+   "id": "26-01",
+   "name": "King Crab",
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-01.pdf"
+  },
+  {
+   "id": "26-02",
+   "name": "Darwinism",
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-02.pdf"
+  },
+  {
+   "id": "26-03",
+   "name": "Mike Who",
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-03.pdf"
+  },
+  {
+   "id": "26-04",
+   "name": "Uprange Seriously",
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-04.pdf"
+  },
+  {
+   "id": "26-05",
+   "name": "Downrange Obviously",
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-05.pdf"
+  },
+  {
+   "id": "99-08",
+   "name": "Melody Line",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-08.pdf"
+  },
+  {
+   "id": "99-10",
+   "name": "Times Two",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-10.pdf"
+  },
+  {
+   "id": "99-11",
+   "name": "El Presidente",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-11.pdf"
+  },
+  {
+   "id": "99-12",
+   "name": "Take Your Choice",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-12.pdf"
+  },
+  {
+   "id": "99-13",
+   "name": "Quicky II",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-13.pdf"
+  },
+  {
+   "id": "99-19",
+   "name": "Paynes Pain",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-19.pdf"
+  },
+  {
+   "id": "99-28",
+   "name": "Hillbillton Drill",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-28.pdf"
+  },
+  {
+   "id": "99-42",
+   "name": "Fast n Furious",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-42.pdf"
+  },
+  {
+   "id": "99-46",
+   "name": "Close Quarter Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-46.pdf"
+  },
+  {
+   "id": "99-53",
+   "name": "Triple Play",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-53.pdf"
+  },
+  {
+   "id": "99-57",
+   "name": "Bookouts Boogie",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-57.pdf"
+  },
+  {
+   "id": "99-62",
+   "name": "Bang and Clang",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-62.pdf"
+  }
+ ]
+}
