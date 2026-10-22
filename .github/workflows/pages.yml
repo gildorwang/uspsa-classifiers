@@ -26,7 +26,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install curl_cffi
-      - run: python scripts/build_site_data.py
+      # uspsa.org's Cloudflare usually blocks GitHub runner IPs (HTTP 403); fall back to the committed site/data.json.
+      - run: python scripts/build_site_data.py || echo "::warning::Scrape failed; deploying committed site/data.json"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

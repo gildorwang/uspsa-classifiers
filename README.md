@@ -24,14 +24,18 @@ python scripts/check_classifier.py 26-03 --clubs NW01,NW02
 ## Website
 
 `site/index.html` is a static page with the same checks, plus a sortable table of every active classifier
-showing its last-shot date. The `Deploy site` workflow (`.github/workflows/pages.yml`) runs on every push to `main`
-and once a day. It scrapes the club pages into `site/data.json` and deploys `site/` to GitHub Pages.
-To preview locally:
+showing its last-shot date. It reads `site/data.json`, a committed snapshot of the club pages.
+
+uspsa.org's Cloudflare blocks GitHub Actions IPs, so refresh the data from your own machine:
 
 ```
 python scripts/build_site_data.py
-python -m http.server --directory site
+git commit -am "Refresh club data" && git push
 ```
+
+The `Deploy site` workflow (`.github/workflows/pages.yml`) deploys `site/` to GitHub Pages on every push to `main`.
+It also runs daily and tries to re-scrape, keeping the committed snapshot if it's blocked.
+To preview locally: `python -m http.server --directory site`.
 
 ## Regenerate
 
