@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T06:38:18+00:00",
+ "generated_at": "2026-10-22T06:41:49+00:00",
  "clubs": [
   {
    "code": "NW01",
@@ -3571,342 +3571,614 @@
   {
    "id": "03-03",
    "name": "Take em Down",
-   "pdf_url": "https://uspsa.org/viewer/pdf/03-03.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-03.pdf",
+   "scoring": "Comstock",
+   "rounds": 11,
+   "paper_targets": 4,
+   "poppers": 3
   },
   {
    "id": "03-05",
    "name": "Paper Poppers",
-   "pdf_url": "https://uspsa.org/viewer/pdf/03-05.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-05.pdf",
+   "scoring": "Comstock",
+   "rounds": 10,
+   "paper_targets": 2,
+   "poppers": 6
   },
   {
    "id": "03-07",
    "name": "Riverdale Standards",
-   "pdf_url": "https://uspsa.org/viewer/pdf/03-07.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-07.pdf",
+   "scoring": "Virginia",
+   "rounds": 20,
+   "paper_targets": 4,
+   "poppers": 0
   },
   {
    "id": "03-08",
    "name": "Madness",
-   "pdf_url": "https://uspsa.org/viewer/pdf/03-08.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-08.pdf",
+   "scoring": "Virginia",
+   "rounds": 14,
+   "paper_targets": 7,
+   "poppers": 0
   },
   {
    "id": "03-09",
    "name": "On the Move",
-   "pdf_url": "https://uspsa.org/viewer/pdf/03-09.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-09.pdf",
+   "scoring": "Virginia",
+   "rounds": 16,
+   "paper_targets": 4,
+   "poppers": 0
   },
   {
    "id": "03-18",
    "name": "High Standards",
-   "pdf_url": "https://uspsa.org/viewer/pdf/03-18.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-18.pdf",
+   "scoring": "Virginia",
+   "rounds": 24,
+   "paper_targets": 3,
+   "poppers": 0
   },
   {
    "id": "06-03",
    "name": "Can You Count",
-   "pdf_url": "https://uspsa.org/viewer/pdf/06-03.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-03.pdf",
+   "scoring": "Virginia",
+   "rounds": 20,
+   "paper_targets": 4,
+   "poppers": 0
   },
   {
    "id": "06-04",
    "name": "Fluffy's Revenge 1",
-   "pdf_url": "https://uspsa.org/viewer/pdf/06-04.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-04.pdf",
+   "scoring": "Comstock",
+   "rounds": 8,
+   "paper_targets": 3,
+   "poppers": 2
   },
   {
    "id": "06-05",
    "name": "Fluffy's Revenge 2",
-   "pdf_url": "https://uspsa.org/viewer/pdf/06-05.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-05.pdf",
+   "scoring": "Comstock",
+   "rounds": 8,
+   "paper_targets": 3,
+   "poppers": 2
   },
   {
    "id": "06-10",
    "name": "Steely Speed VII",
-   "pdf_url": "https://uspsa.org/viewer/pdf/06-10.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-10.pdf",
+   "scoring": "Comstock",
+   "rounds": 6,
+   "paper_targets": 0,
+   "poppers": 6
   },
   {
    "id": "08-02",
    "name": "Steeler Standards",
-   "pdf_url": "https://uspsa.org/viewer/pdf/08-02.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/08-02.pdf",
+   "scoring": "Virginia",
+   "rounds": 20,
+   "paper_targets": 4,
+   "poppers": 0
   },
   {
    "id": "08-03",
    "name": "Six",
-   "pdf_url": "https://uspsa.org/viewer/pdf/08-03.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/08-03.pdf",
+   "scoring": "Comstock",
+   "rounds": 6,
+   "paper_targets": 2,
+   "poppers": 2
   },
   {
    "id": "09-10",
    "name": "Life's Little Problems",
-   "pdf_url": "https://uspsa.org/viewer/pdf/09-10.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-10.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "13-02",
    "name": "Down The Middle",
-   "pdf_url": "https://uspsa.org/viewer/pdf/13-02.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-02.pdf",
+   "scoring": "Virginia",
+   "rounds": 8,
+   "paper_targets": 4,
+   "poppers": 0
   },
   {
    "id": "13-04",
    "name": "The Roscoe Rattle",
-   "pdf_url": "https://uspsa.org/viewer/pdf/13-04.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-04.pdf",
+   "scoring": "Virginia",
+   "rounds": 18,
+   "paper_targets": 3,
+   "poppers": 0
   },
   {
    "id": "13-05",
    "name": "Tick Tock",
-   "pdf_url": "https://uspsa.org/viewer/pdf/13-05.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-05.pdf",
+   "scoring": "Virginia",
+   "rounds": 16,
+   "paper_targets": 4,
+   "poppers": 0
   },
   {
    "id": "13-06",
    "name": "Too Close For Comfort",
-   "pdf_url": "https://uspsa.org/viewer/pdf/13-06.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-06.pdf",
+   "scoring": "Virginia",
+   "rounds": 10,
+   "paper_targets": 5,
+   "poppers": 0
   },
   {
    "id": "18-03",
    "name": "We Play Games",
-   "pdf_url": "https://uspsa.org/viewer/pdf/18-03.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-03.pdf",
+   "scoring": "Virginia",
+   "rounds": 24,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "18-05",
    "name": "No Need To Believe In Either Side",
-   "pdf_url": "https://uspsa.org/viewer/pdf/18-05.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-05.pdf",
+   "scoring": "Comstock",
+   "rounds": 16,
+   "paper_targets": 6,
+   "poppers": 4
   },
   {
    "id": "18-07",
    "name": "Someone Is Always Willing To Pay",
-   "pdf_url": "https://uspsa.org/viewer/pdf/18-07.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-07.pdf",
+   "scoring": "Comstock",
+   "rounds": 8,
+   "paper_targets": 3,
+   "poppers": 2
   },
   {
    "id": "18-08",
    "name": "The Condor",
-   "pdf_url": "https://uspsa.org/viewer/pdf/18-08.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-08.pdf",
+   "scoring": "Virginia",
+   "rounds": 16,
+   "paper_targets": 8,
+   "poppers": 0
   },
   {
    "id": "18-09",
    "name": "I Miss That Kind of Clarity",
-   "pdf_url": "https://uspsa.org/viewer/pdf/18-09.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-09.pdf",
+   "scoring": "Virginia",
+   "rounds": 24,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "19-01",
    "name": "HI-Jinx",
-   "pdf_url": "https://uspsa.org/viewer/pdf/19-01.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/19-01.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "19-02",
    "name": "HI-Way Robbery",
-   "pdf_url": "https://uspsa.org/viewer/pdf/19-02.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/19-02.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 4,
+   "poppers": 4
   },
   {
    "id": "19-04",
    "name": "HI Cost of Living",
-   "pdf_url": "https://uspsa.org/viewer/pdf/19-04.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/19-04.pdf",
+   "scoring": "Comstock",
+   "rounds": 14,
+   "paper_targets": 7,
+   "poppers": 0
   },
   {
    "id": "20-01",
    "name": "Wish You Were Here",
-   "pdf_url": "https://uspsa.org/viewer/pdf/20-01.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/20-01.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 5,
+   "poppers": 2
   },
   {
    "id": "20-02",
    "name": "Deja Vu",
-   "pdf_url": "https://uspsa.org/viewer/pdf/20-02.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/20-02.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "20-03",
    "name": "Deja Vu All Over Again",
-   "pdf_url": "https://uspsa.org/viewer/pdf/20-03.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/20-03.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 4,
+   "poppers": 4
   },
   {
    "id": "21-01",
    "name": "8 x 3 Trigger Freeze",
-   "pdf_url": "https://uspsa.org/viewer/pdf/21-01.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/21-01.pdf",
+   "scoring": "Comstock",
+   "rounds": 24,
+   "paper_targets": 12,
+   "poppers": 0
   },
   {
    "id": "22-01",
    "name": "Righty Tighty",
-   "pdf_url": "https://uspsa.org/viewer/pdf/22-01.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-01.pdf",
+   "scoring": "Comstock",
+   "rounds": 18,
+   "paper_targets": 9,
+   "poppers": 0
   },
   {
    "id": "22-02",
    "name": "Lefty Loosey",
-   "pdf_url": "https://uspsa.org/viewer/pdf/22-02.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-02.pdf",
+   "scoring": "Comstock",
+   "rounds": 18,
+   "paper_targets": 9,
+   "poppers": 0
   },
   {
    "id": "22-04",
    "name": "Calm Before the Storm",
-   "pdf_url": "https://uspsa.org/viewer/pdf/22-04.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-04.pdf",
+   "scoring": "Virginia",
+   "rounds": 16,
+   "paper_targets": 4,
+   "poppers": 0
   },
   {
    "id": "22-06",
    "name": "Blues Don't Care",
-   "pdf_url": "https://uspsa.org/viewer/pdf/22-06.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-06.pdf",
+   "scoring": "Comstock",
+   "rounds": 7,
+   "paper_targets": 3,
+   "poppers": 1
   },
   {
    "id": "22-07",
    "name": "Cross Road Blues",
-   "pdf_url": "https://uspsa.org/viewer/pdf/22-07.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-07.pdf",
+   "scoring": "Comstock",
+   "rounds": 14,
+   "paper_targets": 7,
+   "poppers": 0
   },
   {
    "id": "23-01",
    "name": "THS Short Course",
-   "pdf_url": "https://uspsa.org/viewer/pdf/23-01.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/23-01.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "23-02",
    "name": "This could be the Greatest Night of Our Lives",
-   "pdf_url": "https://uspsa.org/viewer/pdf/23-02.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/23-02.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "24-01",
    "name": "Can you Strong and Weak Hand?",
-   "pdf_url": "https://uspsa.org/viewer/pdf/24-01.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-01.pdf",
+   "scoring": "Virginia",
+   "rounds": 24,
+   "paper_targets": 4,
+   "poppers": 0
   },
   {
    "id": "24-02",
    "name": "This is more better now",
-   "pdf_url": "https://uspsa.org/viewer/pdf/24-02.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-02.pdf",
+   "scoring": "Comstock",
+   "rounds": 18,
+   "paper_targets": 9,
+   "poppers": 0
   },
   {
    "id": "24-04",
    "name": "The Thrill of the Bill Drill",
-   "pdf_url": "https://uspsa.org/viewer/pdf/24-04.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-04.pdf",
+   "scoring": "Virginia",
+   "rounds": 18,
+   "paper_targets": 3,
+   "poppers": 0
   },
   {
    "id": "24-06",
    "name": "Surely you can\u2019t be serious",
-   "pdf_url": "https://uspsa.org/viewer/pdf/24-06.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-06.pdf",
+   "scoring": "Comstock",
+   "rounds": 18,
+   "paper_targets": 9,
+   "poppers": 0
   },
   {
    "id": "24-08",
    "name": "And now for something completely different",
-   "pdf_url": "https://uspsa.org/viewer/pdf/24-08.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-08.pdf",
+   "scoring": "Comstock",
+   "rounds": 24,
+   "paper_targets": 12,
+   "poppers": 0
   },
   {
    "id": "24-09",
    "name": "Tres Cajas",
-   "pdf_url": "https://uspsa.org/viewer/pdf/24-09.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-09.pdf",
+   "scoring": "Comstock",
+   "rounds": 18,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "25-01",
    "name": "Return to Monke",
-   "pdf_url": "https://uspsa.org/viewer/pdf/25-01.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-01.pdf",
+   "scoring": "Comstock",
+   "rounds": 19,
+   "paper_targets": 9,
+   "poppers": 1
   },
   {
    "id": "25-02",
    "name": "Look at Me I Am the Captain Now",
-   "pdf_url": "https://uspsa.org/viewer/pdf/25-02.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-02.pdf",
+   "scoring": "Comstock",
+   "rounds": 10,
+   "paper_targets": 5,
+   "poppers": 0
   },
   {
    "id": "25-03",
    "name": "Let Him Cook",
-   "pdf_url": "https://uspsa.org/viewer/pdf/25-03.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-03.pdf",
+   "scoring": "Comstock",
+   "rounds": 10,
+   "paper_targets": 5,
+   "poppers": 0
   },
   {
    "id": "25-04",
    "name": "We Did Our Homework",
-   "pdf_url": "https://uspsa.org/viewer/pdf/25-04.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-04.pdf",
+   "scoring": "Comstock",
+   "rounds": 10,
+   "paper_targets": 5,
+   "poppers": 0
   },
   {
    "id": "25-05",
    "name": "Its All Porta the Plan",
-   "pdf_url": "https://uspsa.org/viewer/pdf/25-05.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-05.pdf",
+   "scoring": "Comstock",
+   "rounds": 16,
+   "paper_targets": 6,
+   "poppers": 4
   },
   {
    "id": "25-06",
    "name": "They All Count",
-   "pdf_url": "https://uspsa.org/viewer/pdf/25-06.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-06.pdf",
+   "scoring": "Comstock",
+   "rounds": 14,
+   "paper_targets": 7,
+   "poppers": 0
   },
   {
    "id": "25-07",
    "name": "Absolute Cinema",
-   "pdf_url": "https://uspsa.org/viewer/pdf/25-07.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-07.pdf",
+   "scoring": "Comstock",
+   "rounds": 14,
+   "paper_targets": 7,
+   "poppers": 0
   },
   {
    "id": "25-08",
    "name": "We Lost Hero or Zero",
-   "pdf_url": "https://uspsa.org/viewer/pdf/25-08.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-08.pdf",
+   "scoring": "Comstock",
+   "rounds": 10,
+   "paper_targets": 5,
+   "poppers": 0
   },
   {
    "id": "25-09",
    "name": "Descent Into Madness",
-   "pdf_url": "https://uspsa.org/viewer/pdf/25-09.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-09.pdf",
+   "scoring": "Virginia",
+   "rounds": 12,
+   "paper_targets": 4,
+   "poppers": 0
   },
   {
    "id": "26-01",
    "name": "King Crab",
-   "pdf_url": "https://uspsa.org/viewer/pdf/26-01.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-01.pdf",
+   "scoring": "Comstock",
+   "rounds": 14,
+   "paper_targets": 6,
+   "poppers": 2
   },
   {
    "id": "26-02",
    "name": "Darwinism",
-   "pdf_url": "https://uspsa.org/viewer/pdf/26-02.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-02.pdf",
+   "scoring": "Comstock",
+   "rounds": 14,
+   "paper_targets": 6,
+   "poppers": 2
   },
   {
    "id": "26-03",
    "name": "Mike Who",
-   "pdf_url": "https://uspsa.org/viewer/pdf/26-03.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-03.pdf",
+   "scoring": "Comstock",
+   "rounds": 10,
+   "paper_targets": 5,
+   "poppers": 0
   },
   {
    "id": "26-04",
    "name": "Uprange Seriously",
-   "pdf_url": "https://uspsa.org/viewer/pdf/26-04.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-04.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "26-05",
    "name": "Downrange Obviously",
-   "pdf_url": "https://uspsa.org/viewer/pdf/26-05.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-05.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "99-08",
    "name": "Melody Line",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-08.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-08.pdf",
+   "scoring": "Virginia",
+   "rounds": 12,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "99-10",
    "name": "Times Two",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-10.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-10.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "99-11",
    "name": "El Presidente",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-11.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-11.pdf",
+   "scoring": "Virginia",
+   "rounds": 12,
+   "paper_targets": 3,
+   "poppers": 0
   },
   {
    "id": "99-12",
    "name": "Take Your Choice",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-12.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-12.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 6,
+   "poppers": 0
   },
   {
    "id": "99-13",
    "name": "Quicky II",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-13.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-13.pdf",
+   "scoring": "Virginia",
+   "rounds": 24,
+   "paper_targets": 3,
+   "poppers": 0
   },
   {
    "id": "99-19",
    "name": "Paynes Pain",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-19.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-19.pdf",
+   "scoring": "Virginia",
+   "rounds": 12,
+   "paper_targets": 4,
+   "poppers": 0
   },
   {
    "id": "99-28",
    "name": "Hillbillton Drill",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-28.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-28.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 3,
+   "poppers": 6
   },
   {
    "id": "99-42",
    "name": "Fast n Furious",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-42.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-42.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 4,
+   "poppers": 4
   },
   {
    "id": "99-46",
    "name": "Close Quarter Standards",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-46.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-46.pdf",
+   "scoring": "Virginia",
+   "rounds": 24,
+   "paper_targets": 3,
+   "poppers": 0
   },
   {
    "id": "99-53",
    "name": "Triple Play",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-53.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-53.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 3,
+   "poppers": 6
   },
   {
    "id": "99-57",
    "name": "Bookouts Boogie",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-57.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-57.pdf",
+   "scoring": "Comstock",
+   "rounds": 12,
+   "paper_targets": 4,
+   "poppers": 4
   },
   {
    "id": "99-62",
    "name": "Bang and Clang",
-   "pdf_url": "https://uspsa.org/viewer/pdf/99-62.pdf"
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-62.pdf",
+   "scoring": "Comstock",
+   "rounds": 6,
+   "paper_targets": 1,
+   "poppers": 4
   }
  ],
  "index": {
