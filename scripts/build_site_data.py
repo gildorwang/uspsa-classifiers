@@ -35,7 +35,7 @@ def main():
             for club, info in data.items()
         ],
         "classifiers": [
-            {"id": c["id"], "name": c.get("name"), "pdf_url": c.get("pdf_url")}
+            {k: c.get(k) for k in ("id", "name", "pdf_url", "scoring", "rounds", "paper_targets", "poppers")}
             for c in sorted(active.values(), key=lambda c: c["id"])
         ],
         # Every classifier on uspsa.org (incl. retired), for names and PDF links in lookups.

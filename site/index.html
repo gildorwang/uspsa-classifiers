@@ -8,7 +8,8 @@
   :root { --ok: #1b7f3b; --bad: #b42318; --muted: #667085; --border: #d0d5dd; }
   * { box-sizing: border-box; }
   body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; margin: 0; color: #101828; background: #f9fafb; }
-  main { max-width: 960px; margin: 0 auto; padding: 1rem; }
+  main { max-width: 1100px; margin: 0 auto; padding: 1rem; }
+  @media (max-width: 800px) { .table-wrap { overflow-x: auto; } }
   h1 { font-size: 1.5rem; margin: .5rem 0; }
   h2 { font-size: 1.15rem; margin: 1.5rem 0 .5rem; }
   .muted { color: var(--muted); font-size: .9rem; }
@@ -27,8 +28,9 @@
   li.recent { font-weight: 600; }
   table { border-collapse: collapse; width: 100%; background: #fff; }
   th, td { text-align: left; padding: .35rem .5rem; border-bottom: 1px solid #eaecf0; font-size: .92rem; vertical-align: top; }
-  th { cursor: pointer; user-select: none; background: #f2f4f7; position: sticky; top: 0; }
+  th { cursor: pointer; user-select: none; background: #f2f4f7; position: sticky; top: 0; white-space: nowrap; }
   th.sorted::after { content: " \25B4"; }
+  th.num, td.num { text-align: right; }
   th.sorted.desc::after { content: " \25BE"; }
   a { color: #175cd3; }
   .error { color: var(--bad); font-weight: 600; }
@@ -57,16 +59,20 @@
     <label><input id="only-unshot" type="checkbox"> Only show ones not shot recently</label>
     <span id="summary" class="muted"></span>
   </div>
-  <table>
+  <div class="table-wrap"><table>
     <thead><tr>
       <th data-key="id">Classifier</th>
       <th data-key="name">Name</th>
       <th>Stage</th>
+      <th data-key="scoring">Scoring</th>
+      <th data-key="rounds" class="num">Rounds</th>
+      <th data-key="paper_targets" class="num">Paper</th>
+      <th data-key="poppers" class="num">Poppers</th>
       <th data-key="last">Last shot (any club)</th>
       <th data-key="recent">Recently shot by</th>
     </tr></thead>
     <tbody id="table"></tbody>
-  </table>
+  </table></div>
 </main>
 
 <script>
@@ -136,13 +142,19 @@ function renderTable() {
   $("summary").textContent = `${unshotCount} of ${rows.length} not shot since ${since}`;
   if ($("only-unshot").checked) rows = rows.filter((r) => !r.recent);
   rows.sort((a, b) => {
-    const r = String(a[sortKey] ?? "").localeCompare(String(b[sortKey] ?? "")) || a.id.localeCompare(b.id);
+    const x = a[sortKey], y = b[sortKey];
+    const cmp = typeof x === "number" && typeof y === "number" ? x - y : String(x ?? "").localeCompare(String(y ?? ""));
+    const r = cmp || a.id.localeCompare(b.id);
     return sortDesc ? -r : r;
   });
   $("table").innerHTML = rows.map((r) => `<tr>
     <td><a href="#" data-id="${esc(r.id)}">${esc(r.id)}</a></td>
     <td>${esc(r.name)}</td>
     <td>${r.pdf_url ? `<a class="pdf" href="${esc(r.pdf_url)}" target="_blank" rel="noopener">PDF</a>` : ""}</td>
+    <td>${esc(r.scoring)}</td>
+    <td class="num">${esc(r.rounds)}</td>
+    <td class="num">${esc(r.paper_targets)}</td>
+    <td class="num">${esc(r.poppers)}</td>
     <td>${r.last ? `${r.last} <span class="muted">(${esc(r.lastClub)})</span>` : '<span class="muted">never</span>'}</td>
     <td class="${r.recent ? "bad" : "ok"}">${r.recent ? esc(r.recent) : "&ndash;"}</td></tr>`).join("");
   document.querySelectorAll("th").forEach((th) => {
