@@ -101,13 +101,14 @@ def extract(card: dict) -> dict:
     desc = targets_description(text)
     paper, poppers, plates, unknown = parse_targets(desc or "")
     if plates:
-        notes.append(f"{plates} steel plate(s) in addition to poppers ({desc})")
+        poppers += plates
+        notes.append(f"popper count includes {plates} steel plate(s) ({desc})")
     if unknown:
         notes.append(f"unrecognized target types: {unknown}")
 
     m = re.search(r"Best\s+(\d+)", f, re.I)
     hits = int(m.group(1)) if m else None
-    steel = poppers + plates
+    steel = poppers
     if hits is None and paper and rounds:
         if (rounds - steel) % paper == 0:
             hits = (rounds - steel) // paper
