@@ -9,6 +9,7 @@ from datetime import datetime, timezone
 from check_classifier import DEFAULT_CLUBS, ROOT, fetch_all, load_active_classifiers
 
 OUT = ROOT / "site" / "data.json"
+INDEX_JSON = ROOT / "data" / "classifier_index.json"
 
 
 def main():
@@ -37,6 +38,11 @@ def main():
             {"id": c["id"], "name": c.get("name"), "pdf_url": c.get("pdf_url")}
             for c in sorted(active.values(), key=lambda c: c["id"])
         ],
+        # Every classifier on uspsa.org (incl. retired), for names and PDF links in lookups.
+        "index": {
+            c["id"]: {"name": c.get("name"), "pdf_url": c.get("pdf_url"), "retired": c.get("retired", False)}
+            for c in json.loads(INDEX_JSON.read_text())
+        } if INDEX_JSON.exists() else {},
     }
     OUT.write_text(json.dumps(out, indent=1))
     print(f"wrote {OUT} ({sum(len(c['shots']) for c in out['clubs'])} shots)")

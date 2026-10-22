@@ -32,6 +32,7 @@
   th.sorted.desc::after { content: " \25BE"; }
   a { color: #175cd3; }
   .error { color: var(--bad); font-weight: 600; }
+  a.pdf { font-size: .8rem; font-weight: 600; border: 1px solid currentColor; border-radius: 4px; padding: 0 .3rem; text-decoration: none; }
 </style>
 </head>
 <body>
@@ -60,6 +61,7 @@
     <thead><tr>
       <th data-key="id">Classifier</th>
       <th data-key="name">Name</th>
+      <th>Stage</th>
       <th data-key="last">Last shot (any club)</th>
       <th data-key="recent">Recently shot by</th>
     </tr></thead>
@@ -98,10 +100,13 @@ function renderResults() {
   if (!ids.length) { out.innerHTML = ""; return; }
   const since = cutoff(), byId = shotsById();
   const names = new Map(DATA.classifiers.map((c) => [c.id, c]));
+  const index = DATA.index || {};
   out.innerHTML = ids.map((id) => {
     if (!/^\d{2}-\d{2}$/.test(id)) return `<div class="result"><span class="error">${esc(id)}</span>: expected a format like 26-03</div>`;
-    const info = names.get(id);
-    const title = info ? `${esc(id)} &ndash; ${esc(info.name)}` : `${esc(id)} <span class="muted">(not an active classifier)</span>`;
+    const info = names.get(id) || index[id];
+    const pdf = info?.pdf_url ? ` <a class="pdf" href="${esc(info.pdf_url)}" target="_blank" rel="noopener">PDF</a>` : "";
+    const status = names.has(id) ? "" : ` <span class="muted">(${index[id]?.retired ? "retired" : "not an active classifier"})</span>`;
+    const title = `${esc(id)}${info?.name ? ` &ndash; ${esc(info.name)}` : ""}${pdf}${status}`;
     const shots = byId.get(id) || [];
     const perClub = new Map();
     for (const s of shots) {
@@ -136,7 +141,8 @@ function renderTable() {
   });
   $("table").innerHTML = rows.map((r) => `<tr>
     <td><a href="#" data-id="${esc(r.id)}">${esc(r.id)}</a></td>
-    <td>${r.pdf_url ? `<a href="${esc(r.pdf_url)}" target="_blank" rel="noopener">${esc(r.name)}</a>` : esc(r.name)}</td>
+    <td>${esc(r.name)}</td>
+    <td>${r.pdf_url ? `<a class="pdf" href="${esc(r.pdf_url)}" target="_blank" rel="noopener">PDF</a>` : ""}</td>
     <td>${r.last ? `${r.last} <span class="muted">(${esc(r.lastClub)})</span>` : '<span class="muted">never</span>'}</td>
     <td class="${r.recent ? "bad" : "ok"}">${r.recent ? esc(r.recent) : "&ndash;"}</td></tr>`).join("");
   document.querySelectorAll("th").forEach((th) => {

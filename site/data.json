@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T06:30:20+00:00",
+ "generated_at": "2026-10-22T06:38:18+00:00",
  "clubs": [
   {
    "code": "NW01",
@@ -3908,5 +3908,777 @@
    "name": "Bang and Clang",
    "pdf_url": "https://uspsa.org/viewer/pdf/99-62.pdf"
   }
- ]
+ ],
+ "index": {
+  "03-03": {
+   "name": "Take em Down",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-03.pdf",
+   "retired": false
+  },
+  "03-05": {
+   "name": "Paper Poppers",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-05.pdf",
+   "retired": false
+  },
+  "03-07": {
+   "name": "Riverdale Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-07.pdf",
+   "retired": false
+  },
+  "03-08": {
+   "name": "Madness",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-08.pdf",
+   "retired": false
+  },
+  "03-09": {
+   "name": "On the Move",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-09.pdf",
+   "retired": false
+  },
+  "03-18": {
+   "name": "High Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-18.pdf",
+   "retired": false
+  },
+  "06-03": {
+   "name": "Can You Count",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-03.pdf",
+   "retired": false
+  },
+  "06-04": {
+   "name": "Fluffy's Revenge 1",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-04.pdf",
+   "retired": false
+  },
+  "06-05": {
+   "name": "Fluffy's Revenge 2",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-05.pdf",
+   "retired": false
+  },
+  "06-10": {
+   "name": "Steely Speed VII",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-10.pdf",
+   "retired": false
+  },
+  "08-02": {
+   "name": "Steeler Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/08-02.pdf",
+   "retired": false
+  },
+  "08-03": {
+   "name": "Six",
+   "pdf_url": "https://uspsa.org/viewer/pdf/08-03.pdf",
+   "retired": false
+  },
+  "09-10": {
+   "name": "Life's Little Problems",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-10.pdf",
+   "retired": false
+  },
+  "13-02": {
+   "name": "Down The Middle",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-02.pdf",
+   "retired": false
+  },
+  "13-04": {
+   "name": "The Roscoe Rattle",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-04.pdf",
+   "retired": false
+  },
+  "13-05": {
+   "name": "Tick Tock",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-05.pdf",
+   "retired": false
+  },
+  "13-06": {
+   "name": "Too Close For Comfort",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-06.pdf",
+   "retired": false
+  },
+  "18-03": {
+   "name": "We Play Games",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-03.pdf",
+   "retired": false
+  },
+  "18-05": {
+   "name": "No Need To Believe In Either Side",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-05.pdf",
+   "retired": false
+  },
+  "18-07": {
+   "name": "Someone Is Always Willing To Pay",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-07.pdf",
+   "retired": false
+  },
+  "18-08": {
+   "name": "The Condor",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-08.pdf",
+   "retired": false
+  },
+  "18-09": {
+   "name": "I Miss That Kind of Clarity",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-09.pdf",
+   "retired": false
+  },
+  "19-01": {
+   "name": "HI-Jinx",
+   "pdf_url": "https://uspsa.org/viewer/pdf/19-01.pdf",
+   "retired": false
+  },
+  "19-02": {
+   "name": "HI-Way Robbery",
+   "pdf_url": "https://uspsa.org/viewer/pdf/19-02.pdf",
+   "retired": false
+  },
+  "19-04": {
+   "name": "HI Cost of Living",
+   "pdf_url": "https://uspsa.org/viewer/pdf/19-04.pdf",
+   "retired": false
+  },
+  "20-01": {
+   "name": "Wish You Were Here",
+   "pdf_url": "https://uspsa.org/viewer/pdf/20-01.pdf",
+   "retired": false
+  },
+  "20-02": {
+   "name": "Deja Vu",
+   "pdf_url": "https://uspsa.org/viewer/pdf/20-02.pdf",
+   "retired": false
+  },
+  "20-03": {
+   "name": "Deja Vu All Over Again",
+   "pdf_url": "https://uspsa.org/viewer/pdf/20-03.pdf",
+   "retired": false
+  },
+  "21-01": {
+   "name": "8 x 3 Trigger Freeze",
+   "pdf_url": "https://uspsa.org/viewer/pdf/21-01.pdf",
+   "retired": false
+  },
+  "22-01": {
+   "name": "Righty Tighty",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-01.pdf",
+   "retired": false
+  },
+  "22-02": {
+   "name": "Lefty Loosey",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-02.pdf",
+   "retired": false
+  },
+  "22-04": {
+   "name": "Calm Before the Storm",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-04.pdf",
+   "retired": false
+  },
+  "22-06": {
+   "name": "Blues Don't Care",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-06.pdf",
+   "retired": false
+  },
+  "22-07": {
+   "name": "Cross Road Blues",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-07.pdf",
+   "retired": false
+  },
+  "23-01": {
+   "name": "THS Short Course",
+   "pdf_url": "https://uspsa.org/viewer/pdf/23-01.pdf",
+   "retired": false
+  },
+  "23-02": {
+   "name": "This could be the Greatest Night of Our Lives",
+   "pdf_url": "https://uspsa.org/viewer/pdf/23-02.pdf",
+   "retired": false
+  },
+  "24-01": {
+   "name": "Can you Strong and Weak Hand?",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-01.pdf",
+   "retired": false
+  },
+  "24-02": {
+   "name": "This is more better now",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-02.pdf",
+   "retired": false
+  },
+  "24-04": {
+   "name": "The Thrill of the Bill Drill",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-04.pdf",
+   "retired": false
+  },
+  "24-06": {
+   "name": "Surely you can\u2019t be serious",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-06.pdf",
+   "retired": false
+  },
+  "24-08": {
+   "name": "And now for something completely different",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-08.pdf",
+   "retired": false
+  },
+  "24-09": {
+   "name": "Tres Cajas",
+   "pdf_url": "https://uspsa.org/viewer/pdf/24-09.pdf",
+   "retired": false
+  },
+  "25-01": {
+   "name": "Return to Monke",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-01.pdf",
+   "retired": false
+  },
+  "25-02": {
+   "name": "Look at Me I Am the Captain Now",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-02.pdf",
+   "retired": false
+  },
+  "25-03": {
+   "name": "Let Him Cook",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-03.pdf",
+   "retired": false
+  },
+  "25-04": {
+   "name": "We Did Our Homework",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-04.pdf",
+   "retired": false
+  },
+  "25-05": {
+   "name": "Its All Porta the Plan",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-05.pdf",
+   "retired": false
+  },
+  "25-06": {
+   "name": "They All Count",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-06.pdf",
+   "retired": false
+  },
+  "25-07": {
+   "name": "Absolute Cinema",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-07.pdf",
+   "retired": false
+  },
+  "25-08": {
+   "name": "We Lost Hero or Zero",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-08.pdf",
+   "retired": false
+  },
+  "25-09": {
+   "name": "Descent Into Madness",
+   "pdf_url": "https://uspsa.org/viewer/pdf/25-09.pdf",
+   "retired": false
+  },
+  "26-01": {
+   "name": "King Crab",
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-01.pdf",
+   "retired": false
+  },
+  "26-02": {
+   "name": "Darwinism",
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-02.pdf",
+   "retired": false
+  },
+  "26-03": {
+   "name": "Mike Who",
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-03.pdf",
+   "retired": false
+  },
+  "26-04": {
+   "name": "Uprange Seriously",
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-04.pdf",
+   "retired": false
+  },
+  "26-05": {
+   "name": "Downrange Obviously",
+   "pdf_url": "https://uspsa.org/viewer/pdf/26-05.pdf",
+   "retired": false
+  },
+  "99-08": {
+   "name": "Melody Line",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-08.pdf",
+   "retired": false
+  },
+  "99-10": {
+   "name": "Times Two",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-10.pdf",
+   "retired": false
+  },
+  "99-11": {
+   "name": "El Presidente",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-11.pdf",
+   "retired": false
+  },
+  "99-12": {
+   "name": "Take Your Choice",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-12.pdf",
+   "retired": false
+  },
+  "99-13": {
+   "name": "Quicky II",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-13.pdf",
+   "retired": false
+  },
+  "99-19": {
+   "name": "Paynes Pain",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-19.pdf",
+   "retired": false
+  },
+  "99-28": {
+   "name": "Hillbillton Drill",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-28.pdf",
+   "retired": false
+  },
+  "99-42": {
+   "name": "Fast n Furious",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-42.pdf",
+   "retired": false
+  },
+  "99-46": {
+   "name": "Close Quarter Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-46.pdf",
+   "retired": false
+  },
+  "99-53": {
+   "name": "Triple Play",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-53.pdf",
+   "retired": false
+  },
+  "99-57": {
+   "name": "Bookouts Boogie",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-57.pdf",
+   "retired": false
+  },
+  "99-62": {
+   "name": "Bang and Clang",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-62.pdf",
+   "retired": false
+  },
+  "03-02": {
+   "name": "Six Chickens",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-02.pdf",
+   "retired": true
+  },
+  "03-04": {
+   "name": "3-V",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-04.pdf",
+   "retired": true
+  },
+  "03-10": {
+   "name": "Area 5 Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-10.pdf",
+   "retired": true
+  },
+  "03-11": {
+   "name": "El Strong & Weak Pres",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-11.pdf",
+   "retired": true
+  },
+  "03-12": {
+   "name": "Ironsides",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-12.pdf",
+   "retired": true
+  },
+  "03-14": {
+   "name": "Baseball Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/03-14.pdf",
+   "retired": true
+  },
+  "06-01": {
+   "name": "Big Barricade",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-01.pdf",
+   "retired": true
+  },
+  "06-02": {
+   "name": "Big Barricade II",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-02.pdf",
+   "retired": true
+  },
+  "06-06": {
+   "name": "Golden Bullet Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-06.pdf",
+   "retired": true
+  },
+  "06-07": {
+   "name": "Steely Speed IV",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-07.pdf",
+   "retired": true
+  },
+  "06-08": {
+   "name": "Steely Speed V",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-08.pdf",
+   "retired": true
+  },
+  "06-09": {
+   "name": "Steely Speed VI",
+   "pdf_url": "https://uspsa.org/viewer/pdf/06-09.pdf",
+   "retired": true
+  },
+  "08-01": {
+   "name": "4 Bill Drill",
+   "pdf_url": "https://uspsa.org/viewer/pdf/08-01.pdf",
+   "retired": true
+  },
+  "08-04": {
+   "name": "Seven",
+   "pdf_url": "https://uspsa.org/viewer/pdf/08-04.pdf",
+   "retired": true
+  },
+  "08-05": {
+   "name": "Long Range Standards 2",
+   "pdf_url": "https://uspsa.org/viewer/pdf/08-05.pdf",
+   "retired": true
+  },
+  "08-06": {
+   "name": "Area 4 Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/08-06.pdf",
+   "retired": true
+  },
+  "09-01": {
+   "name": "Six In Six Challenge",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-01.pdf",
+   "retired": true
+  },
+  "09-02": {
+   "name": "Diamond Cutter",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-02.pdf",
+   "retired": true
+  },
+  "09-03": {
+   "name": "Oh No",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-03.pdf",
+   "retired": true
+  },
+  "09-04": {
+   "name": "Pucker Factor",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-04.pdf",
+   "retired": true
+  },
+  "09-05": {
+   "name": "Quad Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-05.pdf",
+   "retired": true
+  },
+  "09-06": {
+   "name": "Quad Standards 2",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-06.pdf",
+   "retired": true
+  },
+  "09-07": {
+   "name": "It's Not Brain Surgery",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-07.pdf",
+   "retired": true
+  },
+  "09-08": {
+   "name": "Crackerjack",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-08.pdf",
+   "retired": true
+  },
+  "09-09": {
+   "name": "Lightning And Thunder",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-09.pdf",
+   "retired": true
+  },
+  "09-11": {
+   "name": "Razor's Edge",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-11.pdf",
+   "retired": true
+  },
+  "09-12": {
+   "name": "Any Given Sunday",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-12.pdf",
+   "retired": true
+  },
+  "09-13": {
+   "name": "Table Stakes",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-13.pdf",
+   "retired": true
+  },
+  "09-14": {
+   "name": "Eye Of The Tiger",
+   "pdf_url": "https://uspsa.org/viewer/pdf/09-14.pdf",
+   "retired": true
+  },
+  "13-01": {
+   "name": "Disaster Factor",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-01.pdf",
+   "retired": true
+  },
+  "13-03": {
+   "name": "Short Sprint Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-03.pdf",
+   "retired": true
+  },
+  "13-07": {
+   "name": "Double Deal 2",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-07.pdf",
+   "retired": true
+  },
+  "13-08": {
+   "name": "More Disaster Factor",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-08.pdf",
+   "retired": true
+  },
+  "13-09": {
+   "name": "Window Pain",
+   "pdf_url": "https://uspsa.org/viewer/pdf/13-09.pdf",
+   "retired": true
+  },
+  "18-01": {
+   "name": "Of Course It Did",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-01.pdf",
+   "retired": true
+  },
+  "18-02": {
+   "name": "What Is With You People",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-02.pdf",
+   "retired": true
+  },
+  "18-04": {
+   "name": "Didn\u2019t You Send The Mailman",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-04.pdf",
+   "retired": true
+  },
+  "18-06": {
+   "name": "For That Day",
+   "pdf_url": "https://uspsa.org/viewer/pdf/18-06.pdf",
+   "retired": true
+  },
+  "19-03": {
+   "name": "HI'er Love",
+   "pdf_url": "https://uspsa.org/viewer/pdf/19-03.pdf",
+   "retired": true
+  },
+  "22-05": {
+   "name": "Win Some Lose Some",
+   "pdf_url": "https://uspsa.org/viewer/pdf/22-05.pdf",
+   "retired": true
+  },
+  "99-01": {
+   "name": "Back to Basics Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-01.pdf",
+   "retired": true
+  },
+  "99-02": {
+   "name": "Night Moves",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-02.pdf",
+   "retired": true
+  },
+  "99-03": {
+   "name": "Celeritas and Diligentia",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-03.pdf",
+   "retired": true
+  },
+  "99-04": {
+   "name": "American Standard",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-04.pdf",
+   "retired": true
+  },
+  "99-05": {
+   "name": "Mob Job",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-05.pdf",
+   "retired": true
+  },
+  "99-06": {
+   "name": "Toe The Line",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-06.pdf",
+   "retired": true
+  },
+  "99-07": {
+   "name": "Both Sides Now #1",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-07.pdf",
+   "retired": true
+  },
+  "99-09": {
+   "name": "Long Range Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-09.pdf",
+   "retired": true
+  },
+  "99-14": {
+   "name": "Hoser Heaven",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-14.pdf",
+   "retired": true
+  },
+  "99-15": {
+   "name": "Dilegentia and Celeritas",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-15.pdf",
+   "retired": true
+  },
+  "99-16": {
+   "name": "Both Sides Now #2",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-16.pdf",
+   "retired": true
+  },
+  "99-17": {
+   "name": "Its All in the Upper Zone",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-17.pdf",
+   "retired": true
+  },
+  "99-18": {
+   "name": "You Snooze, You Lose",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-18.pdf",
+   "retired": true
+  },
+  "99-20": {
+   "name": "Fish House Encounter",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-20.pdf",
+   "retired": true
+  },
+  "99-21": {
+   "name": "Mini Mart",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-21.pdf",
+   "retired": true
+  },
+  "99-22": {
+   "name": "Nueve El Presidente",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-22.pdf",
+   "retired": true
+  },
+  "99-23": {
+   "name": "Front Sight",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-23.pdf",
+   "retired": true
+  },
+  "99-24": {
+   "name": "Front Sight 2",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-24.pdf",
+   "retired": true
+  },
+  "99-27": {
+   "name": "Leftys Revenge",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-27.pdf",
+   "retired": true
+  },
+  "99-29": {
+   "name": "Near to Far Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-29.pdf",
+   "retired": true
+  },
+  "99-30": {
+   "name": "Man Down",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-30.pdf",
+   "retired": true
+  },
+  "99-31": {
+   "name": "Slow But Sure",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-31.pdf",
+   "retired": true
+  },
+  "99-32": {
+   "name": "Indoor Rapid Fire Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-32.pdf",
+   "retired": true
+  },
+  "99-33": {
+   "name": "Raw Deal",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-33.pdf",
+   "retired": true
+  },
+  "99-34": {
+   "name": "Ported View",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-34.pdf",
+   "retired": true
+  },
+  "99-35": {
+   "name": "Xmas",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-35.pdf",
+   "retired": true
+  },
+  "99-36": {
+   "name": "After Work Blues",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-36.pdf",
+   "retired": true
+  },
+  "99-37": {
+   "name": "Steel One",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-37.pdf",
+   "retired": true
+  },
+  "99-38": {
+   "name": "The Gauntlet II",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-38.pdf",
+   "retired": true
+  },
+  "99-40": {
+   "name": "Partial People Eaters",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-40.pdf",
+   "retired": true
+  },
+  "99-41": {
+   "name": "Works For Me",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-41.pdf",
+   "retired": true
+  },
+  "99-43": {
+   "name": "Color Blind",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-43.pdf",
+   "retired": true
+  },
+  "99-44": {
+   "name": "Claim Yumpers of Ballard Creek",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-44.pdf",
+   "retired": true
+  },
+  "99-45": {
+   "name": "Easy Street",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-45.pdf",
+   "retired": true
+  },
+  "99-47": {
+   "name": "Triple Choice",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-47.pdf",
+   "retired": true
+  },
+  "99-48": {
+   "name": "Tight Squeeze",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-48.pdf",
+   "retired": true
+  },
+  "99-49": {
+   "name": "Speed-E-Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-49.pdf",
+   "retired": true
+  },
+  "99-50": {
+   "name": "Better Make Sure",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-50.pdf",
+   "retired": true
+  },
+  "99-51": {
+   "name": "Single Tap Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-51.pdf",
+   "retired": true
+  },
+  "99-52": {
+   "name": "Cash n Carry",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-52.pdf",
+   "retired": true
+  },
+  "99-54": {
+   "name": "Tuff Enough Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-54.pdf",
+   "retired": true
+  },
+  "99-56": {
+   "name": "On the Upper Pad II",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-56.pdf",
+   "retired": true
+  },
+  "99-59": {
+   "name": "Lazy Man Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-59.pdf",
+   "retired": true
+  },
+  "99-60": {
+   "name": "Cut and Run",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-60.pdf",
+   "retired": true
+  },
+  "99-61": {
+   "name": "Sit Or Get Off The Shot",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-61.pdf",
+   "retired": true
+  },
+  "99-63": {
+   "name": "Merles Standards",
+   "pdf_url": "https://uspsa.org/viewer/pdf/99-63.pdf",
+   "retired": true
+  }
+ }
 }
