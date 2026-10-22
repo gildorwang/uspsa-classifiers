@@ -3,81 +3,172 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0f2a4a">
 <title>USPSA Classifier Check</title>
 <style>
-  :root { --ok: #1b7f3b; --bad: #b42318; --muted: #667085; --border: #d0d5dd; }
+  :root {
+    --navy: #0f2a4a; --navy-2: #1d4f8a; --red: #c8102e;
+    --ok: #157a3c; --ok-bg: #e6f4ea; --bad: #b42318; --bad-bg: #fdecea;
+    --text: #1a2433; --muted: #637083; --border: #dde3ea; --bg: #eef2f6; --card: #fff;
+    --radius: 12px; --shadow: 0 1px 2px rgba(16,24,40,.06), 0 4px 16px rgba(16,24,40,.08);
+  }
   * { box-sizing: border-box; }
-  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; margin: 0; color: #101828; background: #f9fafb; }
-  main { max-width: 1100px; margin: 0 auto; padding: 1rem; }
-  @media (max-width: 800px) { .table-wrap { overflow-x: auto; } }
-  h1 { font-size: 1.5rem; margin: .5rem 0; }
-  h2 { font-size: 1.15rem; margin: 1.5rem 0 .5rem; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; margin: 0; color: var(--text); background: var(--bg); line-height: 1.4; }
+  a { color: var(--navy-2); }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 0 1rem; }
+
+  header { background: linear-gradient(135deg, var(--navy), var(--navy-2)); color: #fff; padding: 1.6rem 0 4.2rem; border-bottom: 4px solid var(--red); }
+  header h1 { margin: 0; font-size: 1.75rem; letter-spacing: .01em; }
+  header h1 span { color: #ffb4be; }
+  header p { margin: .35rem 0 0; opacity: .85; }
+
+  .card { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); padding: 1.1rem 1.2rem; margin-bottom: 1.25rem; }
+  .search { margin-top: -3rem; position: relative; z-index: 2; }
+  .search-row { display: flex; flex-wrap: wrap; gap: .75rem; align-items: flex-end; }
+  .field { display: flex; flex-direction: column; gap: .3rem; min-width: 0; }
+  .field.grow { flex: 1 1 18rem; }
+  .field > span { font-size: .78rem; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  input[type=text], input[type=number], .dropdown summary {
+    font: inherit; height: 2.75rem; padding: 0 .8rem; border: 1px solid var(--border); border-radius: 8px; background: #fff; color: var(--text);
+  }
+  input[type=text] { width: 100%; min-width: 0; font-size: 1.15rem; }
+  input:focus, .dropdown summary:focus-visible { outline: 2px solid var(--navy-2); outline-offset: 1px; border-color: transparent; }
+  .months { display: flex; align-items: center; gap: .4rem; height: 2.75rem; }
+  input[type=number] { width: 4.5rem; }
+
+  .dropdown { position: relative; }
+  .dropdown summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: .5rem; white-space: nowrap; user-select: none; }
+  .dropdown summary::-webkit-details-marker { display: none; }
+  .dropdown summary::after { content: ""; border: 5px solid transparent; border-top-color: currentColor; margin-top: 5px; }
+  .dropdown .menu { position: absolute; right: 0; top: calc(100% + 6px); background: #fff; border: 1px solid var(--border); border-radius: 10px;
+    box-shadow: var(--shadow); padding: .4rem; min-width: 18rem; max-width: calc(100vw - 2rem); z-index: 10; }
+  .menu label { display: flex; align-items: center; gap: .55rem; padding: .45rem .5rem; border-radius: 6px; cursor: pointer; }
+  .menu label:hover { background: var(--bg); }
+  .menu .actions { display: flex; gap: .5rem; padding: .3rem .5rem .5rem; border-bottom: 1px solid var(--border); margin-bottom: .3rem; }
+  .menu button { font: inherit; font-size: .85rem; background: none; border: 0; color: var(--navy-2); cursor: pointer; padding: 0; }
+  .menu .ext { margin-left: auto; font-size: .8rem; }
+
+  .code { display: inline-block; font: 600 .78rem/1.5 ui-monospace, SFMono-Regular, Consolas, monospace; background: #e8eef6; color: var(--navy); border-radius: 4px; padding: 0 .35rem; }
   .muted { color: var(--muted); font-size: .9rem; }
-  .panel { background: #fff; border: 1px solid var(--border); border-radius: 8px; padding: 1rem; margin-bottom: 1rem; }
-  .controls { display: flex; flex-wrap: wrap; gap: .75rem 1.5rem; align-items: center; }
-  input[type=text] { font-size: 1.1rem; padding: .45rem .6rem; border: 1px solid var(--border); border-radius: 6px; width: 16rem; }
-  input[type=number] { width: 4.5rem; padding: .3rem; border: 1px solid var(--border); border-radius: 6px; }
-  label { white-space: nowrap; }
-  .result { border-left: 4px solid var(--border); padding: .4rem .8rem; margin: .6rem 0; }
-  .result.ok { border-color: var(--ok); }
-  .result.bad { border-color: var(--bad); }
-  .verdict { font-weight: 600; }
-  .ok .verdict, td.ok { color: var(--ok); }
-  .bad .verdict, td.bad { color: var(--bad); }
-  ul { margin: .3rem 0; padding-left: 1.2rem; }
-  li.recent { font-weight: 600; }
-  table { border-collapse: collapse; width: 100%; background: #fff; }
-  th, td { text-align: left; padding: .35rem .5rem; border-bottom: 1px solid #eaecf0; font-size: .92rem; vertical-align: top; }
-  th { cursor: pointer; user-select: none; background: #f2f4f7; position: sticky; top: 0; white-space: nowrap; }
-  th.sorted::after { content: " \25B4"; }
-  th.num, td.num { text-align: right; }
-  th.sorted.desc::after { content: " \25BE"; }
-  a { color: #175cd3; }
   .error { color: var(--bad); font-weight: 600; }
-  a.pdf { font-size: .8rem; font-weight: 600; border: 1px solid currentColor; border-radius: 4px; padding: 0 .3rem; text-decoration: none; }
+  a.pdf { display: inline-block; font-size: .75rem; font-weight: 700; color: var(--red); border: 1.5px solid currentColor; border-radius: 5px; padding: 0 .35rem; text-decoration: none; line-height: 1.5; }
+  a.pdf:hover { background: var(--red); color: #fff; }
+
+  #results:empty { display: none; }
+  .result { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); margin-bottom: 1rem; overflow: hidden; border-top: 6px solid var(--border); }
+  .result.ok { border-top-color: var(--ok); }
+  .result.bad { border-top-color: var(--bad); }
+  .result-head { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1rem; padding: 1rem 1.2rem; }
+  .result-title { flex: 1 1 14rem; min-width: 0; }
+  .result-id { font-size: 1.6rem; font-weight: 800; letter-spacing: .02em; }
+  .result-name { font-size: 1.05rem; margin-left: .3rem; }
+  .verdict { font-weight: 800; font-size: 1rem; padding: .45rem .9rem; border-radius: 999px; white-space: nowrap; }
+  .ok .verdict { background: var(--ok-bg); color: var(--ok); }
+  .bad .verdict { background: var(--bad-bg); color: var(--bad); }
+  .verdict small { font-weight: 500; }
+  .club-list { list-style: none; margin: 0; padding: 0 1.2rem .8rem; }
+  .club-list li { display: flex; flex-wrap: wrap; align-items: baseline; gap: .25rem .6rem; padding: .5rem 0; border-top: 1px solid var(--border); }
+  .club-list .when { margin-left: auto; white-space: nowrap; }
+  .club-list li.recent .when a { color: var(--bad); font-weight: 700; }
+  .tag { font-size: .72rem; font-weight: 700; text-transform: uppercase; padding: .05rem .4rem; border-radius: 4px; background: var(--bad-bg); color: var(--bad); }
+  .result .empty { padding: 0 1.2rem 1rem; }
+
+  .table-head { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1.2rem; margin-bottom: .75rem; }
+  .table-head h2 { margin: 0; font-size: 1.2rem; }
+  .toggle { display: inline-flex; align-items: center; gap: .4rem; cursor: pointer; }
+  .table-wrap { overflow-x: auto; margin: 0 -1.2rem -1.1rem; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { text-align: left; padding: .5rem .6rem; font-size: .92rem; vertical-align: middle; }
+  th:first-child, td:first-child { padding-left: 1.2rem; }
+  th { cursor: pointer; user-select: none; background: #f5f7fa; color: var(--muted); font-size: .78rem; text-transform: uppercase; letter-spacing: .04em;
+    white-space: nowrap; border-bottom: 1px solid var(--border); }
+  th:hover { color: var(--text); }
+  th.sorted { color: var(--navy); }
+  th.sorted::after { content: " \25B4"; }
+  th.sorted.desc::after { content: " \25BE"; }
+  th.num, td.num { text-align: right; }
+  tbody tr { border-bottom: 1px solid #eef1f4; }
+  tbody tr:nth-child(even) { background: #fafbfc; }
+  tbody tr:hover { background: #f0f5fb; }
+  td a.id { font-weight: 700; text-decoration: none; }
+  td.recent .code { background: var(--bad-bg); color: var(--bad); margin: 1px 0; }
+  td.clear { color: var(--ok); font-weight: 600; }
+  footer { text-align: center; padding: 1rem 0 2rem; }
+
+  @media (max-width: 640px) {
+    header { padding: 1.1rem 0 3.6rem; }
+    header h1 { font-size: 1.4rem; }
+    .search-row > .field:not(.grow) { flex: 1 1 auto; }
+    .search-row > .field.clubs { flex-basis: 100%; }
+    .dropdown summary { justify-content: space-between; }
+    .dropdown .menu { left: 0; right: 0; min-width: 0; }
+    .club-list .when { margin-left: 0; }
+    .result-id { font-size: 1.35rem; }
+  }
 </style>
 </head>
 <body>
-<main>
-  <h1>USPSA Classifier Check</h1>
-  <p class="muted">Has a classifier been shot recently by nearby clubs? Data from
-    <a href="https://uspsa.org/classifiers-by-club" target="_blank" rel="noopener">uspsa.org classifiers-by-club</a>.
-    <span id="generated"></span></p>
+<header>
+  <div class="wrap">
+    <h1>USPSA Classifier <span>Check</span></h1>
+    <p>Has a classifier been shot recently by nearby clubs?</p>
+  </div>
+</header>
 
-  <div class="panel">
-    <div class="controls">
-      <label>Classifier(s): <input id="ids" type="text" list="classifier-list" placeholder="e.g. 26-03, 99-08" autofocus></label>
-      <label>Recent = last <input id="months" type="number" min="1" max="120" value="12"> months</label>
+<main class="wrap">
+  <section class="card search">
+    <div class="search-row">
+      <label class="field grow"><span>Classifier(s)</span>
+        <input id="ids" type="text" list="classifier-list" placeholder="e.g. 26-03, 99-08" autocomplete="off" autofocus></label>
+      <div class="field"><span>Recent = last</span>
+        <label class="months"><input id="months" type="number" inputmode="numeric" min="1" max="120" value="12"> months</label></div>
+      <div class="field clubs"><span>Clubs</span>
+        <details class="dropdown" id="clubs-dropdown">
+          <summary id="clubs-summary">All clubs</summary>
+          <div class="menu">
+            <div class="actions"><button type="button" data-all="1">Select all</button><button type="button" data-all="0">Clear</button></div>
+            <div id="clubs"></div>
+          </div>
+        </details></div>
     </div>
-    <div class="controls" id="clubs" style="margin-top:.6rem"></div>
     <datalist id="classifier-list"></datalist>
-    <div id="results"></div>
-  </div>
+  </section>
 
-  <h2>All active classifiers</h2>
-  <div class="controls" style="margin-bottom:.5rem">
-    <label><input id="only-unshot" type="checkbox"> Only show ones not shot recently</label>
-    <span id="summary" class="muted"></span>
-  </div>
-  <div class="table-wrap"><table>
-    <thead><tr>
-      <th data-key="id">Classifier</th>
-      <th data-key="name">Name</th>
-      <th>Stage</th>
-      <th data-key="scoring">Scoring</th>
-      <th data-key="rounds" class="num">Rounds</th>
-      <th data-key="paper_targets" class="num">Paper</th>
-      <th data-key="poppers" class="num">Poppers</th>
-      <th data-key="last">Last shot (any club)</th>
-      <th data-key="recent">Recently shot by</th>
-    </tr></thead>
-    <tbody id="table"></tbody>
-  </table></div>
+  <section id="results" aria-live="polite"></section>
+
+  <section class="card">
+    <div class="table-head">
+      <h2>All active classifiers</h2>
+      <label class="toggle"><input id="only-unshot" type="checkbox"> Only not shot recently</label>
+      <span id="summary" class="muted"></span>
+    </div>
+    <div class="table-wrap"><table>
+      <thead><tr>
+        <th data-key="id">Classifier</th>
+        <th data-key="name">Name</th>
+        <th>Stage</th>
+        <th data-key="scoring">Scoring</th>
+        <th data-key="rounds" class="num">Rounds</th>
+        <th data-key="paper_targets" class="num">Paper</th>
+        <th data-key="poppers" class="num">Poppers</th>
+        <th data-key="last">Last shot</th>
+        <th data-key="recent">Recently shot by</th>
+      </tr></thead>
+      <tbody id="table"></tbody>
+    </table></div>
+  </section>
 </main>
+
+<footer class="muted">
+  Data from <a href="https://uspsa.org/classifiers-by-club" target="_blank" rel="noopener">uspsa.org classifiers-by-club</a>.
+  <span id="generated"></span>
+</footer>
 
 <script>
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const shortName = (club) => club.name.replace(/\s*\(\w+\)$/, "");
+const link = (href, text, cls = "") => `<a${cls ? ` class="${cls}"` : ""} href="${esc(href)}" target="_blank" rel="noopener">${text}</a>`;
 let DATA, sortKey = "last", sortDesc = false;
 
 function cutoff() {
@@ -100,19 +191,24 @@ function shotsById() {
   return map;
 }
 
+function renderClubSummary() {
+  const n = selectedClubs().length, total = DATA.clubs.length;
+  $("clubs-summary").textContent = n === total ? `All clubs (${total})` : n === 0 ? "No clubs" : `${n} of ${total} clubs`;
+}
+
 function renderResults() {
   const ids = $("ids").value.toUpperCase().split(/[\s,;]+/).filter(Boolean);
   const out = $("results");
   if (!ids.length) { out.innerHTML = ""; return; }
   const since = cutoff(), byId = shotsById();
-  const names = new Map(DATA.classifiers.map((c) => [c.id, c]));
+  const active = new Map(DATA.classifiers.map((c) => [c.id, c]));
   const index = DATA.index || {};
   out.innerHTML = ids.map((id) => {
-    if (!/^\d{2}-\d{2}$/.test(id)) return `<div class="result"><span class="error">${esc(id)}</span>: expected a format like 26-03</div>`;
-    const info = names.get(id) || index[id];
-    const pdf = info?.pdf_url ? ` <a class="pdf" href="${esc(info.pdf_url)}" target="_blank" rel="noopener">PDF</a>` : "";
-    const status = names.has(id) ? "" : ` <span class="muted">(${index[id]?.retired ? "retired" : "not an active classifier"})</span>`;
-    const title = `${esc(id)}${info?.name ? ` &ndash; ${esc(info.name)}` : ""}${pdf}${status}`;
+    if (!/^\d{2}-\d{2}$/.test(id))
+      return `<div class="result"><div class="result-head"><span class="error">${esc(id)}</span><span class="muted">Expected a format like 26-03</span></div></div>`;
+    const info = active.get(id) || index[id];
+    const status = active.has(id) ? "" : ` <span class="muted">(${index[id]?.retired ? "retired" : "not an active classifier"})</span>`;
+    const pdf = info?.pdf_url ? " " + link(info.pdf_url, "PDF", "pdf") : "";
     const shots = byId.get(id) || [];
     const perClub = new Map();
     for (const s of shots) {
@@ -122,12 +218,19 @@ function renderResults() {
     const recent = shots.some((s) => s.date >= since);
     const items = [...perClub.values()].map((list) => {
       const last = list[0], isRecent = last.date >= since;
-      const more = list.length > 1 ? ` <span class="muted">(+${list.length - 1} earlier: ${list.slice(1).map((s) => s.date).join(", ")})</span>` : "";
-      const date = last.match_url ? `<a href="${esc(last.match_url)}" target="_blank" rel="noopener">${last.date}</a>` : last.date;
-      return `<li class="${isRecent ? "recent" : ""}">${esc(last.club.name)}: ${date}${isRecent ? " &mdash; recent" : ""}${more}</li>`;
+      const more = list.length > 1 ? `<span class="muted" title="${esc(list.slice(1).map((s) => s.date).join(", "))}">+${list.length - 1} earlier</span>` : "";
+      const date = last.match_url ? link(last.match_url, last.date) : last.date;
+      return `<li class="${isRecent ? "recent" : ""}"><span><span class="code">${esc(last.club.code)}</span> ${esc(shortName(last.club))}</span>
+        <span class="when">${isRecent ? '<span class="tag">recent</span> ' : ""}${date} ${more}</span></li>`;
     }).join("");
-    const verdict = recent ? "Shot recently" : (shots.length ? "OK to use (not shot recently)" : "OK to use (never shot by these clubs)");
-    return `<div class="result ${recent ? "bad" : "ok"}"><div>${title} &mdash; <span class="verdict">${verdict}</span></div>${items ? `<ul>${items}</ul>` : ""}</div>`;
+    const verdict = recent ? "Shot recently" : `OK to use <small>${shots.length ? "· not shot recently" : "· never shot here"}</small>`;
+    return `<article class="result ${recent ? "bad" : "ok"}">
+      <div class="result-head">
+        <div class="result-title"><span class="result-id">${esc(id)}</span><span class="result-name">${esc(info?.name || "")}</span>${pdf}${status}</div>
+        <span class="verdict">${verdict}</span>
+      </div>
+      ${items ? `<ul class="club-list">${items}</ul>` : `<p class="empty muted">No record of this classifier at the selected clubs.</p>`}
+    </article>`;
   }).join("");
 }
 
@@ -148,22 +251,22 @@ function renderTable() {
     return sortDesc ? -r : r;
   });
   $("table").innerHTML = rows.map((r) => `<tr>
-    <td><a href="#" data-id="${esc(r.id)}">${esc(r.id)}</a></td>
+    <td><a class="id" href="#" data-id="${esc(r.id)}">${esc(r.id)}</a></td>
     <td>${esc(r.name)}</td>
-    <td>${r.pdf_url ? `<a class="pdf" href="${esc(r.pdf_url)}" target="_blank" rel="noopener">PDF</a>` : ""}</td>
+    <td>${r.pdf_url ? link(r.pdf_url, "PDF", "pdf") : ""}</td>
     <td>${esc(r.scoring)}</td>
     <td class="num">${esc(r.rounds)}</td>
     <td class="num">${esc(r.paper_targets)}</td>
     <td class="num">${esc(r.poppers)}</td>
-    <td>${r.last ? `${r.last} <span class="muted">(${esc(r.lastClub)})</span>` : '<span class="muted">never</span>'}</td>
-    <td class="${r.recent ? "bad" : "ok"}">${r.recent ? esc(r.recent) : "&ndash;"}</td></tr>`).join("");
+    <td style="white-space:nowrap">${r.last ? `${r.last} <span class="code">${esc(r.lastClub)}</span>` : '<span class="muted">never</span>'}</td>
+    <td class="${r.recent ? "recent" : "clear"}">${r.recent ? r.recent.split(", ").map((c) => `<span class="code">${esc(c)}</span>`).join(" ") : "Clear"}</td></tr>`).join("");
   document.querySelectorAll("th").forEach((th) => {
     th.classList.toggle("sorted", th.dataset.key === sortKey);
     th.classList.toggle("desc", th.dataset.key === sortKey && sortDesc);
   });
 }
 
-function render() { renderResults(); renderTable(); }
+function render() { renderClubSummary(); renderResults(); renderTable(); }
 
 async function init() {
   try {
@@ -171,13 +274,14 @@ async function init() {
     if (!resp.ok) throw new Error(resp.status);
     DATA = await resp.json();
   } catch (e) {
-    $("results").innerHTML = `<p class="error">Could not load data.json (${esc(e.message)}).</p>`;
+    $("results").innerHTML = `<div class="card error">Could not load data.json (${esc(e.message)}).</div>`;
     return;
   }
   $("generated").textContent = `Last updated ${new Date(DATA.generated_at).toLocaleString()}.`;
   $("classifier-list").innerHTML = DATA.classifiers.map((c) => `<option value="${esc(c.id)}">${esc(c.name)}</option>`).join("");
-  $("clubs").innerHTML = "Clubs: " + DATA.clubs.map((c) =>
-    `<label title="${esc(c.name)}"><input type="checkbox" id="club-${esc(c.code)}" checked> <a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.code)}</a> ${esc(c.name.replace(/\s*\(\w+\)$/, ""))}</label>`).join(" ");
+  $("clubs").innerHTML = DATA.clubs.map((c) =>
+    `<label><input type="checkbox" id="club-${esc(c.code)}" checked><span class="code">${esc(c.code)}</span> ${esc(shortName(c))}
+      ${link(c.url, "&#8599;", "ext")}</label>`).join("");
 
   const params = new URLSearchParams(location.search);
   if (params.get("ids")) $("ids").value = params.get("ids");
@@ -191,8 +295,16 @@ async function init() {
   });
   $("months").addEventListener("input", render);
   $("clubs").addEventListener("change", render);
+  document.querySelectorAll(".menu [data-all]").forEach((b) => b.addEventListener("click", () => {
+    DATA.clubs.forEach((c) => { $("club-" + c.code).checked = b.dataset.all === "1"; });
+    render();
+  }));
+  document.addEventListener("click", (e) => {
+    const dd = $("clubs-dropdown");
+    if (dd.open && !dd.contains(e.target)) dd.open = false;
+  });
   $("only-unshot").addEventListener("change", renderTable);
-  document.querySelectorAll("th").forEach((th) => th.addEventListener("click", () => {
+  document.querySelectorAll("th[data-key]").forEach((th) => th.addEventListener("click", () => {
     if (sortKey === th.dataset.key) sortDesc = !sortDesc; else { sortKey = th.dataset.key; sortDesc = false; }
     renderTable();
   }));
