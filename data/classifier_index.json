@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "03-03",
+    "name": "Take em Down",
+    "scoring": "Comstock",
+    "rounds": "11",
+    "viewer_url": "https://uspsa.org/viewer/03-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-03.pdf",
+    "retired": false
+  },
+  {
+    "id": "03-05",
+    "name": "Paper Poppers",
+    "scoring": "Comstock",
+    "rounds": "10",
+    "viewer_url": "https://uspsa.org/viewer/03-05.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-05.pdf",
+    "retired": false
+  },
+  {
+    "id": "03-07",
+    "name": "Riverdale Standards",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/03-07.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-07.pdf",
+    "retired": false
+  },
+  {
+    "id": "03-08",
+    "name": "Madness",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/03-08.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-08.pdf",
+    "retired": false
+  },
+  {
+    "id": "03-09",
+    "name": "On the Move",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/03-09.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-09.pdf",
+    "retired": false
+  },
+  {
+    "id": "03-18",
+    "name": "High Standards",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/03-18.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-18.pdf",
+    "retired": false
+  },
+  {
+    "id": "06-03",
+    "name": "Can You Count",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/06-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/06-03.pdf",
+    "retired": false
+  },
+  {
+    "id": "06-04",
+    "name": "Fluffy's Revenge 1",
+    "scoring": "Comstock",
+    "rounds": "8",
+    "viewer_url": "https://uspsa.org/viewer/06-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/06-04.pdf",
+    "retired": false
+  },
+  {
+    "id": "06-05",
+    "name": "Fluffy's Revenge 2",
+    "scoring": "Comstock",
+    "rounds": "8",
+    "viewer_url": "https://uspsa.org/viewer/06-05.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/06-05.pdf",
+    "retired": false
+  },
+  {
+    "id": "06-10",
+    "name": "Steely Speed VII",
+    "scoring": "Comstock",
+    "rounds": "6",
+    "viewer_url": "https://uspsa.org/viewer/06-10.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/06-10.pdf",
+    "retired": false
+  },
+  {
+    "id": "08-02",
+    "name": "Steeler Standards",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/08-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/08-02.pdf",
+    "retired": false
+  },
+  {
+    "id": "08-03",
+    "name": "Six",
+    "scoring": "Comstock",
+    "rounds": "6",
+    "viewer_url": "https://uspsa.org/viewer/08-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/08-03.pdf",
+    "retired": false
+  },
+  {
+    "id": "09-10",
+    "name": "Life's Little Problems",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/09-10.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-10.pdf",
+    "retired": false
+  },
+  {
+    "id": "13-02",
+    "name": "Down The Middle",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/13-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/13-02.pdf",
+    "retired": false
+  },
+  {
+    "id": "13-04",
+    "name": "The Roscoe Rattle",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/13-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/13-04.pdf",
+    "retired": false
+  },
+  {
+    "id": "13-05",
+    "name": "Tick Tock",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/13-05.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/13-05.pdf",
+    "retired": false
+  },
+  {
+    "id": "13-06",
+    "name": "Too Close For Comfort",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/13-06.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/13-06.pdf",
+    "retired": false
+  },
+  {
+    "id": "18-03",
+    "name": "We Play Games",
+    "scoring": "Virginia",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/18-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/18-03.pdf",
+    "retired": false
+  },
+  {
+    "id": "18-05",
+    "name": "No Need To Believe In Either Side",
+    "scoring": "Comstock",
+    "rounds": "16",
+    "viewer_url": "https://uspsa.org/viewer/18-05.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/18-05.pdf",
+    "retired": false
+  },
+  {
+    "id": "18-07",
+    "name": "Someone Is Always Willing To Pay",
+    "scoring": "Comstock",
+    "rounds": "8",
+    "viewer_url": "https://uspsa.org/viewer/18-07.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/18-07.pdf",
+    "retired": false
+  },
+  {
+    "id": "18-08",
+    "name": "The Condor",
+    "scoring": "Virginia",
+    "rounds": "16",
+    "viewer_url": "https://uspsa.org/viewer/18-08.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/18-08.pdf",
+    "retired": false
+  },
+  {
+    "id": "18-09",
+    "name": "I Miss That Kind of Clarity",
+    "scoring": "Virginia",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/18-09.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/18-09.pdf",
+    "retired": false
+  },
+  {
+    "id": "19-01",
+    "name": "HI-Jinx",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/19-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/19-01.pdf",
+    "retired": false
+  },
+  {
+    "id": "19-02",
+    "name": "HI-Way Robbery",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/19-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/19-02.pdf",
+    "retired": false
+  },
+  {
+    "id": "19-04",
+    "name": "HI Cost of Living",
+    "scoring": "Comstock",
+    "rounds": "14",
+    "viewer_url": "https://uspsa.org/viewer/19-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/19-04.pdf",
+    "retired": false
+  },
+  {
+    "id": "20-01",
+    "name": "Wish You Were Here",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/20-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/20-01.pdf",
+    "retired": false
+  },
+  {
+    "id": "20-02",
+    "name": "Deja Vu",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/20-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/20-02.pdf",
+    "retired": false
+  },
+  {
+    "id": "20-03",
+    "name": "Deja Vu All Over Again",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/20-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/20-03.pdf",
+    "retired": false
+  },
+  {
+    "id": "21-01",
+    "name": "8 x 3 Trigger Freeze",
+    "scoring": "Comstock",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/21-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/21-01.pdf",
+    "retired": false
+  },
+  {
+    "id": "22-01",
+    "name": "Righty Tighty",
+    "scoring": "Comstock",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/22-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/22-01.pdf",
+    "retired": false
+  },
+  {
+    "id": "22-02",
+    "name": "Lefty Loosey",
+    "scoring": "Comstock",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/22-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/22-02.pdf",
+    "retired": false
+  },
+  {
+    "id": "22-04",
+    "name": "Calm Before the Storm",
+    "scoring": "Virginia",
+    "rounds": "16",
+    "viewer_url": "https://uspsa.org/viewer/22-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/22-04.pdf",
+    "retired": false
+  },
+  {
+    "id": "22-06",
+    "name": "Blues Don't Care",
+    "scoring": "Comstock",
+    "rounds": "7",
+    "viewer_url": "https://uspsa.org/viewer/22-06.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/22-06.pdf",
+    "retired": false
+  },
+  {
+    "id": "22-07",
+    "name": "Cross Road Blues",
+    "scoring": "Comstock",
+    "rounds": "14",
+    "viewer_url": "https://uspsa.org/viewer/22-07.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/22-07.pdf",
+    "retired": false
+  },
+  {
+    "id": "23-01",
+    "name": "THS Short Course",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/23-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/23-01.pdf",
+    "retired": false
+  },
+  {
+    "id": "23-02",
+    "name": "This could be the Greatest Night of Our Lives",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/23-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/23-02.pdf",
+    "retired": false
+  },
+  {
+    "id": "24-01",
+    "name": "Can you Strong and Weak Hand?",
+    "scoring": "Virginia",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/24-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/24-01.pdf",
+    "retired": false
+  },
+  {
+    "id": "24-02",
+    "name": "This is more better now",
+    "scoring": "Comstock",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/24-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/24-02.pdf",
+    "retired": false
+  },
+  {
+    "id": "24-04",
+    "name": "The Thrill of the Bill Drill",
+    "scoring": "Virginia",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/24-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/24-04.pdf",
+    "retired": false
+  },
+  {
+    "id": "24-06",
+    "name": "Surely you can\u2019t be serious",
+    "scoring": "Comstock",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/24-06.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/24-06.pdf",
+    "retired": false
+  },
+  {
+    "id": "24-08",
+    "name": "And now for something completely different",
+    "scoring": "Comstock",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/24-08.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/24-08.pdf",
+    "retired": false
+  },
+  {
+    "id": "24-09",
+    "name": "Tres Cajas",
+    "scoring": "Comstock",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/24-09.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/24-09.pdf",
+    "retired": false
+  },
+  {
+    "id": "25-01",
+    "name": "Return to Monke",
+    "scoring": "Comstock",
+    "rounds": "19",
+    "viewer_url": "https://uspsa.org/viewer/25-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/25-01.pdf",
+    "retired": false
+  },
+  {
+    "id": "25-02",
+    "name": "Look at Me I Am the Captain Now",
+    "scoring": "Comstock",
+    "rounds": "10",
+    "viewer_url": "https://uspsa.org/viewer/25-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/25-02.pdf",
+    "retired": false
+  },
+  {
+    "id": "25-03",
+    "name": "Let Him Cook",
+    "scoring": "Comstock",
+    "rounds": "10",
+    "viewer_url": "https://uspsa.org/viewer/25-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/25-03.pdf",
+    "retired": false
+  },
+  {
+    "id": "25-04",
+    "name": "We Did Our Homework",
+    "scoring": "Comstock",
+    "rounds": "10",
+    "viewer_url": "https://uspsa.org/viewer/25-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/25-04.pdf",
+    "retired": false
+  },
+  {
+    "id": "25-05",
+    "name": "Its All Porta the Plan",
+    "scoring": "Comstock",
+    "rounds": "16",
+    "viewer_url": "https://uspsa.org/viewer/25-05.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/25-05.pdf",
+    "retired": false
+  },
+  {
+    "id": "25-06",
+    "name": "They All Count",
+    "scoring": "Comstock",
+    "rounds": "14",
+    "viewer_url": "https://uspsa.org/viewer/25-06.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/25-06.pdf",
+    "retired": false
+  },
+  {
+    "id": "25-07",
+    "name": "Absolute Cinema",
+    "scoring": "Comstock",
+    "rounds": "14",
+    "viewer_url": "https://uspsa.org/viewer/25-07.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/25-07.pdf",
+    "retired": false
+  },
+  {
+    "id": "25-08",
+    "name": "We Lost Hero or Zero",
+    "scoring": "Comstock",
+    "rounds": "10",
+    "viewer_url": "https://uspsa.org/viewer/25-08.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/25-08.pdf",
+    "retired": false
+  },
+  {
+    "id": "25-09",
+    "name": "Descent Into Madness",
+    "scoring": "Virginia",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/25-09.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/25-09.pdf",
+    "retired": false
+  },
+  {
+    "id": "26-01",
+    "name": "King Crab",
+    "scoring": "Comstock",
+    "rounds": "14",
+    "viewer_url": "https://uspsa.org/viewer/26-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/26-01.pdf",
+    "retired": false
+  },
+  {
+    "id": "26-02",
+    "name": "Darwinism",
+    "scoring": "Comstock",
+    "rounds": "14",
+    "viewer_url": "https://uspsa.org/viewer/26-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/26-02.pdf",
+    "retired": false
+  },
+  {
+    "id": "26-03",
+    "name": "Mike Who",
+    "scoring": "Comstock",
+    "rounds": "10",
+    "viewer_url": "https://uspsa.org/viewer/26-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/26-03.pdf",
+    "retired": false
+  },
+  {
+    "id": "26-04",
+    "name": "Uprange Seriously",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/26-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/26-04.pdf",
+    "retired": false
+  },
+  {
+    "id": "26-05",
+    "name": "Downrange Obviously",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/26-05.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/26-05.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-08",
+    "name": "Melody Line",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-08.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-08.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-10",
+    "name": "Times Two",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/99-10.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-10.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-11",
+    "name": "El Presidente",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-11.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-11.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-12",
+    "name": "Take Your Choice",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/99-12.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-12.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-13",
+    "name": "Quicky II",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-13.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-13.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-19",
+    "name": "Paynes Pain",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-19.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-19.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-28",
+    "name": "Hillbillton Drill",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/99-28.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-28.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-42",
+    "name": "Fast n Furious",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/99-42.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-42.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-46",
+    "name": "Close Quarter Standards",
+    "scoring": "Comstock",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/99-46.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-46.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-53",
+    "name": "Triple Play",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/99-53.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-53.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-57",
+    "name": "Bookouts Boogie",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/99-57.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-57.pdf",
+    "retired": false
+  },
+  {
+    "id": "99-62",
+    "name": "Bang and Clang",
+    "scoring": "Comstock",
+    "rounds": "6",
+    "viewer_url": "https://uspsa.org/viewer/99-62.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-62.pdf",
+    "retired": false
+  },
+  {
+    "id": "03-02",
+    "name": "Six Chickens",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/03-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-02.pdf",
+    "retired": true
+  },
+  {
+    "id": "03-04",
+    "name": "3-V",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/03-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-04.pdf",
+    "retired": true
+  },
+  {
+    "id": "03-10",
+    "name": "Area 5 Standards",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/03-10.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-10.pdf",
+    "retired": true
+  },
+  {
+    "id": "03-11",
+    "name": "El Strong & Weak Pres",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/03-11.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-11.pdf",
+    "retired": true
+  },
+  {
+    "id": "03-12",
+    "name": "Ironsides",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/03-12.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-12.pdf",
+    "retired": true
+  },
+  {
+    "id": "03-14",
+    "name": "Baseball Standards",
+    "scoring": "Fixed Time",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/03-14.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/03-14.pdf",
+    "retired": true
+  },
+  {
+    "id": "06-01",
+    "name": "Big Barricade",
+    "scoring": "Comstock",
+    "rounds": "14",
+    "viewer_url": "https://uspsa.org/viewer/06-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/06-01.pdf",
+    "retired": true
+  },
+  {
+    "id": "06-02",
+    "name": "Big Barricade II",
+    "scoring": "Comstock",
+    "rounds": "16",
+    "viewer_url": "https://uspsa.org/viewer/06-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/06-02.pdf",
+    "retired": true
+  },
+  {
+    "id": "06-06",
+    "name": "Golden Bullet Standards",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/06-06.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/06-06.pdf",
+    "retired": true
+  },
+  {
+    "id": "06-07",
+    "name": "Steely Speed IV",
+    "scoring": "Comstock",
+    "rounds": "6",
+    "viewer_url": "https://uspsa.org/viewer/06-07.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/06-07.pdf",
+    "retired": true
+  },
+  {
+    "id": "06-08",
+    "name": "Steely Speed V",
+    "scoring": "Comstock",
+    "rounds": "6",
+    "viewer_url": "https://uspsa.org/viewer/06-08.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/06-08.pdf",
+    "retired": true
+  },
+  {
+    "id": "06-09",
+    "name": "Steely Speed VI",
+    "scoring": "Comstock",
+    "rounds": "6",
+    "viewer_url": "https://uspsa.org/viewer/06-09.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/06-09.pdf",
+    "retired": true
+  },
+  {
+    "id": "08-01",
+    "name": "4 Bill Drill",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/08-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/08-01.pdf",
+    "retired": true
+  },
+  {
+    "id": "08-04",
+    "name": "Seven",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/08-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/08-04.pdf",
+    "retired": true
+  },
+  {
+    "id": "08-05",
+    "name": "Long Range Standards 2",
+    "scoring": "Fixed Time",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/08-05.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/08-05.pdf",
+    "retired": true
+  },
+  {
+    "id": "08-06",
+    "name": "Area 4 Standards",
+    "scoring": "Fixed Time",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/08-06.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/08-06.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-01",
+    "name": "Six In Six Challenge",
+    "scoring": "Fixed Time",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/09-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-01.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-02",
+    "name": "Diamond Cutter",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/09-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-02.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-03",
+    "name": "Oh No",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/09-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-03.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-04",
+    "name": "Pucker Factor",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/09-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-04.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-05",
+    "name": "Quad Standards",
+    "scoring": "Fixed Time",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/09-05.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-05.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-06",
+    "name": "Quad Standards 2",
+    "scoring": "Fixed Time",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/09-06.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-06.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-07",
+    "name": "It's Not Brain Surgery",
+    "scoring": "Comstock",
+    "rounds": "6",
+    "viewer_url": "https://uspsa.org/viewer/09-07.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-07.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-08",
+    "name": "Crackerjack",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/09-08.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-08.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-09",
+    "name": "Lightning And Thunder",
+    "scoring": "Fixed Time",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/09-09.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-09.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-11",
+    "name": "Razor's Edge",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/09-11.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-11.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-12",
+    "name": "Any Given Sunday",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/09-12.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-12.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-13",
+    "name": "Table Stakes",
+    "scoring": "Comstock",
+    "rounds": "7",
+    "viewer_url": "https://uspsa.org/viewer/09-13.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-13.pdf",
+    "retired": true
+  },
+  {
+    "id": "09-14",
+    "name": "Eye Of The Tiger",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/09-14.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/09-14.pdf",
+    "retired": true
+  },
+  {
+    "id": "13-01",
+    "name": "Disaster Factor",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/13-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/13-01.pdf",
+    "retired": true
+  },
+  {
+    "id": "13-03",
+    "name": "Short Sprint Standards",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/13-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/13-03.pdf",
+    "retired": true
+  },
+  {
+    "id": "13-07",
+    "name": "Double Deal 2",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/13-07.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/13-07.pdf",
+    "retired": true
+  },
+  {
+    "id": "13-08",
+    "name": "More Disaster Factor",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/13-08.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/13-08.pdf",
+    "retired": true
+  },
+  {
+    "id": "13-09",
+    "name": "Window Pain",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/13-09.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/13-09.pdf",
+    "retired": true
+  },
+  {
+    "id": "18-01",
+    "name": "Of Course It Did",
+    "scoring": "Virginia",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/18-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/18-01.pdf",
+    "retired": true
+  },
+  {
+    "id": "18-02",
+    "name": "What Is With You People",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/18-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/18-02.pdf",
+    "retired": true
+  },
+  {
+    "id": "18-04",
+    "name": "Didn\u2019t You Send The Mailman",
+    "scoring": "Virginia",
+    "rounds": "6",
+    "viewer_url": "https://uspsa.org/viewer/18-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/18-04.pdf",
+    "retired": true
+  },
+  {
+    "id": "18-06",
+    "name": "For That Day",
+    "scoring": "Virginia",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/18-06.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/18-06.pdf",
+    "retired": true
+  },
+  {
+    "id": "19-03",
+    "name": "HI'er Love",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/19-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/19-03.pdf",
+    "retired": true
+  },
+  {
+    "id": "22-05",
+    "name": "Win Some Lose Some",
+    "scoring": "Fixed Time",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/22-05.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/22-05.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-01",
+    "name": "Back to Basics Standards",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-01.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-01.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-02",
+    "name": "Night Moves",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-02.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-02.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-03",
+    "name": "Celeritas and Diligentia",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-03.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-03.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-04",
+    "name": "American Standard",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-04.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-04.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-05",
+    "name": "Mob Job",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-05.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-05.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-06",
+    "name": "Toe The Line",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-06.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-06.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-07",
+    "name": "Both Sides Now #1",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-07.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-07.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-09",
+    "name": "Long Range Standards",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-09.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-09.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-14",
+    "name": "Hoser Heaven",
+    "scoring": "Fixed Time",
+    "rounds": "18",
+    "viewer_url": "https://uspsa.org/viewer/99-14.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-14.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-15",
+    "name": "Dilegentia and Celeritas",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-15.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-15.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-16",
+    "name": "Both Sides Now #2",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/99-16.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-16.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-17",
+    "name": "Its All in the Upper Zone",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-17.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-17.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-18",
+    "name": "You Snooze, You Lose",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-18.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-18.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-20",
+    "name": "Fish House Encounter",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-20.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-20.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-21",
+    "name": "Mini Mart",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-21.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-21.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-22",
+    "name": "Nueve El Presidente",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-22.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-22.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-23",
+    "name": "Front Sight",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-23.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-23.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-24",
+    "name": "Front Sight 2",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-24.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-24.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-27",
+    "name": "Leftys Revenge",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-27.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-27.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-29",
+    "name": "Near to Far Standards",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-29.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-29.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-30",
+    "name": "Man Down",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-30.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-30.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-31",
+    "name": "Slow But Sure",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-31.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-31.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-32",
+    "name": "Indoor Rapid Fire Standards",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-32.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-32.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-33",
+    "name": "Raw Deal",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-33.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-33.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-34",
+    "name": "Ported View",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-34.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-34.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-35",
+    "name": "Xmas",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-35.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-35.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-36",
+    "name": "After Work Blues",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-36.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-36.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-37",
+    "name": "Steel One",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-37.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-37.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-38",
+    "name": "The Gauntlet II",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-38.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-38.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-40",
+    "name": "Partial People Eaters",
+    "scoring": "Fixed Time",
+    "rounds": "24",
+    "viewer_url": "https://uspsa.org/viewer/99-40.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-40.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-41",
+    "name": "Works For Me",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/99-41.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-41.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-43",
+    "name": "Color Blind",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-43.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-43.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-44",
+    "name": "Claim Yumpers of Ballard Creek",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-44.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-44.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-45",
+    "name": "Easy Street",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-45.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-45.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-47",
+    "name": "Triple Choice",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-47.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-47.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-48",
+    "name": "Tight Squeeze",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-48.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-48.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-49",
+    "name": "Speed-E-Standards",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-49.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-49.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-50",
+    "name": "Better Make Sure",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-50.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-50.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-51",
+    "name": "Single Tap Standards",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-51.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-51.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-52",
+    "name": "Cash n Carry",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-52.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-52.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-54",
+    "name": "Tuff Enough Standards",
+    "scoring": "",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-54.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-54.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-56",
+    "name": "On the Upper Pad II",
+    "scoring": "Comstock",
+    "rounds": "12",
+    "viewer_url": "https://uspsa.org/viewer/99-56.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-56.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-59",
+    "name": "Lazy Man Standards",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-59.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-59.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-60",
+    "name": "Cut and Run",
+    "scoring": "Comstock",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-60.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-60.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-61",
+    "name": "Sit Or Get Off The Shot",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-61.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-61.pdf",
+    "retired": true
+  },
+  {
+    "id": "99-63",
+    "name": "Merles Standards",
+    "scoring": "Virginia",
+    "rounds": "-",
+    "viewer_url": "https://uspsa.org/viewer/99-63.pdf",
+    "pdf_url": "https://uspsa.org/viewer/pdf/99-63.pdf",
+    "retired": true
+  }
+]
