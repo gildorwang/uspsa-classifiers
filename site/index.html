@@ -121,7 +121,7 @@
       <label class="field grow"><span>Classifier(s)</span>
         <input id="ids" type="text" list="classifier-list" placeholder="e.g. 26-03, 99-08" autocomplete="off" autofocus></label>
       <div class="field"><span>Recent = last</span>
-        <label class="months"><input id="months" type="number" inputmode="numeric" min="1" max="120" value="12"> months</label></div>
+        <label class="months"><input id="months" type="number" inputmode="numeric" min="1" max="120" value="3"> months</label></div>
       <div class="field clubs"><span>Clubs</span>
         <details class="dropdown" id="clubs-dropdown">
           <summary id="clubs-summary">All clubs</summary>
@@ -172,7 +172,7 @@ const link = (href, text, cls = "") => `<a${cls ? ` class="${cls}"` : ""} href="
 let DATA, sortKey = "last", sortDesc = false;
 
 function cutoff() {
-  const months = Math.max(1, Number($("months").value) || 12);
+  const months = Math.max(1, Number($("months").value) || 3);
   const d = new Date();
   d.setMonth(d.getMonth() - months);
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;

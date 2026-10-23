@@ -15,7 +15,7 @@ Active (non-retired) USPSA classifier stage data scraped from https://uspsa.org/
 ```
 pip install curl_cffi
 python scripts/check_classifier.py 26-03 99-08      # per-club last-shot dates; exit code 1 if any shot recently
-python scripts/check_classifier.py 26-03 --months 6 # change the "recent" window (default 12 months)
+python scripts/check_classifier.py 26-03 --months 6 # change the "recent" window (default 3 months)
 python scripts/check_classifier.py --recent         # every classifier shot by these clubs in the window
 python scripts/check_classifier.py --unshot         # active classifiers none of them shot in the window
 python scripts/check_classifier.py 26-03 --clubs NW01,NW02
