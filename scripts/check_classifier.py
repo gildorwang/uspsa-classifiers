@@ -139,7 +139,7 @@ def report_unshot(data, cutoff, active):
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("ids", nargs="*", help='classifier IDs like "26-03"')
-    p.add_argument("--months", type=int, default=12, help="what counts as 'recent' (default: 12)")
+    p.add_argument("--months", type=int, default=3, help="what counts as 'recent' (default: 3)")
     p.add_argument("--clubs", default=",".join(DEFAULT_CLUBS),
                    help=f"comma-separated club codes (default: {','.join(DEFAULT_CLUBS)})")
     p.add_argument("--recent", action="store_true", help="list every classifier shot in the window")
