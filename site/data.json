@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T06:41:49+00:00",
+ "generated_at": "2026-10-29T06:44:40+00:00",
  "clubs": [
   {
    "code": "NW01",
@@ -1620,6 +1620,11 @@
    "name": "Renton Shooting Association (NW05)",
    "url": "https://uspsa.org/classifiers-by-club?action=show&club=NW05",
    "shots": [
+    {
+     "id": "26-03",
+     "date": "2026-10-25",
+     "match_url": "https://uspsa.org/match-results-details?index=72859"
+    },
     {
      "id": "18-09",
      "date": "2026-09-27",
