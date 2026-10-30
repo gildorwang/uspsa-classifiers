@@ -10,7 +10,7 @@ Active (non-retired) USPSA classifier stage data scraped from https://uspsa.org/
 ## Check if nearby clubs shot a classifier recently
 
 `scripts/check_classifier.py` scrapes https://uspsa.org/classifiers-by-club for local clubs
-(default: NW01, NW02, NW05, NW07, NW15) and reports when each one last shot a classifier.
+(default: NW01, NW02, NW05, NW07, NW15, NW16) and reports when each one last shot a classifier.
 
 ```
 pip install curl_cffi

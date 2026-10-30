@@ -23,7 +23,7 @@ from curl_cffi import requests
 ROOT = Path(__file__).resolve().parent.parent
 CLASSIFIERS_JSON = ROOT / "data" / "classifiers.json"
 URL = "https://uspsa.org/classifiers-by-club?action=show&club={club}"
-DEFAULT_CLUBS = ["NW01", "NW02", "NW05", "NW07", "NW15"]
+DEFAULT_CLUBS = ["NW01", "NW02", "NW05", "NW07", "NW15", "NW16"]
 
 ID_RE = re.compile(r"^\d{2}-\d{2}$")
 CLUB_NAME_RE = re.compile(r"<h4>\s*Classifiers shot at\s*(.*?)\s*</h4>", re.S)
