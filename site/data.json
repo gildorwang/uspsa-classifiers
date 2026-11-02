@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T04:57:01+00:00",
+ "generated_at": "2026-11-02T16:07:11+00:00",
  "clubs": [
   {
    "code": "NW01",
@@ -2137,6 +2137,11 @@
    "name": "Custer Sportsmens Club (NW07)",
    "url": "https://uspsa.org/classifiers-by-club?action=show&club=NW07",
    "shots": [
+    {
+     "id": "22-04",
+     "date": "2026-11-01",
+     "match_url": "https://uspsa.org/match-results-details?index=72997"
+    },
     {
      "id": "25-08",
      "date": "2026-10-04",
