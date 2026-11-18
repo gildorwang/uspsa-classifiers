@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T06:26:40+00:00",
+ "generated_at": "2026-11-18T04:43:52+00:00",
  "clubs": [
   {
    "code": "NW01",
@@ -3591,6 +3591,11 @@
    "name": "Evergreen Practical Shooting (NW16)",
    "url": "https://uspsa.org/classifiers-by-club?action=show&club=NW16",
    "shots": [
+    {
+     "id": "18-05",
+     "date": "2026-11-14",
+     "match_url": "https://uspsa.org/match-results-details?index=73248"
+    },
     {
      "id": "26-05",
      "date": "2026-10-10",
