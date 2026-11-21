@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T04:43:52+00:00",
+ "generated_at": "2026-11-21T05:02:55+00:00",
  "clubs": [
   {
    "code": "NW01",
@@ -1183,6 +1183,11 @@
    "name": "Marysville Rifle Club Practical Shooters (NW02)",
    "url": "https://uspsa.org/classifiers-by-club?action=show&club=NW02",
    "shots": [
+    {
+     "id": "23-01",
+     "date": "2026-11-15",
+     "match_url": "https://uspsa.org/match-results-details?index=73264"
+    },
     {
      "id": "03-05",
      "date": "2026-09-20",
